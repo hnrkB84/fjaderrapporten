@@ -1,15 +1,9 @@
 import requests
 import json
-import os
 from datetime import datetime
-from urllib.parse import urlencode
-
-# === KONFIGURATION ===
-API_KEY = os.getenv("Ocp_Apim_Subscription_Key")
-API_URL_BASE = "https://api.artdatabanken.se/species-observation-system/v1/Observations/Search"
 
 headers = {
-    "Ocp-Apim-Subscription-Key": API_KEY,
+    "Ocp-Apim-Subscription-Key": "din-api-nyckel-hämtas-från-secrets",
     "Content-Type": "application/json",
     "X-Api-Version": "1.5"
 }
@@ -25,9 +19,7 @@ payload = {
                 "areaType": "Municipality",
                 "featureId": "686"
             }
-        ],
-        "considerDisturbanceRadius": False,
-        "considerObservationAccuracy": False
+        ]
     },
     "date": {
         "startDate": "2024-01-01",
@@ -40,63 +32,38 @@ payload = {
             "location.name",
             "taxon.vernacularName",
             "taxon.scientificName",
-            "reportedBy.fullName",
-            "event.activity",
-            "event.individualCount"
+            "recordedBy",
+            "event.quantity",
+            "event.activity"
         ]
     }
 }
 
-# === ANROP ===
 def hamta_fagelfynd():
     print("⏳ Hämtar fågelfynd från Artportalen...")
 
-    query_params = {
-        "skip": 0,
-        "take": 500,
-        "sortBy": "event.startDate",
-        "sortOrder": "Desc"
-    }
-    full_url = f"{API_URL_BASE}?{urlencode(query_params)}"
+    full_url = "https://api.artdatabanken.se/species-observation-system/v1/Observations/Search?skip=0&take=15&sortBy=event.startDate&sortOrder=Desc"
 
-    try:
-        response = requests.post(full_url, headers=headers, json=payload, timeout=15)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print(f"🚨 Fel vid API-anrop: {e}")
-        return
-
-    print("✅ API-svar mottaget")
+    response = requests.post(full_url, headers=headers, json=payload, timeout=15)
     data = response.json()
     observationer = []
 
     for record in data.get("records", []):
-        art = record.get("taxon", {}).get("vernacularName", "okänd art")
-        scientific_name = record.get("taxon", {}).get("scientificName", "okänt namn")
-        datum_str = record.get("event", {}).get("startDate")
-        lokal = record.get("location", {}).get("name") or "Eksjö"
-        antal = record.get("event", {}).get("individualCount", 1)
-
-        if datum_str and datum_str >= "2025-04-01":
-            observationer.append({
-                "art": art,
-                "scientificName": scientific_name,
-                "datum": datum_str,
-                "lokal": lokal,
-                "antal": antal
-            })
-
-    senaste_15 = observationer[:15]
+        obs = {
+            "art": record.get("taxon", {}).get("vernacularName", "okänd"),
+            "scientificName": record.get("taxon", {}).get("scientificName", "okänt"),
+            "datum": record.get("event", {}).get("startDate", ""),
+            "lokal": record.get("location", {}).get("name", "okänd plats"),
+            "rapporteradAv": record.get("recordedBy", "okänd observatör"),
+            "antal": record.get("event", {}).get("quantity", 1),
+            "observationstyp": record.get("event", {}).get("activity", "okänd")
+        }
+        observationer.append(obs)
 
     with open("data/eksjo_faglar_apiresponse.json", "w", encoding="utf-8") as f:
-        json.dump(senaste_15, f, ensure_ascii=False, indent=2)
+        json.dump(observationer, f, ensure_ascii=False, indent=2)
 
-    print(f"📝 Sparade {len(senaste_15)} fynd till data/eksjo_faglar_apiresponse.json")
+    print(f"✅ {len(observationer)} observationer sparade.")
 
-# === KÖR ===
 if __name__ == "__main__":
-    if not API_KEY:
-        print("❌ API-nyckel saknas! Lägg till Ocp_Apim_Subscription_Key som GitHub secret.")
-    else:
-        hamta_fagelfynd()
-# Din riktiga scriptkod ska in här
+    hamta_fagelfynd()
