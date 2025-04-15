@@ -2,7 +2,7 @@ name: Hämta fåglar varje 30:e minut
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,22 +15,23 @@ jobs:
       - name: Installera Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Installera requests
         run: pip install requests
 
       - name: Kör Python-script
         env:
-          Ocp_Apim_Subscription_Key: ${{ secrets.Ocp_Apim_Subscription_Key }}
-        run: python3 hamta_faglar.py
-        
+          Ocp_Apim_Subscription_Key: ${{ secrets.OCP_APIM_SUBSCRIPTION_KEY }}
+        run: |
+          python3 hamta_faglar.py
+
       - name: Lägg till och commita ändringar
         run: |
           git config --global user.name "Fjäderbot"
           git config --global user.email "bot@fjaderrapporten.se"
           git add data/eksjo_faglar_apiresponse.json
-          git commit -m "🔄 Automatisk uppdatering av fågelfynd" || echo "Inget att commita"
+          git commit -m "🔄 Automatisk uppdatering av fågelfynd" || echo "Inget nytt att commita"
 
       - name: Pusha tillbaka till main
         uses: ad-m/github-push-action@v0.6.0
