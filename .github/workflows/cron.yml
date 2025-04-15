@@ -23,4 +23,4 @@ jobs:
       - name: Kör Python-script
         env:
           Ocp_Apim_Subscription_Key: ${{ secrets.Ocp_Apim_Subscription_Key }}
-        run: python3 hämta_fåglar.py
+        run: python3 hamta_fåglar.py
