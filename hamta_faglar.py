@@ -35,11 +35,12 @@ payload = {
     "output": {
         "fields": [
             "event.startDate",
-            "location.name",
+            "location.locality",
+            "location.municipality.name",
             "taxon.vernacularName",
             "taxon.scientificName",
             "recordedBy",
-            "event.count",
+            "event.individualCount",
             "event.activity"
         ]
     }
@@ -72,9 +73,11 @@ def hamta_fagelfynd():
             art = record.get("taxon", {}).get("vernacularName", "Okänd art")
             scientific_name = record.get("taxon", {}).get("scientificName", "Okänt namn")
             observation_date_str = record.get("event", {}).get("startDate", None)
-            plats = record.get("location", {}).get("name", "Okänd plats")
+            locality = record.get("location", {}).get("locality", "")
+            municipality = record.get("location", {}).get("municipality", {}).get("name", "okänd kommun")
+            plats = locality or municipality
             observator = record.get("recordedBy", "okänd observatör")
-            antal = record.get("event", {}).get("count", 1)
+            antal = record.get("event", {}).get("individualCount", 1)
             aktivitet = record.get("event", {}).get("activity", "okänd")
 
             if observation_date_str:
