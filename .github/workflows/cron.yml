@@ -1,0 +1,26 @@
+name: Hämta fåglar varje 30:e minut
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Klona repo
+        uses: actions/checkout@v3
+
+      - name: Installera Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Installera requests
+        run: pip install requests
+
+      - name: Kör Python-script
+        env:
+          Ocp_Apim_Subscription_Key: ${{ secrets.Ocp_Apim_Subscription_Key }}
+        run: python3 hämta_fåglar.py
