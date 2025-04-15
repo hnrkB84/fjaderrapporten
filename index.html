@@ -1,1 +1,109 @@
-Se tidigare kod.
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fjäderrapporten</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Merriweather', serif;
+      background-color: #f4f7f5;
+      color: #2c2c2c;
+    }
+    header {
+      background: linear-gradient(to right, #a8c0a8, #dbe8d1);
+      padding: 2rem 1rem 1rem;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    header h1 { font-size: 2.5rem; margin: 0; }
+    header p { font-size: 1.2rem; margin-top: 0.3rem; color: #3f5d3f; }
+    nav {
+      background-color: #f0f5ef;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+      padding: 1rem;
+      border-bottom: 1px solid #c8d5c1;
+    }
+    nav a {
+      text-decoration: none;
+      color: #2c2c2c;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+    nav a:hover { color: #3f5d3f; }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .observation {
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    .observation h2 { margin: 0; font-size: 1.2rem; }
+    .observation p { margin: 0.2rem 0; }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #e8ede7;
+      color: #555;
+      font-size: 0.9rem;
+      margin-top: 4rem;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 2rem; }
+      header p { font-size: 1rem; }
+      nav { gap: 1rem; padding: 0.5rem; }
+      .observation h2 { font-size: 1rem; }
+      .observation p { font-size: 0.9rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fjäderrapporten</h1>
+    <p>Senaste fågelfynden i Eksjö</p>
+  </header>
+  <nav>
+    <a href="#">🏠 Hem</a>
+    <a href="#">✅ Checklista</a>
+    <a href="#">ℹ️ Om</a>
+  </nav>
+  <main id="fagellista">Laddar observationer...</main>
+  <footer>
+    &copy; 2025 Fjäderrapporten – Exempelsida.
+  </footer>
+  <script>
+    async function hamtaFaglar() {
+      const res = await fetch("data/eksjo_faglar_apiresponse.json");
+      const data = await res.json();
+      const container = document.getElementById("fagellista");
+      container.innerHTML = "";
+      data.sort((a, b) => new Date(b.datum) - new Date(a.datum));
+      data.forEach(obs => {
+        const d = new Date(obs.datum);
+        const datumStr = d.toLocaleDateString("sv-SE", { day: 'numeric', month: 'long', year: 'numeric' });
+        const tidStr = d.toLocaleTimeString("sv-SE", { hour: '2-digit', minute: '2-digit' });
+        const art = obs.art.charAt(0).toUpperCase() + obs.art.slice(1);
+        const plats = obs.lokal || "Eksjö";
+        const antalText = obs.antal > 1 ? ` – ${obs.antal} individer` : "";
+        const card = document.createElement("div");
+        card.className = "observation";
+        card.innerHTML = `<h2>${art} <em>(${obs.scientificName})</em></h2>
+                          <p>📍 ${plats}</p>
+                          <p>📅 ${datumStr} kl. ${tidStr}${antalText}</p>`;
+        container.appendChild(card);
+      });
+    }
+    window.addEventListener("DOMContentLoaded", hamtaFaglar);
+  </script>
+</body>
+</html>
