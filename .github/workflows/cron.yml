@@ -2,7 +2,7 @@ name: Hämta fåglar varje 30:e minut
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Klona repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Installera Python
         uses: actions/setup-python@v4
@@ -31,10 +33,10 @@ jobs:
           git config --global user.name "Fjäderbot"
           git config --global user.email "bot@fjaderrapporten.se"
           git add data/eksjo_faglar_apiresponse.json
-          git commit -m "🔄 Automatisk uppdatering av fågelfynd" || echo "Inget nytt att commita"
+          git commit -m "🔄 Automatisk uppdatering av fågelfynd" || echo "Inget att commita"
 
       - name: Pusha tillbaka till main
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GH_PUSH_TOKEN }}
-
+          branch: main
