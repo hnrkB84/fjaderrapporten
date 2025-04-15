@@ -24,3 +24,15 @@ jobs:
         env:
           Ocp_Apim_Subscription_Key: ${{ secrets.Ocp_Apim_Subscription_Key }}
         run: python3 hamta_faglar.py
+        
+      - name: Lägg till och commita ändringar
+        run: |
+          git config --global user.name "Fjäderbot"
+          git config --global user.email "bot@fjaderrapporten.se"
+          git add data/eksjo_faglar_apiresponse.json
+          git commit -m "🔄 Automatisk uppdatering av fågelfynd" || echo "Inget att commita"
+
+      - name: Pusha tillbaka till main
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GH_PUSH_TOKEN }}
