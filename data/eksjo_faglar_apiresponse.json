@@ -1,5 +1,59 @@
 [
   {
+    "art": "rödstjärt",
+    "scientificName": "Phoenicurus phoenicurus",
+    "datum": "2025-04-16T11:18:00+02:00",
+    "lokal": "Olofsgatan 29, Mariannelund, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-04-16T10:48:00+02:00",
+    "lokal": "Stora gärdet, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "brun kärrhök",
+    "scientificName": "Circus aeruginosus",
+    "datum": "2025-04-16T10:48:00+02:00",
+    "lokal": "Stora gärdet, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "lövsångare",
+    "scientificName": "Phylloscopus trochilus",
+    "datum": "2025-04-16T10:05:00+02:00",
+    "lokal": "Nifsarpsmaden, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "gransångare",
+    "scientificName": "Phylloscopus collybita",
+    "datum": "2025-04-16T10:05:00+02:00",
+    "lokal": "Nifsarpsmaden, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "svarthätta",
+    "scientificName": "Sylvia atricapilla",
+    "datum": "2025-04-16T10:05:00+02:00",
+    "lokal": "Nifsarpsmaden, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
     "art": "svartvit flugsnappare",
     "scientificName": "Ficedula hypoleuca",
     "datum": "2025-04-16T10:02:00+02:00",
@@ -76,60 +130,6 @@
     "scientificName": "Phylloscopus trochilus",
     "datum": "2025-04-16T07:33:00+02:00",
     "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "järnsparv",
-    "scientificName": "Prunella modularis",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "sädesärla",
-    "scientificName": "Motacilla alba",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "ängspiplärka",
-    "scientificName": "Anthus pratensis",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "stenskvätta",
-    "scientificName": "Oenanthe oenanthe",
-    "datum": "2025-04-15T15:02:00+02:00",
-    "lokal": "Hörnet, Östraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "ormvråk",
-    "scientificName": "Buteo buteo",
-    "datum": "2025-04-15T14:40:00+02:00",
-    "lokal": "Prästgården, Höreda, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
