@@ -1,0 +1,35 @@
+name: Uppdatera Fjäderrapporten
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Kör var 30:e minut
+  workflow_dispatch:        # Möjlighet att köra manuellt
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Klona repo
+        uses: actions/checkout@v3
+
+      - name: Installera Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Installera beroenden (om du har några)
+        run: pip install requests
+
+      - name: Kör bildhämtning
+        run: python bygg_artbilder_auto.py
+
+      - name: Kör fågelhämtning
+        run: python hamta_faglar.py
+
+      - name: Committa uppdaterade JSON-filer
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data/*.json
+          git commit -m "🔄 Uppdaterade observationer och bilder"
+          git push
