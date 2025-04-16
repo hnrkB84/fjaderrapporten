@@ -15,7 +15,7 @@ jobs:
       - name: Installera Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          python-version: 3.12
 
       - name: Installera beroenden (om du har några)
         run: pip install requests
