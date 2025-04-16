@@ -1,5 +1,41 @@
 [
   {
+    "art": "vigg",
+    "scientificName": "Aythya fuligula",
+    "datum": "2025-04-16T11:25:00+02:00",
+    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-04-16T11:25:00+02:00",
+    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "gransångare",
+    "scientificName": "Phylloscopus collybita",
+    "datum": "2025-04-16T11:25:00+02:00",
+    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "svarthätta",
+    "scientificName": "Sylvia atricapilla",
+    "datum": "2025-04-16T11:25:00+02:00",
+    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
     "art": "rödstjärt",
     "scientificName": "Phoenicurus phoenicurus",
     "datum": "2025-04-16T11:18:00+02:00",
@@ -92,42 +128,6 @@
   {
     "art": "skogsduva",
     "scientificName": "Columba oenas",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "mindre hackspett",
-    "scientificName": "Dryobates minor",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "spillkråka",
-    "scientificName": "Dryocopus martius",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "nötskrika",
-    "scientificName": "Garrulus glandarius",
-    "datum": "2025-04-16T07:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "lövsångare",
-    "scientificName": "Phylloscopus trochilus",
     "datum": "2025-04-16T07:33:00+02:00",
     "lokal": "Näset, Havik, Sm",
     "rapporteradAv": "okänd observatör",
