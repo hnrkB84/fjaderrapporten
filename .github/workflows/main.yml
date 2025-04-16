@@ -39,3 +39,4 @@ jobs:
           else
             git commit -m "🔄 Uppdaterade observationer och bilder"
             git push
+          fi
