@@ -1,52 +1,54 @@
 import requests
 import json
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
-# Fil med dina fågelobservationer (från hamta_faglar.py)
-OBSERVATIONSFIL = "data/eksjo_faglar_apiresponse.json"
-UTFIL = "data/artbilder_auto.json"
+OBSERVATIONFIL = Path("data/eksjo_faglar_apiresponse.json")
+UTFIL = Path("data/artbilder_auto.json")
 
-# Hämtar bilddata från Magnus Commons API baserat på vetenskapligt namn
-def hamta_bild_info(artnamn):
-    url = f"https://magnus-toolserver.toolforge.org/commonsapi.php?search={artnamn.replace(' ', '+')}"
+WM_API = "https://commons.wikimedia.org/w/api.php"
+
+def hamta_bildinfo(artnamn):
+    params = {
+        "action": "query",
+        "format": "json",
+        "generator": "search",
+        "gsrsearch": artnamn,
+        "gsrlimit": 1,
+        "prop": "imageinfo",
+        "iiprop": "url"
+    }
     try:
-        res = requests.get(url, timeout=10)
+        res = requests.get(WM_API, params=params, timeout=20)
         res.raise_for_status()
-        rot = ET.fromstring(res.content)
-        bildinfo = rot.find("file")
-        if bildinfo is not None:
-            return {
-                "bild": bildinfo.findtext("url"),
-                "bild_lank": bildinfo.findtext("descriptionurl")
-            }
+        data = res.json()
+
+        pages = data.get("query", {}).get("pages", {})
+        for sida in pages.values():
+            bild_url = sida.get("imageinfo", [{}])[0].get("url")
+            filnamn = sida.get("title")
+            if bild_url and filnamn:
+                fil_url = f"https://commons.wikimedia.org/wiki/{filnamn.replace(' ', '_')}"
+                return {"bild": bild_url, "bild_lank": fil_url}
     except Exception as e:
         print(f"❌ Kunde inte hämta bild för {artnamn}: {e}")
-    return {"bild": None, "bild_lank": None}
+    return {}
 
-# Huvudfunktion som bygger artbilds-uppslag
 def bygg_artbilder():
     print("🔍 Läser in observationer...")
-    if not Path(OBSERVATIONSFIL).exists():
-        print(f"❌ Filen {OBSERVATIONSFIL} saknas.")
+    if not OBSERVATIONFIL.exists():
+        print("❌ Ingen observationfil hittades.")
         return
 
-    with open(OBSERVATIONSFIL, encoding="utf-8") as f:
-        data = json.load(f)
+    with open(OBSERVATIONFIL, encoding="utf-8") as f:
+        observationer = json.load(f)
 
-    unika_arter = {}
-    for obs in data:
-        nyckel = obs["scientificName"].strip()
-        if nyckel and nyckel not in unika_arter:
-            unika_arter[nyckel] = None
+    arter = sorted(set(obs["scientificName"] for obs in observationer if obs.get("scientificName")))
+    print(f"🔎 Hittade {len(arter)} unika arter att söka bilder till.")
 
-    print(f"🔎 Hittade {len(unika_arter)} unika arter att söka bilder till.")
     artbilder = {}
-
-    for artnamn in unika_arter:
+    for artnamn in arter:
         print(f"🔄 Hämtar bild till: {artnamn}...")
-        bilddata = hamta_bild_info(artnamn)
-        artbilder[artnamn] = bilddata
+        artbilder[artnamn] = hamta_bildinfo(artnamn)
 
     with open(UTFIL, "w", encoding="utf-8") as f:
         json.dump(artbilder, f, ensure_ascii=False, indent=2)
