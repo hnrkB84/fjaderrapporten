@@ -139,5 +139,9 @@
   "Turdus viscivorus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bd/2019-08-13_01_Purple_Sandpiper_%28Calidris_maritima%29%2C_Reykjavik_Iceland.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-08-13_01_Purple_Sandpiper_(Calidris_maritima),_Reykjavik_Iceland.jpg"
+  },
+  "Coccothraustes coccothraustes": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hawfinch_%28Coccothraustes_coccothraustes%29_juvenile_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_juvenile_2.jpg"
   }
 }

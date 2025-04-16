@@ -29,8 +29,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hawfinch_%28Coccothraustes_coccothraustes%29_juvenile_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_juvenile_2.jpg"
   },
   {
     "art": "vigg",
