@@ -18,21 +18,35 @@ def hamta_bildinfo(artnamn):
         "prop": "imageinfo",
         "iiprop": "url"
     }
+
     try:
         res = requests.get(WM_API, params=params, timeout=20)
         res.raise_for_status()
         data = res.json()
 
-        pages = data.get("query", {}).get("pages", {})
+        if "query" not in data or "pages" not in data["query"]:
+            print(f"⚠️ Inga bildsidor hittades för {artnamn}. Fullt svar: {json.dumps(data, indent=2)}")
+            return {}
+
+        pages = data["query"]["pages"]
         for sida in pages.values():
-            bild_url = sida.get("imageinfo", [{}])[0].get("url")
+            imageinfo = sida.get("imageinfo", [])
+            if not imageinfo:
+                print(f"⚠️ Bildträff utan imageinfo för {artnamn}. Sida: {json.dumps(sida, indent=2)}")
+                return {}
+
+            bild_url = imageinfo[0].get("url")
             filnamn = sida.get("title")
             if bild_url and filnamn:
                 fil_url = f"https://commons.wikimedia.org/wiki/{filnamn.replace(' ', '_')}"
                 return {"bild": bild_url, "bild_lank": fil_url}
+            else:
+                print(f"⚠️ Ofullständig bilddata för {artnamn}: {imageinfo[0]}")
+                return {}
+
     except Exception as e:
         print(f"❌ Kunde inte hämta bild för {artnamn}: {e}")
-    return {}
+        return {}
 
 def bygg_artbilder():
     print("🔍 Läser in observationer...")
