@@ -72,6 +72,15 @@
     "observationstyp": "okänd"
   },
   {
+    "art": "gråsparv",
+    "scientificName": "Passer domesticus",
+    "datum": "2025-04-15T11:15:00+02:00",
+    "lokal": "Spakarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
     "art": "gransångare",
     "scientificName": "Phylloscopus collybita",
     "datum": "2025-04-15T11:12:00+02:00",
@@ -81,55 +90,46 @@
     "observationstyp": "okänd"
   },
   {
-    "art": "skäggdopping",
-    "scientificName": "Podiceps cristatus",
-    "datum": "2025-04-15T08:59:00+02:00",
-    "lokal": "Grönebäcksvägen, Bellen, Sm",
+    "art": "dubbeltrast",
+    "scientificName": "Turdus viscivorus",
+    "datum": "2025-04-15T11:05:00+02:00",
+    "lokal": "Skyttla, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
   },
   {
-    "art": "storskrake",
-    "scientificName": "Mergus merganser",
-    "datum": "2025-04-15T08:53:00+02:00",
-    "lokal": "Betongfundamentet, Bellen, Sm",
+    "art": "rördrom",
+    "scientificName": "Botaurus stellaris",
+    "datum": "2025-04-15T10:05:00+02:00",
+    "lokal": "Koanäsviken, Ingarpssjön, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
   },
   {
-    "art": "tjäder",
-    "scientificName": "Tetrao urogallus",
-    "datum": "2025-04-15T06:41:00+02:00",
-    "lokal": "Spolhem, Ebbarp, Sm",
+    "art": "havsörn",
+    "scientificName": "Haliaeetus albicilla",
+    "datum": "2025-04-15T10:05:00+02:00",
+    "lokal": "Koanäsviken, Ingarpssjön, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
   },
   {
-    "art": "orre",
-    "scientificName": "Lyrurus tetrix",
-    "datum": "2025-04-15T05:55:00+02:00",
-    "lokal": "Havik, Sm",
+    "art": "gransångare",
+    "scientificName": "Phylloscopus collybita",
+    "datum": "2025-04-15T10:05:00+02:00",
+    "lokal": "Koanäsviken, Ingarpssjön, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
   },
   {
-    "art": "stenskvätta",
-    "scientificName": "Oenanthe oenanthe",
-    "datum": "2025-04-15T00:00:00+02:00",
-    "lokal": "Koanäs, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "stenskvätta",
-    "scientificName": "Oenanthe oenanthe",
-    "datum": "2025-04-15T00:00:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
+    "art": "gärdsmyg",
+    "scientificName": "Troglodytes troglodytes",
+    "datum": "2025-04-15T10:05:00+02:00",
+    "lokal": "Koanäsviken, Ingarpssjön, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
