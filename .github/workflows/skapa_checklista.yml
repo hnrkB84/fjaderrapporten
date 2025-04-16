@@ -18,11 +18,11 @@ jobs:
       - name: Installera requests
         run: pip install requests
 
-      - name: Kör skapa_checklista.py
-        run: python skapa_checklista.py
-
       - name: Exportera API-nyckel
         run: echo "OCP_APIM_SUBSCRIPTION_KEY=${{ secrets.OCP_APIM_SUBSCRIPTION_KEY }}" >> $GITHUB_ENV
+
+      - name: Kör skapa_checklista.py
+        run: python skapa_checklista.py
 
 
       - name: Committa resultatet (om filen ändrats)
