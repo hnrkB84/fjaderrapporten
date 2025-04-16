@@ -57,20 +57,40 @@
       display: block;
     }
     .kikaren {
-      background-color: #e5f1e5;
+      background-color: #e8f3e8;
       border-left: 5px solid #7ea77e;
-      transition: background-color 0.2s ease;
+      display: flex;
+      align-items: center;
     }
-    .kikaren:hover {
-      background-color: #d3e8d3;
+    .kikaren-inner {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
     }
-    .kikaren h2 {
-      margin-bottom: 0.5rem;
+    .kikaren-ikon {
+      width: 64px;
+      height: auto;
+      flex-shrink: 0;
+      border-radius: 8px;
+    }
+    .kikaren-text h2 {
+      margin: 0 0 0.2rem;
       font-size: 1.2rem;
+      color: #2c2c2c;
     }
-    .kikaren p {
-      color: #444;
+    .kikaren-beskrivning {
       margin: 0;
+      font-size: 0.95rem;
+      color: #444;
+    }
+    .kikaren-lank {
+      font-size: 0.9rem;
+      text-decoration: none;
+      color: #3f5d3f;
+    }
+    .kikaren-lank:hover {
+      text-decoration: underline;
     }
     footer {
       text-align: center;
@@ -86,6 +106,16 @@
       nav { gap: 1rem; padding: 0.5rem; }
       .observation h2 { font-size: 1rem; }
       .observation p { font-size: 0.9rem; }
+      .kikaren-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .kikaren-ikon {
+        width: 48px;
+      }
+      .kikaren-text {
+        width: 100%;
+      }
     }
   </style>
 </head>
@@ -110,14 +140,16 @@
       const container = document.getElementById("fagellista");
       container.innerHTML = "";
 
-      // Kikaren-rutan läggs in först
-      const kikaren = document.createElement("a");
-      kikaren.href = "info.html"; // <- Ändra länken om du vill
-      kikaren.style.textDecoration = "none";
+      const kikaren = document.createElement("div");
+      kikaren.className = "observation kikaren";
       kikaren.innerHTML = `
-        <div class="observation kikaren">
-          <h2>🔭 Kikaren</h2>
-          <p>Klicka här för att läsa mer om vad Fjäderrapporten är och hur den fungerar.</p>
+        <div class="kikaren-inner">
+          <img src="bilder/kikaren-ikon.png" alt="Kikaren" class="kikaren-ikon" />
+          <div class="kikaren-text">
+            <h2>Kikaren</h2>
+            <p class="kikaren-beskrivning">En aktuell inblick – nyheter, förklaringar och tips från Fjäderrapporten.</p>
+            <p><a href="info.html" class="kikaren-lank">Läs mer om sidan</a></p>
+          </div>
         </div>
       `;
       container.appendChild(kikaren);
