@@ -4,8 +4,11 @@ from datetime import datetime
 from urllib.parse import urlencode
 from pathlib import Path
 import sys
+import os  # <--- Lägg till detta!
 
-API_KEY = "38fd64de3bcb43628a457153476e476b"
+# 🔐 Hämta API-nyckeln från miljövariabler
+API_KEY = os.getenv("OCP_APIM_SUBSCRIPTION_KEY")
+
 API_URL_BASE = "https://api.artdatabanken.se/species-observation-system/v1/Observations/Search"
 
 headers = {
