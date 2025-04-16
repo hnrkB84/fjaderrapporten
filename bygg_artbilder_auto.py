@@ -9,39 +9,48 @@ UTFIL = Path("data/artbilder_auto.json")
 WM_API = "https://commons.wikimedia.org/w/api.php"
 
 def hamta_bildinfo(artnamn):
-    params = {
+    # Steg 1: Sök efter en fil i Wikimedia Commons
+    search_params = {
         "action": "query",
         "format": "json",
-        "generator": "search",
-        "gsrsearch": artnamn,
-        "gsrlimit": 1,
-        "prop": "imageinfo",
-        "iiprop": "url"
+        "list": "search",
+        "srsearch": artnamn,
+        "srnamespace": 6,  # Namespace 6 = File:
+        "srlimit": 1
     }
 
     try:
-        res = requests.get(WM_API, params=params, timeout=20)
-        res.raise_for_status()
-        data = res.json()
+        search_res = requests.get(WM_API, params=search_params, timeout=20)
+        search_res.raise_for_status()
+        search_data = search_res.json()
 
-        if "query" not in data or "pages" not in data["query"]:
-            print(f"⚠️ Inga bildsidor hittades för {artnamn}. Fullt svar: {json.dumps(data, indent=2)}")
+        if "query" not in search_data or not search_data["query"]["search"]:
+            print(f"⚠️ Hittade ingen bildfil för {artnamn}.")
             return {}
 
-        pages = data["query"]["pages"]
-        for sida in pages.values():
-            imageinfo = sida.get("imageinfo", [])
-            if not imageinfo:
-                print(f"⚠️ Bildträff utan imageinfo för {artnamn}. Sida: {json.dumps(sida, indent=2)}")
-                return {}
+        filtitel = search_data["query"]["search"][0]["title"]  # ex: "File:Aythya_fuligula_male.jpg"
 
-            bild_url = imageinfo[0].get("url")
-            filnamn = sida.get("title")
-            if bild_url and filnamn:
-                fil_url = f"https://commons.wikimedia.org/wiki/{filnamn.replace(' ', '_')}"
+        # Steg 2: Hämta bildens URL
+        info_params = {
+            "action": "query",
+            "format": "json",
+            "titles": filtitel,
+            "prop": "imageinfo",
+            "iiprop": "url"
+        }
+
+        info_res = requests.get(WM_API, params=info_params, timeout=20)
+        info_res.raise_for_status()
+        info_data = info_res.json()
+
+        pages = info_data.get("query", {}).get("pages", {})
+        for sida in pages.values():
+            bild_url = sida.get("imageinfo", [{}])[0].get("url")
+            if bild_url:
+                fil_url = f"https://commons.wikimedia.org/wiki/{filtitel.replace(' ', '_')}"
                 return {"bild": bild_url, "bild_lank": fil_url}
             else:
-                print(f"⚠️ Ofullständig bilddata för {artnamn}: {imageinfo[0]}")
+                print(f"⚠️ Hittade inte bild-URL i {filtitel}.")
                 return {}
 
     except Exception as e:
