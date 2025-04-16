@@ -14,13 +14,21 @@ headers = {
     "X-Api-Version": "1.5"
 }
 
-# Läs in ARTBILDER från fil som skapats av bygg_artbilder_auto.py
-artbilder_path = Path("data/artbilder_auto.json")
-if artbilder_path.exists():
-    with open(artbilder_path, encoding="utf-8") as f:
-        ARTBILDER = json.load(f)
+# Läs in ARTBILDER från override + auto
+artbilder_override_path = Path("data/artbilder_override.json")
+artbilder_auto_path = Path("data/artbilder_auto.json")
+
+if artbilder_auto_path.exists():
+    with open(artbilder_auto_path, encoding="utf-8") as f:
+        ARTBILDER_AUTO = json.load(f)
 else:
-    ARTBILDER = {}
+    ARTBILDER_AUTO = {}
+
+if artbilder_override_path.exists():
+    with open(artbilder_override_path, encoding="utf-8") as f:
+        ARTBILDER_OVERRIDE = json.load(f)
+else:
+    ARTBILDER_OVERRIDE = {}
 
 payload = {
     "taxon": {
@@ -90,10 +98,12 @@ def hamta_fagelfynd():
             antal = record.get("event", {}).get("individualCount", 1)
             aktivitet = record.get("event", {}).get("activity", "okänd")
 
-            # Hämta bild från ARTBILDER baserat på vetenskapligt namn
-            bildinfo = ARTBILDER.get(scientific_name, {})
-            bild = bildinfo.get("bild")
-            bild_lank = bildinfo.get("bild_lank")
+            # 🔁 Prioritera override > auto
+            override = ARTBILDER_OVERRIDE.get(scientific_name)
+            auto = ARTBILDER_AUTO.get(scientific_name)
+
+            bild = override.get("bild") if override else auto.get("bild") if auto else None
+            bild_lank = override.get("bild_lank") if override else auto.get("bild_lank") if auto else None
 
             if observation_date_str:
                 try:
