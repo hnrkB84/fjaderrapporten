@@ -1,5 +1,104 @@
 [
   {
+    "art": "svart rödstjärt",
+    "scientificName": "Phoenicurus ochruros",
+    "datum": "2025-04-16T09:28:00+02:00",
+    "lokal": "Eksjöhus Industri, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "orre",
+    "scientificName": "Lyrurus tetrix",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "skogsduva",
+    "scientificName": "Columba oenas",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "mindre hackspett",
+    "scientificName": "Dryobates minor",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "spillkråka",
+    "scientificName": "Dryocopus martius",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "nötskrika",
+    "scientificName": "Garrulus glandarius",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "lövsångare",
+    "scientificName": "Phylloscopus trochilus",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "gransångare",
+    "scientificName": "Phylloscopus collybita",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "järnsparv",
+    "scientificName": "Prunella modularis",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "sädesärla",
+    "scientificName": "Motacilla alba",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "ängspiplärka",
+    "scientificName": "Anthus pratensis",
+    "datum": "2025-04-16T07:33:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
     "art": "stenskvätta",
     "scientificName": "Oenanthe oenanthe",
     "datum": "2025-04-15T15:02:00+02:00",
@@ -31,105 +130,6 @@
     "scientificName": "Tringa ochropus",
     "datum": "2025-04-15T13:18:00+02:00",
     "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "sädesärla",
-    "scientificName": "Motacilla alba",
-    "datum": "2025-04-15T13:18:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "smådopping",
-    "scientificName": "Tachybaptus ruficollis",
-    "datum": "2025-04-15T13:12:00+02:00",
-    "lokal": "Grönnen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "röd glada",
-    "scientificName": "Milvus milvus",
-    "datum": "2025-04-15T13:04:00+02:00",
-    "lokal": "Västra gärdet, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "skogssnäppa",
-    "scientificName": "Tringa ochropus",
-    "datum": "2025-04-15T12:58:00+02:00",
-    "lokal": "Långsjödiket, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "gråsparv",
-    "scientificName": "Passer domesticus",
-    "datum": "2025-04-15T11:15:00+02:00",
-    "lokal": "Spakarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-04-15T11:12:00+02:00",
-    "lokal": "Söder Skurugölen, Trehörningen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "dubbeltrast",
-    "scientificName": "Turdus viscivorus",
-    "datum": "2025-04-15T11:05:00+02:00",
-    "lokal": "Skyttla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "rördrom",
-    "scientificName": "Botaurus stellaris",
-    "datum": "2025-04-15T10:05:00+02:00",
-    "lokal": "Koanäsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "havsörn",
-    "scientificName": "Haliaeetus albicilla",
-    "datum": "2025-04-15T10:05:00+02:00",
-    "lokal": "Koanäsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-04-15T10:05:00+02:00",
-    "lokal": "Koanäsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "gärdsmyg",
-    "scientificName": "Troglodytes troglodytes",
-    "datum": "2025-04-15T10:05:00+02:00",
-    "lokal": "Koanäsviken, Ingarpssjön, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
