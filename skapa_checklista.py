@@ -81,9 +81,15 @@ def skapa_checklista():
                 "lokal": plats or "okänd plats"
             }
 
-    # Sortera efter artnamn
     checklista = list(arter.values())
     checklista.sort(key=lambda x: x["art"])
+
+    # ✅ Se till att mappen finns
+    Path("data").mkdir(parents=True, exist_ok=True)
+
+    if not checklista:
+        print("⚠️ Ingen checklista skapades – kontrollera att observationer finns.")
+        return
 
     with open("data/checklista.json", "w", encoding="utf-8") as f:
         json.dump(checklista, f, ensure_ascii=False, indent=2)
