@@ -1,5 +1,23 @@
 [
   {
+    "art": "svartvit flugsnappare",
+    "scientificName": "Ficedula hypoleuca",
+    "datum": "2025-04-16T10:02:00+02:00",
+    "lokal": "Vitsippegatan 42 Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-04-16T09:54:00+02:00",
+    "lokal": "Vetlandavägen 6A, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd"
+  },
+  {
     "art": "svart rödstjärt",
     "scientificName": "Phoenicurus ochruros",
     "datum": "2025-04-16T09:28:00+02:00",
@@ -112,24 +130,6 @@
     "scientificName": "Buteo buteo",
     "datum": "2025-04-15T14:40:00+02:00",
     "lokal": "Prästgården, Höreda, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-04-15T14:00:00+02:00",
-    "lokal": "Hunsnäsvägen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd"
-  },
-  {
-    "art": "skogssnäppa",
-    "scientificName": "Tringa ochropus",
-    "datum": "2025-04-15T13:18:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd"
