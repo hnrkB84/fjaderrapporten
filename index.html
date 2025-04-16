@@ -50,6 +50,12 @@
     }
     .observation h2 { margin: 0; font-size: 1.2rem; }
     .observation p { margin: 0.2rem 0; }
+    .observation img {
+      max-width: 100px;
+      border-radius: 8px;
+      margin: 0.5rem 0;
+      display: block;
+    }
     footer {
       text-align: center;
       padding: 2rem 1rem;
@@ -95,11 +101,21 @@
         const art = obs.art.charAt(0).toUpperCase() + obs.art.slice(1);
         const plats = obs.lokal || "Eksjö";
         const antalText = obs.antal > 1 ? ` – ${obs.antal} individer` : "";
+
         const card = document.createElement("div");
         card.className = "observation";
-        card.innerHTML = `<h2>${art} <em>(${obs.scientificName})</em></h2>
-                          <p>📍 ${plats}</p>
-                          <p>📅 ${datumStr} kl. ${tidStr}${antalText}</p>`;
+
+        card.innerHTML = `
+          <h2>${art} <em>(${obs.scientificName})</em></h2>
+          ${obs.bild ? `
+            <a href="${obs.bild_lank}" target="_blank">
+              <img src="${obs.bild}" alt="${art}" />
+            </a>
+          ` : ""}
+          <p>📍 ${plats}</p>
+          <p>📅 ${datumStr} kl. ${tidStr}${antalText}</p>
+        `;
+
         container.appendChild(card);
       });
     }
