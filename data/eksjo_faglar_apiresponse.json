@@ -1,5 +1,16 @@
 [
   {
+    "art": "svart rödstjärt",
+    "scientificName": "Phoenicurus ochruros",
+    "datum": "2025-04-16T19:36:00+02:00",
+    "lokal": "Industriområdet, Nifsarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null
+  },
+  {
     "art": "vigg",
     "scientificName": "Aythya fuligula",
     "datum": "2025-04-16T11:25:00+02:00",
@@ -7,8 +18,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg"
   },
   {
     "art": "ormvråk",
@@ -18,8 +29,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg"
   },
   {
     "art": "gransångare",
@@ -62,8 +73,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg"
   },
   {
     "art": "brun kärrhök",
@@ -73,8 +84,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Circus_aeruginosus_MHNT.ZOO.2010.11.82.5.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Circus_aeruginosus_MHNT.ZOO.2010.11.82.5.jpg"
   },
   {
     "art": "lövsångare",
@@ -161,8 +172,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2019-03-17_Columba_oenas%2C_Jesmond_Dene_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-03-17_Columba_oenas,_Jesmond_Dene_1.jpg"
   },
   {
     "art": "mindre hackspett",
@@ -249,8 +260,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Anthus_pratensis_MHNT.ZOO.2010.11.2.20.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_pratensis_MHNT.ZOO.2010.11.2.20.jpg"
   },
   {
     "art": "stenskvätta",
@@ -271,8 +282,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg"
   },
   {
     "art": "gransångare",
@@ -381,8 +392,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Botaurus_stellaris_MHNT.ZOO.2010.11.50.8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Botaurus_stellaris_MHNT.ZOO.2010.11.50.8.jpg"
   },
   {
     "art": "havsörn",
@@ -447,8 +458,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg"
   },
   {
     "art": "knipa",
@@ -458,8 +469,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg"
   },
   {
     "art": "skäggdopping",
@@ -480,8 +491,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg"
   },
   {
     "art": "fiskgjuse",
@@ -532,17 +543,6 @@
     "scientificName": "Mergus merganser",
     "datum": "2025-04-15T08:53:00+02:00",
     "lokal": "Betongfundamentet, Bellen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
-  },
-  {
-    "art": "tjäder",
-    "scientificName": "Tetrao urogallus",
-    "datum": "2025-04-15T06:41:00+02:00",
-    "lokal": "Spolhem, Ebbarp, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",

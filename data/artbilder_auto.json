@@ -1,13 +1,40 @@
 {
-  "Anser anser": {},
-  "Anthus pratensis": {},
-  "Aythya fuligula": {},
-  "Botaurus stellaris": {},
-  "Bucephala clangula": {},
-  "Buteo buteo": {},
-  "Circus aeruginosus": {},
-  "Columba oenas": {},
-  "Cygnus cygnus": {},
+  "Anser anser": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg"
+  },
+  "Anthus pratensis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Anthus_pratensis_MHNT.ZOO.2010.11.2.20.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_pratensis_MHNT.ZOO.2010.11.2.20.jpg"
+  },
+  "Aythya fuligula": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg"
+  },
+  "Botaurus stellaris": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Botaurus_stellaris_MHNT.ZOO.2010.11.50.8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Botaurus_stellaris_MHNT.ZOO.2010.11.50.8.jpg"
+  },
+  "Bucephala clangula": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg"
+  },
+  "Buteo buteo": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg"
+  },
+  "Circus aeruginosus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Circus_aeruginosus_MHNT.ZOO.2010.11.82.5.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Circus_aeruginosus_MHNT.ZOO.2010.11.82.5.jpg"
+  },
+  "Columba oenas": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2019-03-17_Columba_oenas%2C_Jesmond_Dene_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-03-17_Columba_oenas,_Jesmond_Dene_1.jpg"
+  },
+  "Cygnus cygnus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg"
+  },
   "Dryobates minor": {},
   "Dryocopus martius": {},
   "Emberiza schoeniclus": {},
