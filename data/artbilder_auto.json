@@ -143,5 +143,41 @@
   "Coccothraustes coccothraustes": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hawfinch_%28Coccothraustes_coccothraustes%29_juvenile_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_juvenile_2.jpg"
+  },
+  "Aegithalos caudatus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aegithalos_caudatus_front-on_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_front-on_2.jpg"
+  },
+  "Erithacus rubecula": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_robin_%28Erithacus_rubecula%29_juvenile.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg"
+  },
+  "Falco tinnunculus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg"
+  },
+  "Fringilla coelebs": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_chaffinch_male_edit2.jpg"
+  },
+  "Gavia arctica": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gavia_arctica_MHNT.ZOO.2010.11.36.5.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_arctica_MHNT.ZOO.2010.11.36.5.jpg"
+  },
+  "Parus major": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg"
+  },
+  "Periparus ater": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_coal_tit_%28Periparus_ater_cypriotes%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyprus_coal_tit_(Periparus_ater_cypriotes).jpg"
+  },
+  "Scolopax rusticola": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg"
+  },
+  "Streptopelia decaocto": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg"
   }
 }

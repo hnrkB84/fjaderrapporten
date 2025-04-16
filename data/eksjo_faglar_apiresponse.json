@@ -40,8 +40,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg"
   },
   {
     "art": "vigg",
@@ -95,8 +95,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg"
   },
   {
     "art": "rödstjärt",
@@ -315,8 +315,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_coal_tit_%28Periparus_ater_cypriotes%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyprus_coal_tit_(Periparus_ater_cypriotes).jpg"
   },
   {
     "art": "stjärtmes",
@@ -326,8 +326,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aegithalos_caudatus_front-on_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_front-on_2.jpg"
   },
   {
     "art": "talgoxe",
@@ -337,8 +337,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg"
   },
   {
     "art": "taltrast",
@@ -359,8 +359,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_chaffinch_male_edit2.jpg"
   },
   {
     "art": "rödhake",
@@ -370,8 +370,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_robin_%28Erithacus_rubecula%29_juvenile.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg"
   },
   {
     "art": "storlom",
@@ -381,8 +381,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gavia_arctica_MHNT.ZOO.2010.11.36.5.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_arctica_MHNT.ZOO.2010.11.36.5.jpg"
   },
   {
     "art": "morkulla",
@@ -392,8 +392,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg"
   },
   {
     "art": "grågås",
