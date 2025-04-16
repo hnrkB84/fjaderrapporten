@@ -135,8 +135,10 @@ def hamta_fagelfynd():
             antal = record.get("event", {}).get("individualCount", 1)
             aktivitet = record.get("event", {}).get("activity", "okänd")
 
-            bild = ARTBILDER.get(art, {}).get("bild")
-            bild_lank = ARTBILDER.get(art, {}).get("länk")
+            art_nyckel = art.capitalize()  # Gör första bokstaven versal
+            bild = ARTBILDER.get(art_nyckel, {}).get("bild")
+            bild_lank = ARTBILDER.get(art_nyckel, {}).get("länk")
+
 
             if observation_date_str:
                 try:
