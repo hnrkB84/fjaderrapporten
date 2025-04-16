@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 from urllib.parse import urlencode
 from pathlib import Path
+import sys
 
 API_KEY = "38fd64de3bcb43628a457153476e476b"
 API_URL_BASE = "https://api.artdatabanken.se/species-observation-system/v1/Observations/Search"
@@ -67,11 +68,11 @@ def hamta_fagelfynd():
     full_url = f"{API_URL_BASE}?{urlencode(query_params)}"
 
     try:
-        response = requests.post(full_url, headers=headers, json=payload, timeout=15)
+        response = requests.post(full_url, headers=headers, json=payload, timeout=30)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(f"❌ Fel vid hämtning: {e}")
-        return
+        sys.exit(1)
 
     print("✅ API-svar mottaget")
     try:
