@@ -76,14 +76,18 @@ def bygg_artbilder():
     arter = sorted(set(obs["scientificName"] for obs in observationer if obs.get("scientificName")))
     print(f"🔎 Hittade {len(arter)} unika arter att söka bilder till.")
 
-    for artnamn in arter:
+    for ix, artnamn in enumerate(arter):
         if artnamn in artbilder and artbilder[artnamn].get("bild"):
             print(f"⏩ Hoppar över (redan sparad): {artnamn}")
             continue
 
         print(f"🔄 Hämtar bild till: {artnamn}...")
         artbilder[artnamn] = hamta_bildinfo(artnamn)
-        time.sleep(1.5)  # Paus för att undvika 429-fel
+        time.sleep(3)
+
+        if ix % 10 == 0 and ix != 0:
+            print("⏳ Tar en extra paus...")
+            time.sleep(5)
 
     with open(UTFIL, "w", encoding="utf-8") as f:
         json.dump(artbilder, f, ensure_ascii=False, indent=2)
