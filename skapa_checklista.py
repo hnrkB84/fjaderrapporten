@@ -1,7 +1,6 @@
 import requests
 import json
 from datetime import datetime
-from urllib.parse import urlencode
 from pathlib import Path
 import os
 
@@ -43,22 +42,20 @@ payload = {
             "taxon.vernacularName",
             "taxon.scientificName"
         ]
+    },
+    "paging": {
+        "skip": 0,
+        "take": 2000,
+        "sortBy": "event.startDate",
+        "sortOrder": "Asc"
     }
 }
 
 def skapa_checklista():
     print("📋 Skapar checklista från Artportalen...")
 
-    query_params = {
-        "skip": 0,
-        "take": 2000,
-        "sortBy": "event.startDate",
-        "sortOrder": "Asc"
-    }
-    full_url = f"{API_URL_BASE}?{urlencode(query_params)}"
-
     try:
-        response = requests.post(full_url, headers=headers, json=payload, timeout=30)
+        response = requests.post(API_URL_BASE, headers=headers, json=payload, timeout=30)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(f"❌ Fel vid hämtning: {e}")
@@ -81,15 +78,11 @@ def skapa_checklista():
                 "lokal": plats or "okänd plats"
             }
 
+    # Sortera efter artnamn
     checklista = list(arter.values())
     checklista.sort(key=lambda x: x["art"])
 
-    # ✅ Se till att mappen finns
-    Path("data").mkdir(parents=True, exist_ok=True)
-
-    if not checklista:
-        print("⚠️ Ingen checklista skapades – kontrollera att observationer finns.")
-        return
+    Path("data").mkdir(parents=True, exist_ok=True)  # Se till att mappen finns
 
     with open("data/checklista.json", "w", encoding="utf-8") as f:
         json.dump(checklista, f, ensure_ascii=False, indent=2)
