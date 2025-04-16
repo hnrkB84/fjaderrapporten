@@ -56,6 +56,22 @@
       margin: 0.5rem 0;
       display: block;
     }
+    .kikaren {
+      background-color: #e5f1e5;
+      border-left: 5px solid #7ea77e;
+      transition: background-color 0.2s ease;
+    }
+    .kikaren:hover {
+      background-color: #d3e8d3;
+    }
+    .kikaren h2 {
+      margin-bottom: 0.5rem;
+      font-size: 1.2rem;
+    }
+    .kikaren p {
+      color: #444;
+      margin: 0;
+    }
     footer {
       text-align: center;
       padding: 2rem 1rem;
@@ -93,6 +109,19 @@
       const data = await res.json();
       const container = document.getElementById("fagellista");
       container.innerHTML = "";
+
+      // Kikaren-rutan läggs in först
+      const kikaren = document.createElement("a");
+      kikaren.href = "om.html"; // <- Ändra länken om du vill
+      kikaren.style.textDecoration = "none";
+      kikaren.innerHTML = `
+        <div class="observation kikaren">
+          <h2>🔭 Kikaren</h2>
+          <p>Klicka här för att läsa mer om vad Fjäderrapporten är och hur den fungerar.</p>
+        </div>
+      `;
+      container.appendChild(kikaren);
+
       data.sort((a, b) => new Date(b.datum) - new Date(a.datum));
       data.forEach(obs => {
         const d = new Date(obs.datum);
@@ -113,7 +142,7 @@
             </a>
           ` : ""}
           <p>📍 ${plats}</p>
-          <p>📅 ${datumStr} kl. ${tidStr}${antalText}</p>
+          <p>🗓️ ${datumStr} kl. ${tidStr}${antalText}</p>
         `;
 
         container.appendChild(card);
