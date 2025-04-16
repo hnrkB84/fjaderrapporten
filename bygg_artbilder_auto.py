@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 from pathlib import Path
 
 OBSERVATIONFIL = Path("data/eksjo_faglar_apiresponse.json")
@@ -42,13 +43,24 @@ def bygg_artbilder():
     with open(OBSERVATIONFIL, encoding="utf-8") as f:
         observationer = json.load(f)
 
+    # Läs in befintliga bilder för cache
+    if UTFIL.exists():
+        with open(UTFIL, encoding="utf-8") as f:
+            artbilder = json.load(f)
+    else:
+        artbilder = {}
+
     arter = sorted(set(obs["scientificName"] for obs in observationer if obs.get("scientificName")))
     print(f"🔎 Hittade {len(arter)} unika arter att söka bilder till.")
 
-    artbilder = {}
     for artnamn in arter:
+        if artnamn in artbilder and artbilder[artnamn].get("bild"):
+            print(f"⏩ Hoppar över (redan sparad): {artnamn}")
+            continue
+
         print(f"🔄 Hämtar bild till: {artnamn}...")
         artbilder[artnamn] = hamta_bildinfo(artnamn)
+        time.sleep(1.5)  # Paus för att undvika 429-fel
 
     with open(UTFIL, "w", encoding="utf-8") as f:
         json.dump(artbilder, f, ensure_ascii=False, indent=2)
