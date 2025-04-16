@@ -21,14 +21,14 @@ jobs:
       - name: Kör skapa_checklista.py
         run: python skapa_checklista.py
 
-      - name: Committa resultatet (om filen finns)
+      - name: Committa resultatet (om filen ändrats)
         run: |
-          if [ -f data/checklista.json ]; then
-            git config user.name "github-actions"
-            git config user.email "github-actions@users.noreply.github.com"
-            git add data/checklista.json
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data/checklista.json
+          if git diff --cached --quiet; then
+            echo "⚠️ Inget att committa – inga ändringar."
+          else
             git commit -m "✅ Uppdaterade checklista"
             git push
-          else
-            echo "❌ Inget att committa – filen data/checklista.json saknas."
           fi
