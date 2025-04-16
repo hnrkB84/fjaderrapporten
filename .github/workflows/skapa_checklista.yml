@@ -21,6 +21,10 @@ jobs:
       - name: Kör skapa_checklista.py
         run: python skapa_checklista.py
 
+      - name: Exportera API-nyckel
+        run: echo "OCP_APIM_SUBSCRIPTION_KEY=${{ secrets.OCP_APIM_SUBSCRIPTION_KEY }}" >> $GITHUB_ENV
+
+
       - name: Committa resultatet (om filen ändrats)
         run: |
           git config user.name "github-actions"
