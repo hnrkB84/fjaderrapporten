@@ -4,7 +4,7 @@ from datetime import datetime
 from urllib.parse import urlencode
 from pathlib import Path
 import sys
-import os  # <--- Lägg till detta!
+import os  # <--- Miljövariabler
 
 # 🔐 Hämta API-nyckeln från miljövariabler
 API_KEY = os.getenv("OCP_APIM_SUBSCRIPTION_KEY")
@@ -32,6 +32,14 @@ if artbilder_override_path.exists():
         ARTBILDER_OVERRIDE = json.load(f)
 else:
     ARTBILDER_OVERRIDE = {}
+
+# 💡 Hjälpfunktion för smart override-matchning
+def hitta_override(namn):
+    namn = namn.lower().strip()
+    for key in ARTBILDER_OVERRIDE:
+        if key.lower().strip() == namn:
+            return ARTBILDER_OVERRIDE[key]
+    return None
 
 payload = {
     "taxon": {
@@ -92,7 +100,7 @@ def hamta_fagelfynd():
 
         for record in data.get("records", []):
             art = record.get("taxon", {}).get("vernacularName", "Okänd art")
-            scientific_name = record.get("taxon", {}).get("scientificName", "Okänt namn")
+            scientific_name = record.get("taxon", {}).get("scientificName", "Okänt namn").strip()
             observation_date_str = record.get("event", {}).get("startDate", None)
             locality = record.get("location", {}).get("locality", "")
             municipality = record.get("location", {}).get("municipality", {}).get("name", "okänd kommun")
@@ -102,11 +110,14 @@ def hamta_fagelfynd():
             aktivitet = record.get("event", {}).get("activity", "okänd")
 
             # 🔁 Prioritera override > auto
-            override = ARTBILDER_OVERRIDE.get(scientific_name)
+            override = hitta_override(scientific_name)
             auto = ARTBILDER_AUTO.get(scientific_name)
 
             bild = override.get("bild") if override else auto.get("bild") if auto else None
             bild_lank = override.get("bild_lank") if override else auto.get("bild_lank") if auto else None
+
+            if override:
+                print(f"📸 Override används för {scientific_name}")
 
             if observation_date_str:
                 try:
