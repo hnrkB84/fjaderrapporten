@@ -123,7 +123,10 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg"
   },
-  "Tetrao urogallus": {},
+  "Tetrao urogallus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tetrao_urogallus_Richard_Bartz.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_Richard_Bartz.jpg"
+  },
   "Tringa ochropus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tringa_ochropus_MHNT.ZOO.2010.11.117.13.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tringa_ochropus_MHNT.ZOO.2010.11.117.13.jpg"
@@ -179,5 +182,9 @@
   "Streptopelia decaocto": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg"
+  },
+  "Mareca strepera": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Anas-strepera-001.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas-strepera-001.jpg"
   }
 }

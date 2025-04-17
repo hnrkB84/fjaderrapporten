@@ -18,8 +18,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tetrao_urogallus_Richard_Bartz.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_Richard_Bartz.jpg"
   },
   {
     "art": "svart rödstjärt",
@@ -447,8 +447,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Anas-strepera-001.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas-strepera-001.jpg"
   },
   {
     "art": "snatterand",
@@ -458,8 +458,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Anas-strepera-001.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas-strepera-001.jpg"
   },
   {
     "art": "smådopping",
