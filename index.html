@@ -12,14 +12,46 @@
       background-color: #f4f7f5;
       color: #2c2c2c;
     }
+
     header {
-      background: linear-gradient(to right, #a8c0a8, #dbe8d1);
-      padding: 2rem 1rem 1rem;
-      text-align: center;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      position: relative;
+      width: 100%;
+      height: 260px;
+      overflow: hidden;
+      border-bottom: 1px solid #ccc;
     }
-    header h1 { font-size: 2.5rem; margin: 0; }
-    header p { font-size: 1.2rem; margin-top: 0.3rem; color: #3f5d3f; }
+
+    .header-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .header-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: #1d2c1d;
+      background-color: rgba(255, 255, 255, 0.7);
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .header-text h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+
+    .header-text p {
+      font-size: 1.2rem;
+      margin: 0.3rem 0 0;
+      color: #3f5d3f;
+    }
+
     nav {
       background-color: #f0f5ef;
       display: flex;
@@ -29,18 +61,24 @@
       padding: 1rem;
       border-bottom: 1px solid #c8d5c1;
     }
+
     nav a {
       text-decoration: none;
       color: #2c2c2c;
       font-weight: bold;
       font-size: 1rem;
     }
-    nav a:hover { color: #3f5d3f; }
+
+    nav a:hover {
+      color: #3f5d3f;
+    }
+
     main {
       max-width: 700px;
       margin: 2rem auto;
       padding: 0 1rem;
     }
+
     .observation {
       background-color: #fff;
       border-radius: 8px;
@@ -48,50 +86,78 @@
       margin-bottom: 1rem;
       box-shadow: 0 1px 3px rgba(0,0,0,0.05);
     }
-    .observation h2 { margin: 0; font-size: 1.2rem; }
-    .observation p { margin: 0.2rem 0; }
+
+    .observation h2 {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+
+    .observation p {
+      margin: 0.2rem 0;
+    }
+
     .observation img {
       max-width: 100px;
       border-radius: 8px;
       margin: 0.5rem 0;
       display: block;
     }
+
     .kikaren {
       background-color: #e8f3e8;
       border-left: 5px solid #7ea77e;
       display: flex;
       align-items: center;
     }
+
     .kikaren-inner {
       display: flex;
       gap: 1rem;
       align-items: center;
       flex-wrap: wrap;
     }
+
     .kikaren-ikon {
       width: 64px;
       height: auto;
       flex-shrink: 0;
       border-radius: 8px;
     }
+
     .kikaren-text h2 {
       margin: 0 0 0.2rem;
       font-size: 1.2rem;
       color: #2c2c2c;
     }
+
     .kikaren-beskrivning {
       margin: 0;
       font-size: 0.95rem;
       color: #444;
     }
+
     .kikaren-lank {
       font-size: 0.9rem;
       text-decoration: none;
       color: #3f5d3f;
     }
+
     .kikaren-lank:hover {
       text-decoration: underline;
     }
+
+    .badge {
+      background-color: #7ea77e;
+      color: white;
+      font-size: 0.65rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-left: 0.5rem;
+      vertical-align: middle;
+    }
+
     footer {
       text-align: center;
       padding: 2rem 1rem;
@@ -100,46 +166,86 @@
       font-size: 0.9rem;
       margin-top: 4rem;
     }
+
     @media (max-width: 600px) {
-      header h1 { font-size: 2rem; }
-      header p { font-size: 1rem; }
-      nav { gap: 1rem; padding: 0.5rem; }
-      .observation h2 { font-size: 1rem; }
-      .observation p { font-size: 0.9rem; }
-      
+      .header-text h1 {
+        font-size: 2rem;
+      }
+
+      .header-text p {
+        font-size: 1rem;
+      }
+
+      nav {
+        gap: 1rem;
+        padding: 0.5rem;
+      }
+
+      .observation h2 {
+        font-size: 1rem;
+      }
+
+      .observation p {
+        font-size: 0.9rem;
+      }
+
+      .kikaren {
+        padding: 0.6rem 1rem;
+      }
+
+      .kikaren-inner {
+        flex-direction: row;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      .kikaren-ikon {
+        width: 64px;
+        margin: 0;
+      }
+
+      .kikaren-text {
+        flex: 1;
+      }
+    }
+
+    @media (max-width: 400px) {
       .kikaren-inner {
         flex-direction: column;
-        align-items: center;
-        gap: 0.3rem; /* minska avstånd mellan ikon och text */
-      }
-      
-      .kikaren-ikon {
-        width: 72px;
-        margin: 0;
-        padding: 0;
-        display: block;
+        align-items: flex-start;
       }
 
       .kikaren-text {
         width: 100%;
+      }
+
+      .kikaren-ikon {
+        margin-bottom: 0.5rem;
       }
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>Fjäderrapporten</h1>
-    <p>Senaste fågelfynden i Eksjö</p>
+    <img src="bilder/header.png" alt="Fjäderrapporten bakgrund" class="header-image" />
+    <div class="header-text">
+      <h1>Fjäderrapporten</h1>
+      <p>Senaste fågelfynden i Eksjö</p>
+    </div>
   </header>
+
   <nav>
     <a href="#">🏠 Hem</a>
     <a href="checklistan.html">✅ Checklista</a>
     <a href="info.html">ℹ️ Om</a>
   </nav>
+
   <main id="fagellista">Laddar observationer...</main>
+
   <footer>
     &copy; 2025 Fjäderrapporten – Exempelsida.
   </footer>
+
   <script>
     async function hamtaFaglar() {
       const res = await fetch("data/eksjo_faglar_apiresponse.json");
@@ -153,7 +259,7 @@
         <div class="kikaren-inner">
           <img src="bilder/kikaren-ikon.png" alt="Kikaren" class="kikaren-ikon" />
           <div class="kikaren-text">
-            <h2>Kikaren</h2>
+            <h2>Kikaren <span class="badge">TIPSET</span></h2>
             <p class="kikaren-beskrivning">En aktuell inblick – nyheter, förklaringar och tips från Fjäderrapporten.</p>
             <p><a href="info.html" class="kikaren-lank">Läs mer om sidan</a></p>
           </div>
@@ -187,6 +293,7 @@
         container.appendChild(card);
       });
     }
+
     window.addEventListener("DOMContentLoaded", hamtaFaglar);
   </script>
 </body>
