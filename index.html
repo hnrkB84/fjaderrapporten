@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fjäderrapporten</title>
+  <title>Checklista - Fjäderrapporten</title>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -61,17 +61,13 @@
       padding: 1rem;
       border-bottom: 1px solid #c8d5c1;
     }
-
     nav a {
       text-decoration: none;
       color: #2c2c2c;
       font-weight: bold;
       font-size: 1rem;
     }
-
-    nav a:hover {
-      color: #3f5d3f;
-    }
+    nav a:hover { color: #3f5d3f; }
 
     main {
       max-width: 700px;
@@ -79,148 +75,35 @@
       padding: 0 1rem;
     }
 
-    .observation {
-      background-color: #fff;
-      border-radius: 8px;
+    .bird-card {
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      margin-bottom: 1.5rem;
       padding: 1rem;
-      margin-bottom: 1rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
     }
-
-    .observation h2 {
-      margin: 0;
+    .bird-header {
+      margin-bottom: 0.5rem;
+    }
+    .sv-namn {
       font-size: 1.2rem;
+      font-weight: bold;
     }
-
-    .observation p {
+    .lat-namn {
+      font-size: 0.9rem;
+      font-style: italic;
+      color: #555;
+    }
+    .bird-details p {
       margin: 0.2rem 0;
     }
 
-    .observation img {
-      max-width: 100px;
-      border-radius: 8px;
-      margin: 0.5rem 0;
-      display: block;
-    }
-
-    .kikaren {
-      background-color: #e8f3e8;
-      border-left: 5px solid #7ea77e;
-      display: flex;
-      align-items: center;
-    }
-
-    .kikaren-inner {
-      display: flex;
-      gap: 1rem;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-
-    .kikaren-ikon {
-      width: 64px;
-      height: auto;
-      flex-shrink: 0;
-      border-radius: 8px;
-    }
-
-    .kikaren-text h2 {
-      margin: 0 0 0.2rem;
-      font-size: 1.2rem;
-      color: #2c2c2c;
-    }
-
-    .kikaren-beskrivning {
-      margin: 0;
-      font-size: 0.95rem;
-      color: #444;
-    }
-
-    .kikaren-lank {
-      font-size: 0.9rem;
-      text-decoration: none;
-      color: #3f5d3f;
-    }
-
-    .kikaren-lank:hover {
-      text-decoration: underline;
-    }
-
-    .badge {
-      background-color: #7ea77e;
-      color: white;
-      font-size: 0.65rem;
-      padding: 0.15rem 0.5rem;
-      border-radius: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      margin-left: 0.5rem;
-      vertical-align: middle;
-    }
-
-    footer {
-      text-align: center;
-      padding: 2rem 1rem;
-      background-color: #e8ede7;
-      color: #555;
-      font-size: 0.9rem;
-      margin-top: 4rem;
-    }
-
     @media (max-width: 600px) {
-      .header-text h1 {
-        font-size: 2rem;
-      }
-
-      .header-text p {
+      .sv-namn {
         font-size: 1rem;
       }
-
-      nav {
-        gap: 1rem;
-        padding: 0.5rem;
-      }
-
-      .observation h2 {
-        font-size: 1rem;
-      }
-
-      .observation p {
-        font-size: 0.9rem;
-      }
-
-      .kikaren {
-        padding: 0.6rem 1rem;
-      }
-
-      .kikaren-inner {
-        flex-direction: row;
-        align-items: center;
-        gap: 0.75rem;
-      }
-
-      .kikaren-ikon {
-        width: 64px;
-        margin: 0;
-      }
-
-      .kikaren-text {
-        flex: 1;
-      }
-    }
-
-    @media (max-width: 400px) {
-      .kikaren-inner {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      .kikaren-text {
-        width: 100%;
-      }
-
-      .kikaren-ikon {
-        margin-bottom: 0.5rem;
+      .lat-namn {
+        font-size: 0.8rem;
       }
     }
   </style>
@@ -228,69 +111,50 @@
 <body>
   <header>
     <img src="bilder/header.png" alt="Fjäderrapporten bakgrund" class="header-image" />
+    <div class="header-text">
+      <h1>Fjäderrapporten</h1>
+      <p>Senaste fågelfynden i Eksjö</p>
+    </div>
   </header>
 
   <nav>
-    <a href="#">🏠 Hem</a>
+    <a href="index.html">🏠 Hem</a>
     <a href="checklistan.html">✅ Checklista</a>
     <a href="info.html">ℹ️ Om</a>
   </nav>
 
-  <main id="fagellista">Laddar observationer...</main>
-
-  <footer>
-    &copy; 2025 Fjäderrapporten – Exempelsida.
-  </footer>
+  <main>
+    <h2 style="text-align: center;">Checklista: Fåglar i Eksjö 2025</h2>
+    <div id="checklista-body"></div>
+  </main>
 
   <script>
-    async function hamtaFaglar() {
-      const res = await fetch("data/eksjo_faglar_apiresponse.json");
-      const data = await res.json();
-      const container = document.getElementById("fagellista");
-      container.innerHTML = "";
+    fetch("data/checklista.json")
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById("checklista-body");
+        const sorted = data.sort((a, b) => new Date(a.förstSedd) - new Date(b.förstSedd));
+        for (const art of sorted) {
+          const card = document.createElement("div");
+          card.className = "bird-card";
 
-      const kikaren = document.createElement("div");
-      kikaren.className = "observation kikaren";
-      kikaren.innerHTML = `
-        <div class="kikaren-inner">
-          <img src="bilder/kikaren-ikon.png" alt="Kikaren" class="kikaren-ikon" />
-          <div class="kikaren-text">
-            <h2>Kikaren <span class="badge">TIPSET</span></h2>
-            <p class="kikaren-beskrivning">En aktuell inblick – nyheter, förklaringar och tips från Fjäderrapporten.</p>
-            <p><a href="info.html" class="kikaren-lank">Läs mer om sidan</a></p>
-          </div>
-        </div>
-      `;
-      container.appendChild(kikaren);
+          const artnamn = art.art.charAt(0).toUpperCase() + art.art.slice(1);
+          const datum = new Date(art.förstSedd).toLocaleDateString("sv-SE");
 
-      data.sort((a, b) => new Date(b.datum) - new Date(a.datum));
-      data.forEach(obs => {
-        const d = new Date(obs.datum);
-        const datumStr = d.toLocaleDateString("sv-SE", { day: 'numeric', month: 'long', year: 'numeric' });
-        const tidStr = d.toLocaleTimeString("sv-SE", { hour: '2-digit', minute: '2-digit' });
-        const art = obs.art.charAt(0).toUpperCase() + obs.art.slice(1);
-        const plats = obs.lokal || "Eksjö";
-        const antalText = obs.antal > 1 ? ` – ${obs.antal} individer` : "";
-
-        const card = document.createElement("div");
-        card.className = "observation";
-
-        card.innerHTML = `
-          <h2>${art} <em>(${obs.scientificName})</em></h2>
-          ${obs.bild ? `
-            <a href="${obs.bild_lank}" target="_blank">
-              <img src="${obs.bild}" alt="${art}" />
-            </a>
-          ` : ""}
-          <p>📍 ${plats}</p>
-          <p>🗓️ ${datumStr} kl. ${tidStr}${antalText}</p>
-        `;
-
-        container.appendChild(card);
+          card.innerHTML = `
+            <div class="bird-header">
+              <div class="sv-namn">${artnamn}</div>
+              <div class="lat-namn"><em>${art.scientificName}</em></div>
+            </div>
+            <div class="bird-details">
+              <p><strong>Först sedd:</strong> ${datum}</p>
+              <p><strong>Plats:</strong> ${art.lokal}</p>
+            </div>
+          `;
+          container.appendChild(card);
+        }
       });
-    }
-
-    window.addEventListener("DOMContentLoaded", hamtaFaglar);
   </script>
 </body>
 </html>
+
