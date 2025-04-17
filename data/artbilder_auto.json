@@ -206,5 +206,9 @@
   "Vanellus vanellus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vanellus_miles_miles.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Vanellus_miles_miles.jpg"
+  },
+  "Anthus trivialis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Anthus_trivialis_trivialis_MHNT.ZOO.2010.11.204.26.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_trivialis_MHNT.ZOO.2010.11.204.26.jpg"
   }
 }
