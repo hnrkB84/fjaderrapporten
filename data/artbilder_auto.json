@@ -210,5 +210,13 @@
   "Anthus trivialis": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Anthus_trivialis_trivialis_MHNT.ZOO.2010.11.204.26.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_trivialis_MHNT.ZOO.2010.11.204.26.jpg"
+  },
+  "Lullula arborea": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lullula_arborea_MHNT.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lullula_arborea_MHNT.jpg"
+  },
+  "Spinus spinus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Eurasian_siskin_%28Spinus_spinus%29_female_Biebrzanski.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_female_Biebrzanski.jpg"
   }
 }
