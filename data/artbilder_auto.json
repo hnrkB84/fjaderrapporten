@@ -186,5 +186,25 @@
   "Mareca strepera": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Anas-strepera-001.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas-strepera-001.jpg"
+  },
+  "Anas crecca": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Anas_crecca_MHNT.ZOO.2010.11.18.3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_crecca_MHNT.ZOO.2010.11.18.3.jpg"
+  },
+  "Anas platyrhynchos": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg"
+  },
+  "Carduelis carduelis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg"
+  },
+  "Haematopus ostralegus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg"
+  },
+  "Vanellus vanellus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vanellus_miles_miles.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Vanellus_miles_miles.jpg"
   }
 }
