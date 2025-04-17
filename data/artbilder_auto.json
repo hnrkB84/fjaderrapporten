@@ -230,5 +230,21 @@
   "Turdus merula": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg"
+  },
+  "Branta canadensis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Canadagoose.jpg"
+  },
+  "Fringilla montifringilla": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fringilla_montifringilla_-_Kajaani_Finlande_222.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_montifringilla_-_Kajaani_Finlande_222.jpg"
+  },
+  "Poecile palustris": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Poecile_palustris_MHNT.ZOO.2010.11.179.3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Poecile_palustris_MHNT.ZOO.2010.11.179.3.jpg"
+  },
+  "Sitta europaea": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sitta_europaea_wildlife_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_wildlife_3.jpg"
   }
 }

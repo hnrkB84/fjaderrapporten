@@ -381,8 +381,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fringilla_montifringilla_-_Kajaani_Finlande_222.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_montifringilla_-_Kajaani_Finlande_222.jpg"
   },
   {
     "art": "gärdsmyg",
@@ -403,8 +403,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Poecile_palustris_MHNT.ZOO.2010.11.179.3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Poecile_palustris_MHNT.ZOO.2010.11.179.3.jpg"
   },
   {
     "art": "nötväcka",
@@ -414,8 +414,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sitta_europaea_wildlife_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_wildlife_3.jpg"
   },
   {
     "art": "kanadagås",
@@ -425,8 +425,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Canadagoose.jpg"
   },
   {
     "art": "svart rödstjärt",
