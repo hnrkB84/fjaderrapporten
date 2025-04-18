@@ -246,5 +246,13 @@
   "Sitta europaea": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sitta_europaea_wildlife_3.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_wildlife_3.jpg"
+  },
+  "Gavia stellata": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Gavia_stellata_MHNT.ZOO.2010.11.36.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_stellata_MHNT.ZOO.2010.11.36.1.jpg"
+  },
+  "Grus grus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg"
   }
 }
