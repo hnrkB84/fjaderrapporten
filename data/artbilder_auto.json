@@ -278,5 +278,21 @@
   "Sterna hirundo": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg"
+  },
+  "Certhia familiaris": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/db/Certhia_familiaris_familiaris_MHNT.ZOO.2010.11.184.29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Certhia_familiaris_familiaris_MHNT.ZOO.2010.11.184.29.jpg"
+  },
+  "Phylloscopus sibilatrix": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/14/Phylloscopus_sibilatrix_MHNT.ZOO.2010.11.195.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_sibilatrix_MHNT.ZOO.2010.11.195.1.jpg"
+  },
+  "Regulus regulus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Goldcrest_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg"
+  },
+  "Turdus iliacus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/96/Turdus_iliacus_coburni_MHNT.ZOO.2010.11.186.28.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_iliacus_coburni_MHNT.ZOO.2010.11.186.28.jpg"
   }
 }
