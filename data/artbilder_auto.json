@@ -302,5 +302,9 @@
   "Picus viridis": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%D0%96%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%28Picus_viridis%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Жовна_зелена_(Picus_viridis).jpg"
+  },
+  "Branta leucopsis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Branta_leucopsis_MHNT.ZOO.2010.11.14.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Branta_leucopsis_MHNT.ZOO.2010.11.14.1.jpg"
   }
 }
