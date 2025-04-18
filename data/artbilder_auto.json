@@ -294,5 +294,13 @@
   "Turdus iliacus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/96/Turdus_iliacus_coburni_MHNT.ZOO.2010.11.186.28.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_iliacus_coburni_MHNT.ZOO.2010.11.186.28.jpg"
+  },
+  "Cinclus cinclus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cinclus_cinclus_MHNT.ZOO.2010.11.185.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_MHNT.ZOO.2010.11.185.1.jpg"
+  },
+  "Picus viridis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%D0%96%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%28Picus_viridis%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Жовна_зелена_(Picus_viridis).jpg"
   }
 }
