@@ -158,6 +158,34 @@
       vertical-align: middle;
     }
 
+    .install-card {
+      display: none;
+      background-color: #f0f5ef;
+      border-left: 5px solid #a8c0a8;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      font-size: 0.95rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .install-card a {
+      display: inline-block;
+      margin-top: 0.5rem;
+      background-color: #a8c0a8;
+      color: #2c2c2c;
+      text-decoration: none;
+      padding: 0.4rem 0.8rem;
+      border-radius: 6px;
+      font-weight: bold;
+      font-family: 'Merriweather', serif;
+      font-size: 0.9rem;
+    }
+
+    .install-card a:hover {
+      background-color: #91ae91;
+    }
+
     footer {
       text-align: center;
       padding: 2rem 1rem;
@@ -165,6 +193,12 @@
       color: #555;
       font-size: 0.9rem;
       margin-top: 4rem;
+    }
+
+    @media (max-width: 768px) {
+      .install-card {
+        display: block;
+      }
     }
 
     @media (max-width: 600px) {
@@ -263,6 +297,14 @@
         </div>
       `;
       container.appendChild(kikaren);
+
+      const installCard = document.createElement("div");
+      installCard.className = "install-card";
+      installCard.innerHTML = `
+        📲 Vill du ha snabb tillgång till sidan? <br />
+        <a href="howto.html">Lägg till på startskärmen</a>
+      `;
+      container.appendChild(installCard);
 
       data.sort((a, b) => new Date(b.datum) - new Date(a.datum));
       data.forEach(obs => {
