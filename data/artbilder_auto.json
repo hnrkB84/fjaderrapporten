@@ -306,5 +306,13 @@
   "Branta leucopsis": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Branta_leucopsis_MHNT.ZOO.2010.11.14.1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Branta_leucopsis_MHNT.ZOO.2010.11.14.1.jpg"
+  },
+  "Corvus corax": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis,_Point_Reyes_National_Seashore.jpg"
+  },
+  "Strix aluco": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tawny_wiki_edit1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tawny_wiki_edit1.jpg"
   }
 }
