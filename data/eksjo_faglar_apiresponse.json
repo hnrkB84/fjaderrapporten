@@ -1,5 +1,16 @@
 [
   {
+    "art": "trädpiplärka",
+    "scientificName": "Anthus trivialis",
+    "datum": "2025-04-18T15:04:00+02:00",
+    "lokal": "Mellby, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg"
+  },
+  {
     "art": "brun kärrhök",
     "scientificName": "Circus aeruginosus",
     "datum": "2025-04-18T14:32:00+02:00",
@@ -537,16 +548,5 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg"
-  },
-  {
-    "art": "smålom",
-    "scientificName": "Gavia stellata",
-    "datum": "2025-04-18T08:48:00+02:00",
-    "lokal": "Kakelugnsmossens naturreservat, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Gavia_stellata_MHNT.ZOO.2010.11.36.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_stellata_MHNT.ZOO.2010.11.36.1.jpg"
   }
 ]
