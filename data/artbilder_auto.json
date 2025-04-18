@@ -254,5 +254,9 @@
   "Grus grus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg"
+  },
+  "Acanthis flammea": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carduelis_flammea_CT6.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_flammea_CT6.jpg"
   }
 }
