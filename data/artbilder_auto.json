@@ -258,5 +258,25 @@
   "Acanthis flammea": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carduelis_flammea_CT6.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_flammea_CT6.jpg"
+  },
+  "Alauda arvensis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Alouette_des_champs_Zaghouan001.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Alouette_des_champs_Zaghouan001.jpg"
+  },
+  "Columba palumbus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Wood_Pigeon_facing_left.jpg"
+  },
+  "Dendrocopos major": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg"
+  },
+  "Motacilla cinerea": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg"
+  },
+  "Sterna hirundo": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg"
   }
 }
