@@ -82,15 +82,14 @@
     .kikaren {
       background-color: #e8f3e8;
       border-left: 5px solid #7ea77e;
-      display: flex;
-      align-items: center;
+      display: block;
+      padding: 1rem;
     }
 
     .kikaren-inner {
       display: flex;
       gap: 1rem;
       align-items: center;
-      flex-wrap: wrap;
     }
 
     .kikaren-ikon {
@@ -140,14 +139,17 @@
       border-radius: 8px;
       padding: 1rem;
       margin-bottom: 1rem;
-      font-size: 0.9rem;
-      font-style: italic;
       color: #2c2c2c;
+      display: block;
+      text-decoration: none;
     }
 
-    .install-hint a {
-      color: #4b654b;
-      text-decoration: underline;
+    .install-hint:hover {
+      background-color: #d7e7d7;
+    }
+
+    .install-text {
+      font-size: 0.95rem;
     }
 
     footer {
@@ -205,9 +207,14 @@
       `;
       container.appendChild(kikaren);
 
-      const installHint = document.createElement("div");
+      const installHint = document.createElement("a");
       installHint.className = "install-hint";
-      installHint.innerHTML = `Lägg till på hemskärmen så här: <a href="howto.html" target="_blank" rel="noopener">visa hur</a>`;
+      installHint.href = "howto.html";
+      installHint.target = "_blank";
+      installHint.rel = "noopener";
+      installHint.innerHTML = `
+        <span class="install-text">Lägg till på hemskärmen så här...</span>
+      `;
       container.appendChild(installHint);
 
       data.sort((a, b) => new Date(b.datum) - new Date(a.datum));
