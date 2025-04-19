@@ -1,5 +1,16 @@
 [
   {
+    "art": "gråhakedopping",
+    "scientificName": "Podiceps grisegena",
+    "datum": "2025-04-19T09:12:00+02:00",
+    "lokal": "Sjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null
+  },
+  {
     "art": "kattuggla",
     "scientificName": "Strix aluco",
     "datum": "2025-04-18T23:48:00+02:00",
@@ -537,16 +548,5 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Phylloscopus_trochilus_-_Willow_Warbler%2C_Adana_2017-01-15_05-1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_-_Willow_Warbler,_Adana_2017-01-15_05-1.jpg"
-  },
-  {
-    "art": "fisktärna",
-    "scientificName": "Sterna hirundo",
-    "datum": "2025-04-18T10:20:00+02:00",
-    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg"
   }
 ]
