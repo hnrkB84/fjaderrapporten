@@ -1,14 +1,12 @@
 import requests
 import json
 from datetime import datetime
-from urllib.parse import urlencode
+from urllib.parse import urlencode, quote_plus  # ✅ Lägg till quote_plus
 from pathlib import Path
 import sys
-import os  # <--- Miljövariabler
+import os
 
-# 🔐 Hämta API-nyckeln från miljövariabler
 API_KEY = os.getenv("OCP_APIM_SUBSCRIPTION_KEY")
-
 API_URL_BASE = "https://api.artdatabanken.se/species-observation-system/v1/Observations/Search"
 
 headers = {
@@ -17,7 +15,6 @@ headers = {
     "X-Api-Version": "1.5"
 }
 
-# Läs in ARTBILDER från override + auto
 artbilder_override_path = Path("data/artbilder_override.json")
 artbilder_auto_path = Path("data/artbilder_auto.json")
 
@@ -33,7 +30,6 @@ if artbilder_override_path.exists():
 else:
     ARTBILDER_OVERRIDE = {}
 
-# 💡 Hjälpfunktion för smart override-matchning
 def hitta_override(namn):
     namn = namn.lower().strip()
     for key in ARTBILDER_OVERRIDE:
@@ -116,6 +112,11 @@ def hamta_fagelfynd():
             bild = override.get("bild") if override else auto.get("bild") if auto else None
             bild_lank = override.get("bild_lank") if override else auto.get("bild_lank") if auto else None
 
+            # 🌍 Bygg Google Maps-länk
+            platsnamn = plats
+            sokfras = f"{platsnamn}, Eksjö, Sverige"
+            google_maps_url = f"https://www.google.com/maps/search/?api=1&query={quote_plus(sokfras)}"
+
             if override:
                 print(f"📸 Override används för {scientific_name}")
 
@@ -135,7 +136,8 @@ def hamta_fagelfynd():
                     "antal": antal,
                     "observationstyp": aktivitet,
                     "bild": bild,
-                    "bild_lank": bild_lank
+                    "bild_lank": bild_lank,
+                    "googleMapsLank": google_maps_url  # ✅ Nytt fält!
                 })
 
         if observationer:
