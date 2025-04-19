@@ -29,8 +29,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Red-breasted_merganser_female_in_CP_%2840744%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-breasted_merganser_female_in_CP_(40744).jpg"
   },
   {
     "art": "skäggdopping",
@@ -51,8 +51,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Actitis_hypoleucos.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos.jpg"
   },
   {
     "art": "storlom",
@@ -73,8 +73,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phalacrocorax_carbo_Vic.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_Vic.jpg"
   },
   {
     "art": "ladusvala",
@@ -84,8 +84,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hirundo_rustica_Ormoz.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_Ormoz.jpg"
   },
   {
     "art": "gråhakedopping",
@@ -106,8 +106,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg"
   },
   {
     "art": "kanadagås",
@@ -139,8 +139,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phalacrocorax_carbo_Vic.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_Vic.jpg"
   },
   {
     "art": "storskrake",
@@ -249,8 +249,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chroicocephalus_ridibundus_2012a.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg"
   },
   {
     "art": "gråtrut",
@@ -260,8 +260,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Head_of_European_herring_gull_%28Larus_argentatus%29._Saint-Malo%2C_France.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Head_of_European_herring_gull_(Larus_argentatus)._Saint-Malo,_France.jpg"
   },
   {
     "art": "ringduva",
@@ -282,8 +282,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sturnus_vulgaris_-California-8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-California-8.jpg"
   },
   {
     "art": "större hackspett",
@@ -326,8 +326,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Gavia_stellata_MHNT.ZOO.2010.11.36.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_stellata_MHNT.ZOO.2010.11.36.1.jpg"
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg"
   },
   {
     "art": "trädpiplärka",
