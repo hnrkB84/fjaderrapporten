@@ -314,5 +314,9 @@
   "Strix aluco": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tawny_wiki_edit1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tawny_wiki_edit1.jpg"
+  },
+  "Podiceps grisegena": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-necked_grebe_(Podiceps_grisegena_grisegena)_breeding_adult_Gronjordssoen.jpg"
   }
 }
