@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ändringslogg – Fjäderrapporten</title>
+  <title>Changelog – Fjäderrapporten</title>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -31,21 +31,40 @@
       background-color: #ffffff;
       padding: 1.5rem 2rem;
       margin-bottom: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      border-left: 4px solid #a8c0a8;
+      border-radius: 4px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
     }
     .log-entry h2 {
-      font-size: 1.3rem;
+      font-size: 1.1rem;
       margin-bottom: 0.3rem;
+      font-family: monospace;
     }
     .log-entry .date {
-      font-size: 0.9rem;
-      color: #777;
+      font-size: 0.85rem;
+      color: #555;
       margin-bottom: 0.8rem;
+      font-family: monospace;
     }
-    .log-entry p {
+    .log-entry ul {
+      padding-left: 1.2rem;
+    }
+    .log-entry li {
       font-size: 1rem;
-      line-height: 1.5;
+      line-height: 1.6;
+      list-style-type: "• ";
+    }
+    .tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      padding: 0.2rem 0.5rem;
+      background-color: #dbe8d1;
+      border-radius: 4px;
+      margin-right: 0.5rem;
+      text-transform: uppercase;
+      font-weight: bold;
+      color: #333;
+      font-family: monospace;
     }
     .back-button {
       display: inline-block;
@@ -72,40 +91,53 @@
 </head>
 <body>
   <header>
-    <h1>Ändringslogg</h1>
+    <h1>Changelog</h1>
+    <p style="font-family: monospace; font-size: 0.95rem;">Senaste uppdateringar och ändringar i projektet</p>
   </header>
   <main>
-    
+
     <div class="log-entry">
-      <h2>Lansering av Fjäderrapporten</h2>
-      <div class="date">17 april 2025</div>
-      <p>
-        Första versionen av sidan går live. Visar de 15 senaste fågelfynden i Eksjö kommun direkt från Artportalen.
-      </p>
+      <h2>[v1.0.3] – Lokalisering + Maps-länk</h2>
+      <div class="date">2025-04-19</div>
+      <span class="tag">enhancement</span>
+      <span class="tag">UX</span>
+      <ul>
+        <li>Lagt till länk till Google Maps från varje fågelfynd.</li>
+        <li>Nu går det att se exakt var fågeln observerats – direkt via karttjänst.</li>
+      </ul>
     </div>
 
     <div class="log-entry">
-      <h2>Bilder till fågelkorten</h2>
-      <div class="date">17 april 2025</div>
-      <p>
-        Lagt till automatisk hämtning av bilder till fågelkorten. Förbättrar visuell översikt av fynden.
-      </p>
+      <h2>[v1.0.2] – Lägg till på hemskärmen</h2>
+      <div class="date">2025-04-18</div>
+      <span class="tag">info</span>
+      <span class="tag">pwa-lite</span>
+      <ul>
+        <li>Instruktioner tillagda om hur man sparar Fjäderrapporten på hemskärmen (iOS/Android).</li>
+        <li>Smidigare access på mobilen – nästan som en app.</li>
+      </ul>
     </div>
 
     <div class="log-entry">
-      <h2>Lägg till på hemskärmen</h2>
-      <div class="date">18 april 2025</div>
-      <p>
-        Information inlagd om hur man kan spara sidan på hemskärmen på mobil och surfplatta för snabbare åtkomst.
-      </p>
+      <h2>[v1.0.1] – Bilder i fågelkorten</h2>
+      <div class="date">2025-04-17</div>
+      <span class="tag">feature</span>
+      <span class="tag">auto-fetch</span>
+      <ul>
+        <li>Fåglarna har nu bilder (om tillgängligt) tack vare integration med Wikimedia Commons.</li>
+        <li>Automatisk hämtning via script – med fallback till manuella overrides vid behov.</li>
+      </ul>
     </div>
 
     <div class="log-entry">
-      <h2>Lokalisering och Google Maps</h2>
-      <div class="date">19 april 2025</div>
-      <p>
-        Lagt till länkar som visar var fynden gjorts, med direktkoppling till Google Maps för enkel platsöverblick.
-      </p>
+      <h2>[v1.0.0] – Lansering 🎉</h2>
+      <div class="date">2025-04-17</div>
+      <span class="tag">release</span>
+      <ul>
+        <li>Första publika versionen av Fjäderrapporten!</li>
+        <li>Visar de 15 senaste fågelfynden i Eksjö direkt från Artportalen.</li>
+        <li>Responsiv design, hobbyprojekt, och helt ideellt – men med ❤️ för fåglar och kod.</li>
+      </ul>
     </div>
 
     <a href="index.html" class="back-button">⬅️ Tillbaka till fynden</a>
