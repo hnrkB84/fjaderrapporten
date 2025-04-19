@@ -350,5 +350,9 @@
   "Sturnus vulgaris": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sturnus_vulgaris_-California-8.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-California-8.jpg"
+  },
+  "Loxia curvirostra": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/da/Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_T%C3%A9bessa.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_Tébessa.jpg"
   }
 }
