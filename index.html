@@ -79,6 +79,17 @@
       display: block;
     }
 
+    .map-link {
+      color: #2c2c2c;
+      text-decoration: none;
+      font-weight: normal;
+    }
+
+    .map-link:hover {
+      text-decoration: underline;
+      color: #3f5d3f;
+    }
+
     .kikaren {
       background-color: #e8f3e8;
       border-left: 5px solid #7ea77e;
@@ -212,9 +223,7 @@
       installHint.href = "howto.html";
       installHint.target = "_blank";
       installHint.rel = "noopener";
-      installHint.innerHTML = `
-        <span class="install-text">Lägg till på hemskärmen så här...</span>
-      `;
+      installHint.innerHTML = `<span class="install-text">Lägg till på hemskärmen så här...</span>`;
       container.appendChild(installHint);
 
       data.sort((a, b) => new Date(b.datum) - new Date(a.datum));
@@ -236,7 +245,14 @@
               <img src="${obs.bild}" alt="${art}" />
             </a>
           ` : ""}
-          <p>📍 ${plats}</p>
+          ${obs.googleMapsLank ? `
+            <p>
+              <a href="${obs.googleMapsLank}" target="_blank" rel="noopener noreferrer"
+                 class="map-link" title="Visa ${plats} på karta" aria-label="Visa ${plats} i Google Maps">
+                📍 ${plats}
+              </a>
+            </p>
+          ` : `<p>📍 ${plats}</p>`}
           <p>🗓️ ${datumStr} kl. ${tidStr}${antalText}</p>
         `;
 
