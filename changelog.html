@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Om Fjäderrapporten</title>
+  <title>Ändringslogg – Fjäderrapporten</title>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -27,19 +27,25 @@
       margin: 2rem auto;
       padding: 0 1.5rem;
     }
-    .content {
+    .log-entry {
       background-color: #ffffff;
-      padding: 2rem;
+      padding: 1.5rem 2rem;
+      margin-bottom: 1.5rem;
       border-radius: 8px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.05);
     }
-    .content h2 {
-      font-size: 1.5rem;
-      margin-top: 0;
+    .log-entry h2 {
+      font-size: 1.3rem;
+      margin-bottom: 0.3rem;
     }
-    .content p {
+    .log-entry .date {
+      font-size: 0.9rem;
+      color: #777;
+      margin-bottom: 0.8rem;
+    }
+    .log-entry p {
       font-size: 1rem;
-      line-height: 1.6;
+      line-height: 1.5;
     }
     .back-button {
       display: inline-block;
@@ -66,35 +72,46 @@
 </head>
 <body>
   <header>
-    <h1>Om Fjäderrapporten</h1>
+    <h1>Ändringslogg</h1>
   </header>
   <main>
-    <div class="content">
-      <h2>Vad är Fjäderrapporten?</h2>
+    
+    <div class="log-entry">
+      <h2>Lansering av Fjäderrapporten</h2>
+      <div class="date">17 april 2025</div>
       <p>
-        Fjäderrapporten är en liten webbsida som visar de senaste fågelfynden i Eksjö kommun. Här får du en snabb överblick över vilka arter som nyligen observerats – direkt från <a href="https://www.artportalen.se/" target="_blank">Artportalens</a> databas.
+        Första versionen av sidan går live. Visar de 15 senaste fågelfynden i Eksjö kommun direkt från Artportalen.
       </p>
-      <p>
-        Varje fynd visas med tid, plats och bild om det finns tillgängligt. Du kan också klicka dig vidare till <strong>checklistan</strong> för att se vilka arter som rapporterats totalt under året, eller läsa mer om en fågel via länkade bilder.
-      </p>
-      <p>
-        Sidan startade som ett tekniskt test – mest för att prova på API:er och upptäcka att Artportalen faktiskt hade ett. Sedan blev det kvar som ett litet, men rätt kul projekt. Ibland är det ju bara intressant att veta vad det var man såg eller hörde.
-      </p>
-      <p>
-        Fler funktioner kanske kommer, och något ballar säkert ur ibland. Har du idéer eller hittar något som inte fungerar – mejla gärna till <a href="mailto:fjaderrapporten@outlook.com">fjaderrapporten@outlook.com</a>.
-      </p>
-      <p>
-        Vill du bidra? Rapportera egna observationer via <a href="https://www.artportalen.se/" target="_blank">Artportalen</a>. Deras arbete gör det möjligt för både forskare och naturintresserade att ta del av vår gemensamma kunskap om Sveriges djur och natur.
-      </p>
-      <p>
-        <em>Fjäderrapporten är helt ideell och drivs som ett hobbyprojekt. Datan som visas kommer från tredje part och kan vara ofullständig eller innehålla fel.</em>
-      </p>
-      <a href="index.html" class="back-button">⬅️ Tillbaka till fynden</a>
     </div>
+
+    <div class="log-entry">
+      <h2>Bilder till fågelkorten</h2>
+      <div class="date">17 april 2025</div>
+      <p>
+        Lagt till automatisk hämtning av bilder till fågelkorten. Förbättrar visuell översikt av fynden.
+      </p>
+    </div>
+
+    <div class="log-entry">
+      <h2>Lägg till på hemskärmen</h2>
+      <div class="date">18 april 2025</div>
+      <p>
+        Information inlagd om hur man kan spara sidan på hemskärmen på mobil och surfplatta för snabbare åtkomst.
+      </p>
+    </div>
+
+    <div class="log-entry">
+      <h2>Lokalisering och Google Maps</h2>
+      <div class="date">19 april 2025</div>
+      <p>
+        Lagt till länkar som visar var fynden gjorts, med direktkoppling till Google Maps för enkel platsöverblick.
+      </p>
+    </div>
+
+    <a href="index.html" class="back-button">⬅️ Tillbaka till fynden</a>
   </main>
   <footer>
     &copy; 2025 Fjäderrapporten – Naturen är alltid nära.
   </footer>
 </body>
 </html>
-
