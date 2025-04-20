@@ -206,15 +206,27 @@
 
       const kikaren = document.createElement("div");
       kikaren.className = "observation kikaren";
-      kikaren.innerHTML = `
-        <div class="kikaren-inner">
-          <img src="bilder/kikaren-ikon.png" alt="Kikaren" class="kikaren-ikon" />
-          <div class="kikaren-text">
-            <h2>Kikaren <span class="badge">TIPSET</span></h2>
-            <p class="kikaren-beskrivning">En aktuell inblick – nyheter, förklaringar och tips från Fjäderrapporten.</p>
-            <p><a href="info.html" class="kikaren-lank">Läs mer om sidan</a></p>
-          </div>
-        </div>
+      const nyheterRes = await fetch("data/nyheter.json");
+      const nyheter = await nyheterRes.json();
+      nyheter.sort((a, b) => new Date(b.datum) - new Date(a.datum));
+      
+      const nyhetsHTML = nyheter.map(nyhet => `
+        <p class="kikaren-beskrivning">
+          <strong>${nyhet.datum}:</strong> ${nyhet.titel}
+          <a href="${nyhet.lank}" class="kikaren-lank">Läs mer</a>
+        </p>
+`).join("");
+
+kikaren.innerHTML = `
+  <div class="kikaren-inner">
+    <img src="bilder/kikaren-ikon.png" alt="Kikaren" class="kikaren-ikon" />
+    <div class="kikaren-text">
+      <h2>Kikaren <span class="badge">TIPSET</span></h2>
+      ${nyhetsHTML}
+    </div>
+  </div>
+`;
+
       `;
       container.appendChild(kikaren);
 
