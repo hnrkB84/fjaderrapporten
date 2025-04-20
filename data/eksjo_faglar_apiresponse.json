@@ -1,5 +1,29 @@
 [
   {
+    "art": "trädpiplärka",
+    "scientificName": "Anthus trivialis",
+    "datum": "2025-04-20T19:15:00+02:00",
+    "lokal": "Kongseryd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kongseryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "tjäder",
+    "scientificName": "Tetrao urogallus",
+    "datum": "2025-04-20T19:10:00+02:00",
+    "lokal": "Kongseryd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tetrao_urogallus_Richard_Bartz.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_Richard_Bartz.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kongseryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kanadagås",
     "scientificName": "Branta canadensis",
     "datum": "2025-04-20T15:19:00+02:00",
@@ -504,6 +528,42 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "knipa",
+    "scientificName": "Bucephala clangula",
+    "datum": "2025-04-20T08:00:00+02:00",
+    "lokal": "Ekeryd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ekeryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "taltrast",
+    "scientificName": "Turdus philomelos",
+    "datum": "2025-04-20T08:00:00+02:00",
+    "lokal": "Ekeryd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Song_thrush_%28Turdus_philomelos_philomelos%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Song_thrush_(Turdus_philomelos_philomelos).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ekeryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "spillkråka",
+    "scientificName": "Dryocopus martius",
+    "datum": "2025-04-20T08:00:00+02:00",
+    "lokal": "Ekeryd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Black_woodpecker_%28Dryocopus_martius%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Black_woodpecker_(Dryocopus_martius).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ekeryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "lövsångare",
     "scientificName": "Phylloscopus trochilus",
     "datum": "2025-04-19T15:34:00+02:00",
@@ -537,66 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skäggdopping",
-    "scientificName": "Podiceps cristatus",
-    "datum": "2025-04-19T14:10:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gr%C3%A8be_hupp%C3%A9_Thyna008.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_huppé_Thyna008.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "storlom",
-    "scientificName": "Gavia arctica",
-    "datum": "2025-04-19T14:10:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gavia_arctica_%28Black-throated_Loon_or_Black-throated_Diver%29_on_nest.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_arctica_(Black-throated_Loon_or_Black-throated_Diver)_on_nest.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rördrom",
-    "scientificName": "Botaurus stellaris",
-    "datum": "2025-04-19T14:10:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/da/Great_bittern_%28Botaurus_stellaris%29_in_flight_Vadu_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Great_bittern_(Botaurus_stellaris)_in_flight_Vadu_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "fiskgjuse",
-    "scientificName": "Pandion haliaetus",
-    "datum": "2025-04-19T14:10:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0f/OspreyNASA.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:OspreyNASA.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "brun kärrhök",
-    "scientificName": "Circus aeruginosus",
-    "datum": "2025-04-19T14:10:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
