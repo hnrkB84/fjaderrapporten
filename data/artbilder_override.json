@@ -70,6 +70,13 @@
       "Melanitta fusca": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/82/Melanitta_fusca_%28cropped%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Melanitta_fusca_(cropped).jpg"
+  },
+      "Branta leucopsis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Branta_leucopsis_Djurgarden.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Branta_leucopsis_Djurgarden.JPG"
+  },
+      "Anser brachyrhynchus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/47/2019-05-25_Anser_brachyrhynchus%2C_Gosforth_Park%2C_Northumberland_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-05-25_Anser_brachyrhynchus,_Gosforth_Park,_Northumberland_1.jpg"
   }
-
 }
