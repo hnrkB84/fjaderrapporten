@@ -1,5 +1,77 @@
 [
   {
+    "art": "svart rödstjärt",
+    "scientificName": "Phoenicurus ochruros",
+    "datum": "2025-04-20T12:55:00+02:00",
+    "lokal": "Industriområdet, Nifsarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Seehof_Phoenicurus_ochruros_female_5264746.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Seehof_Phoenicurus_ochruros_female_5264746.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "smådopping",
+    "scientificName": "Tachybaptus ruficollis",
+    "datum": "2025-04-20T12:50:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ladusvala",
+    "scientificName": "Hirundo rustica",
+    "datum": "2025-04-20T12:50:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hirundo_rustica_Ormoz.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_Ormoz.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "havsörn",
+    "scientificName": "Haliaeetus albicilla",
+    "datum": "2025-04-20T12:45:00+02:00",
+    "lokal": "Ladugårdsängen, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fighting_white-tailed_eagles_%28Haliaeetus_albicilla%29_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ladug%C3%A5rds%C3%A4ngen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sothöna",
+    "scientificName": "Fulica atra",
+    "datum": "2025-04-20T12:41:00+02:00",
+    "lokal": "Löten, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%B6ten%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "buskskvätta",
+    "scientificName": "Saxicola rubetra",
+    "datum": "2025-04-20T12:38:00+02:00",
+    "lokal": "Ladugårdsängen, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ladug%C3%A5rds%C3%A4ngen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "snatterand",
     "scientificName": "Mareca strepera",
     "datum": "2025-04-20T12:26:00+02:00",
@@ -526,77 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ficedula_hypoleuca-F-Iski_morost.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca-F-Iski_morost.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84spen%C3%A4slandet%2C+Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sångsvan",
-    "scientificName": "Cygnus cygnus",
-    "datum": "2025-04-19T12:05:00+02:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "vigg",
-    "scientificName": "Aythya fuligula",
-    "datum": "2025-04-19T12:05:00+02:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skäggdopping",
-    "scientificName": "Podiceps cristatus",
-    "datum": "2025-04-19T12:05:00+02:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gr%C3%A8be_hupp%C3%A9_Thyna008.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_huppé_Thyna008.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "fisktärna",
-    "scientificName": "Sterna hirundo",
-    "datum": "2025-04-19T12:05:00+02:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skrattmås",
-    "scientificName": "Chroicocephalus ridibundus",
-    "datum": "2025-04-19T12:05:00+02:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chroicocephalus_ridibundus_2012a.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "brun kärrhök",
-    "scientificName": "Circus aeruginosus",
-    "datum": "2025-04-19T12:05:00+02:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
