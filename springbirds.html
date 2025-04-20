@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vårfåglar i Eksjö</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Merriweather', serif;
+      background-color: #f4f7f5;
+      color: #2c2c2c;
+    }
+    header {
+      position: relative;
+      width: 100%;
+      height: 260px;
+      overflow: hidden;
+      border-bottom: 1px solid #ccc;
+    }
+    .header-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    nav {
+      background-color: #f0f5ef;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+      padding: 1rem;
+      border-bottom: 1px solid #c8d5c1;
+    }
+    nav a {
+      text-decoration: none;
+      color: #2c2c2c;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+    nav a:hover { color: #3f5d3f; }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .bird-card {
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      margin-bottom: 1.5rem;
+      padding: 1rem;
+    }
+    .sv-namn {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    .lat-namn {
+      font-size: 0.9rem;
+      font-style: italic;
+      color: #555;
+      margin-bottom: 0.5rem;
+    }
+    .bird-details p {
+      margin: 0.2rem 0;
+    }
+    .bird-details img {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 0.5rem;
+    }
+    .tab-buttons {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 2rem;
+      gap: 1rem;
+    }
+    .tab-buttons button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      border: none;
+      background-color: #cde0d4;
+      cursor: pointer;
+      border-radius: 8px;
+    }
+    .tab-buttons button.active {
+      background-color: #3f5d3f;
+      color: white;
+    }
+    .bird-list {
+      display: none;
+    }
+    .bird-list.active {
+      display: block;
+    }
+    @media (max-width: 600px) {
+      .sv-namn { font-size: 1rem; }
+      .lat-namn { font-size: 0.8rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="bilder/header.png" alt="Fjäderrapporten bakgrund" class="header-image" />
+  </header>
+
+  <nav>
+    <a href="index.html">🏠 Hem</a>
+    <a href="#" onclick="showList('april')">🌸 Vårfåglar i april</a>
+    <a href="#" onclick="showList('maj')">🌼 Vårfåglar i maj</a>
+  </nav>
+
+  <main>
+    <h2 style="text-align: center;">Vårfåglar i Eksjö</h2>
+    <div class="tab-buttons">
+      <button id="aprilBtn" class="active" onclick="showList('april')">April</button>
+      <button id="majBtn" onclick="showList('maj')">Maj</button>
+    </div>
+
+    <div id="april" class="bird-list active">
+      <!-- Alla april-fåglar infogade här -->
+      <!-- START APRIL FÅGLAR -->
+      
+      <div class="bird-card">
+        <div class="sv-namn">Backsvala</div>
+        <div class="lat-namn"><em>Riparia riparia</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Backsvala">
+          <p><strong>Beskrivning:</strong> En liten svala med bruna vingar och ett tydligt vitt bröstband.</p>
+          <p><strong>Utbredning:</strong> Förekommer spritt i landet, främst där det finns sandbrinkar.</p>
+          <p><strong>Egenskaper:</strong> Kolonihäckare som gräver bohål i sandig mark nära vatten.</p>
+        </div>
+      </div>
+
+      <div class="bird-card">
+        <div class="sv-namn">Brushane</div>
+        <div class="lat-namn"><em>Calidris pugnax</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Brushane">
+          <p><strong>Beskrivning:</strong> Vackert färgad vadare, särskilt hanarna under spelperioden.</p>
+          <p><strong>Utbredning:</strong> Häcker på myrar i norra Sverige, rastar på våtmarker i hela landet.</p>
+          <p><strong>Egenskaper:</strong> Hanen har dekorativa fjäderkragar under spelet.</p>
+        </div>
+      </div>
+
+      <div class="bird-card">
+        <div class="sv-namn">Buskskvätta</div>
+        <div class="lat-namn"><em>Saxicola rubetra</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Buskskvätta">
+          <p><strong>Beskrivning:</strong> Liten fågel med vitt ögonbrynsstreck och rödbrun bröstfärg.</p>
+          <p><strong>Utbredning:</strong> Vanlig i öppna landskap över hela landet.</p>
+          <p><strong>Egenskaper:</strong> Ses ofta sitta på stolpar eller buskar.</p>
+        </div>
+      </div>
+
+      <div class="bird-card">
+        <div class="sv-namn">Drillsnäppa</div>
+        <div class="lat-namn"><em>Actitis hypoleucos</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Drillsnäppa">
+          <p><strong>Beskrivning:</strong> Liten vadare som rör sig gungande längs stränder.</p>
+          <p><strong>Utbredning:</strong> Häckar spritt i inlandet längs sjöar och vattendrag.</p>
+          <p><strong>Egenskaper:</strong> Lätt att känna igen på det ljusa vingbandet i flykten.</p>
+        </div>
+      </div>
+
+      <div class="bird-card">
+        <div class="sv-namn">Fiskgjuse</div>
+        <div class="lat-namn"><em>Pandion haliaetus</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Fiskgjuse">
+          <p><strong>Beskrivning:</strong> Stor rovfågel som fiskar genom att dyka rakt ner i vatten.</p>
+          <p><strong>Utbredning:</strong> Vanlig i större delar av landet där det finns fiskevatten.</p>
+          <p><strong>Egenskaper:</strong> Bygger stora bon ofta nära vatten.</p>
+        </div>
+      </div>
+
+      <div class="bird-card">
+        <div class="sv-namn">Fisktärna</div>
+        <div class="lat-namn"><em>Sterna hirundo</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Fisktärna">
+          <p><strong>Beskrivning:</strong> Slank fågel med svart hjässa och kluven stjärt.</p>
+          <p><strong>Utbredning:</strong> Ses vid kuster och insjöar i hela Sverige.</p>
+          <p><strong>Egenskaper:</strong> Fångar fisk genom dykning.</p>
+        </div>
+      </div>
+
+      <div class="bird-card">
+        <div class="sv-namn">Gransångare</div>
+        <div class="lat-namn"><em>Phylloscopus collybita</em></div>
+        <div class="bird-details">
+          <img src="#" alt="Gransångare">
+          <p><strong>Beskrivning:</strong> Liten grågrön sångare med kort stjärt och mörka ben.</p>
+          <p><strong>Utbredning:</strong> Förekommer i hela landet upp till fjällkanten.</p>
+          <p><strong>Egenskaper:</strong> Sången är ett karakteristiskt "silt-sylt-silt".</p>
+        </div>
+      </div>
+
+      <!-- Nästa omgång aprilfåglar kommer härnäst -->
+
+<!-- SLUT APRIL FÅGLAR -->
+    </div>
+    <div id="maj" class="bird-list">
+      <!-- Alla maj-fåglar infogas härnäst -->
+    </div>
+  </main>
+
+  <script>
+    function showList(month) {
+      document.querySelectorAll('.bird-list').forEach(list => list.classList.remove('active'));
+      document.getElementById(month).classList.add('active');
+      document.getElementById('aprilBtn').classList.remove('active');
+      document.getElementById('majBtn').classList.remove('active');
+      document.getElementById(month + 'Btn').classList.add('active');
+    }
+  </script>
+</body>
+</html>
