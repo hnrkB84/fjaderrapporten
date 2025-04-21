@@ -402,5 +402,9 @@
   "Phasianus colchicus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Phasianus_colchicus_MHNT_Skeleton.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Phasianus_colchicus_MHNT_Skeleton.jpg"
+  },
+  "Numenius arquata": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/67/Curlew_%28Numenius_arquata%29_in_flight.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Curlew_(Numenius_arquata)_in_flight.jpg"
   }
 }
