@@ -394,5 +394,13 @@
   "Pyrrhula pyrrhula": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pyrrhula_pyrrhula_female_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Pyrrhula_pyrrhula_female_2.jpg"
+  },
+  "Circus cyaneus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/37/Circus_cyaneus_MHNT.ZOO.2010.11.83.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Circus_cyaneus_MHNT.ZOO.2010.11.83.1.jpg"
+  },
+  "Phasianus colchicus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Phasianus_colchicus_MHNT_Skeleton.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phasianus_colchicus_MHNT_Skeleton.jpg"
   }
 }
