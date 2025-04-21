@@ -78,5 +78,17 @@
       "Anser brachyrhynchus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/47/2019-05-25_Anser_brachyrhynchus%2C_Gosforth_Park%2C_Northumberland_1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-05-25_Anser_brachyrhynchus,_Gosforth_Park,_Northumberland_1.jpg"
+  },
+      "Phasianus colchicus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jagdfasan-Hahn_%28M%C3%A4rz_2025%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Jagdfasan-Hahn_(M%C3%A4rz_2025).jpg"
+  },
+      "Circus cyaneus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Weibliche_Kornweihe_%28circus_cyaneus%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Weibliche_Kornweihe_(circus_cyaneus)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg"
+  },
+      "Larus canus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Larus_canus_Oulu_20150712_03.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_canus_Oulu_20150712_03.JPG"
   }
 }
