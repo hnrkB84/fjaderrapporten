@@ -204,6 +204,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "hämpling",
+    "scientificName": "Linaria cannabina",
+    "datum": "2025-04-20T13:02:00+02:00",
+    "lokal": "Industriområdet, Nifsarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "svart rödstjärt",
     "scientificName": "Phoenicurus ochruros",
     "datum": "2025-04-20T12:55:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "vigg",
-    "scientificName": "Aythya fuligula",
-    "datum": "2025-04-19T14:10:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
