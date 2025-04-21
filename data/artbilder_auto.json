@@ -406,5 +406,9 @@
   "Numenius arquata": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/67/Curlew_%28Numenius_arquata%29_in_flight.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Curlew_(Numenius_arquata)_in_flight.jpg"
+  },
+  "Astur gentilis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg"
   }
 }
