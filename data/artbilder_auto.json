@@ -382,5 +382,17 @@
   "Linaria cannabina": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg"
+  },
+  "Cyanistes caeruleus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg"
+  },
+  "Larus canus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/66/Larus_canus_canus_MHNT.ZOO.2010.11.125.9.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_canus_canus_MHNT.ZOO.2010.11.125.9.jpg"
+  },
+  "Pyrrhula pyrrhula": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pyrrhula_pyrrhula_female_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pyrrhula_pyrrhula_female_2.jpg"
   }
 }
