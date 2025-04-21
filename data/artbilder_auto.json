@@ -378,5 +378,9 @@
   "Anser brachyrhynchus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anser_brachyrhynchus_MHNT.ZOO.2010.11.13.3.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Anser_brachyrhynchus_MHNT.ZOO.2010.11.13.3.jpg"
+  },
+  "Linaria cannabina": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg"
   }
 }
