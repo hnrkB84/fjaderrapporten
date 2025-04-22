@@ -7,9 +7,21 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "turkduva",
+    "scientificName": "Streptopelia decaocto",
+    "datum": "2025-04-22T17:00:00+02:00",
+    "lokal": "Eksjö, Södra Rokalven, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6%2C+S%C3%B6dra+Rokalven%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "havsörn",
@@ -31,8 +43,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Rohkunborri_Pluvialis_Apricaria.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -79,8 +91,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Rohkunborri_Pluvialis_Apricaria.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -247,8 +259,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -271,8 +283,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/78/Aythya_ferina_MHNT.ZOO.2010.11.20.4.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_MHNT.ZOO.2010.11.20.4.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aythya_ferina_Sandwell_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_Sandwell_2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -343,8 +355,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -439,8 +451,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Spatula_querquedula_MHNT.ZOO.2010.11.18.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Spatula_querquedula_MHNT.ZOO.2010.11.18.1.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Garganey_%28Spatula_querquedula%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Garganey_(Spatula_querquedula)_male.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -499,8 +511,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mycklaflons+Camping%2C+Norrs%C3%A5nna%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -511,8 +523,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Spatula_querquedula_MHNT.ZOO.2010.11.18.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Spatula_querquedula_MHNT.ZOO.2010.11.18.1.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Garganey_%28Spatula_querquedula%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Garganey_(Spatula_querquedula)_male.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -547,8 +559,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Rohkunborri_Pluvialis_Apricaria.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "storspov",
-    "scientificName": "Numenius arquata",
-    "datum": "2025-04-22T12:26:00+02:00",
-    "lokal": "Sjögärdet, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/67/Curlew_%28Numenius_arquata%29_in_flight.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Curlew_(Numenius_arquata)_in_flight.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
