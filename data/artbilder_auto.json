@@ -422,5 +422,13 @@
   "Spatula querquedula": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Spatula_querquedula_MHNT.ZOO.2010.11.18.1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Spatula_querquedula_MHNT.ZOO.2010.11.18.1.jpg"
+  },
+  "Tringa glareola": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tringa_glareola_-_Laem_Phak_Bia.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tringa_glareola_-_Laem_Phak_Bia.jpg"
+  },
+  "Tringa nebularia": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_common_greenshank_%28Tringa_nebularia%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:The_common_greenshank_(Tringa_nebularia).jpg"
   }
 }
