@@ -103,10 +103,6 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg"
   },
-      "Melanitta nigra": {
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aythya_ferina_Sandwell_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_Sandwell_2.jpg"
-  },
       "Aythya ferina": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aythya_ferina_Sandwell_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_Sandwell_2.jpg"
@@ -114,5 +110,5 @@
       "Spatula querquedula": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Garganey_%28Spatula_querquedula%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Garganey_(Spatula_querquedula)_male.jpg"
-  },
+  }
 }
