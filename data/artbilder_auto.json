@@ -430,5 +430,13 @@
   "Tringa nebularia": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_common_greenshank_%28Tringa_nebularia%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:The_common_greenshank_(Tringa_nebularia).jpg"
+  },
+  "Melanitta nigra": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Melanitta_nigra_MHNT.ZOO.2010.11.19.5.jpg"
+  },
+  "Pluvialis apricaria": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg"
   }
 }
