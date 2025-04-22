@@ -90,5 +90,29 @@
       "Larus canus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Larus_canus_Oulu_20150712_03.JPG",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_canus_Oulu_20150712_03.JPG"
-  }
+  },
+      "Scolopax rusticola": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg"
+  },
+      "Pluvialis apricaria": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Rohkunborri_Pluvialis_Apricaria.jpg"
+  },
+      "Melanitta nigra": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg"
+  },
+      "Melanitta nigra": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aythya_ferina_Sandwell_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_Sandwell_2.jpg"
+  },
+      "Aythya ferina": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aythya_ferina_Sandwell_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_Sandwell_2.jpg"
+  },
+      "Spatula querquedula": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Garganey_%28Spatula_querquedula%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Garganey_(Spatula_querquedula)_male.jpg"
+  },
 }
