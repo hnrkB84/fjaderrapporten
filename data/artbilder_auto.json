@@ -438,5 +438,9 @@
   "Pluvialis apricaria": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Pluvialis_apricaria_altifrons_MHNT.ZOO.2010.11.108.11.jpg"
+  },
+  "Muscicapidae": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Red-billed_firefinch_%28Lagonosticta_senegala_senegala%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-billed_firefinch_(Lagonosticta_senegala_senegala)_female.jpg"
   }
 }
