@@ -1,5 +1,41 @@
 [
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-04-23T10:43:00+02:00",
+    "lokal": "Hagagård, Mellby, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Hagag%C3%A5rd%2C+Mellby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "buskskvätta",
+    "scientificName": "Saxicola rubetra",
+    "datum": "2025-04-23T09:43:00+02:00",
+    "lokal": "Hörnet, Östraby, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tarier_des_près_Zaghouan_NP001.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%B6rnet%2C+%C3%96straby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "hussvala",
+    "scientificName": "Delichon urbicum",
+    "datum": "2025-04-23T09:38:00+02:00",
+    "lokal": "Värhult, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/28/Delichon_urbicum_MHNT.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Delichon_urbicum_MHNT.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rhult%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "sjöorre",
     "scientificName": "Melanitta nigra",
     "datum": "2025-04-23T09:11:00+02:00",
@@ -19,8 +55,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sterna-caspia-010.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mycklaflons+Camping%2C+Norrs%C3%A5nna%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -31,8 +67,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CROP._Corvus_monedula%2C_naakka%2C_Naantalin_hautausmaa%2C_Naantali%2C_8.11.2011..jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:CROP._Corvus_monedula,_naakka,_Naantalin_hautausmaa,_Naantali,_8.11.2011..jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ulfsparregatan+3%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -562,41 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/39/Common_Teal_Male_%288602525826%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Teal_Male_(8602525826).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "årta",
-    "scientificName": "Spatula querquedula",
-    "datum": "2025-04-22T13:20:00+02:00",
-    "lokal": "Mellby kyrkmosse, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Garganey_%28Spatula_querquedula%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Garganey_(Spatula_querquedula)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sothöna",
-    "scientificName": "Fulica atra",
-    "datum": "2025-04-22T13:20:00+02:00",
-    "lokal": "Mellby kyrkmosse, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "vigg",
-    "scientificName": "Aythya fuligula",
-    "datum": "2025-04-22T13:00:00+02:00",
-    "lokal": "Kvarnarpasjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnarpasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]

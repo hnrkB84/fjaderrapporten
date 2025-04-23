@@ -442,5 +442,13 @@
   "Muscicapidae": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Red-billed_firefinch_%28Lagonosticta_senegala_senegala%29_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-billed_firefinch_(Lagonosticta_senegala_senegala)_female.jpg"
+  },
+  "Corvus monedula": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CROP._Corvus_monedula%2C_naakka%2C_Naantalin_hautausmaa%2C_Naantali%2C_8.11.2011..jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:CROP._Corvus_monedula,_naakka,_Naantalin_hautausmaa,_Naantali,_8.11.2011..jpg"
+  },
+  "Hydroprogne caspia": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sterna-caspia-010.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg"
   }
 }
