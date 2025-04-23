@@ -454,5 +454,9 @@
   "Turdus torquatus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Turdus_torquatus_torquatus_MHNT.ZOO.2010.11.186.36.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_torquatus_torquatus_MHNT.ZOO.2010.11.186.36.jpg"
+  },
+  "Jynx torquilla": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_крутиголовка.jpg"
   }
 }
