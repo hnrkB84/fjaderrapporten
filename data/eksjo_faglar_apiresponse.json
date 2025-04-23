@@ -1,5 +1,77 @@
 [
   {
+    "art": "grågås",
+    "scientificName": "Anser anser",
+    "datum": "2025-04-23T18:29:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "snatterand",
+    "scientificName": "Mareca strepera",
+    "datum": "2025-04-23T18:29:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Anas-strepera-001.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas-strepera-001.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "kricka",
+    "scientificName": "Anas crecca",
+    "datum": "2025-04-23T18:29:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/39/Common_Teal_Male_%288602525826%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Teal_Male_(8602525826).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sothöna",
+    "scientificName": "Fulica atra",
+    "datum": "2025-04-23T18:29:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "tofsvipa",
+    "scientificName": "Vanellus vanellus",
+    "datum": "2025-04-23T18:29:00+02:00",
+    "lokal": "Billsjöns våtmark, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "råka",
+    "scientificName": "Corvus frugilegus",
+    "datum": "2025-04-23T17:50:00+02:00",
+    "lokal": "Torstorp, Torsjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torstorp%2C+Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "rödstjärt",
     "scientificName": "Phoenicurus phoenicurus",
     "datum": "2025-04-23T17:00:00+02:00",
@@ -526,77 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kungsfågel",
-    "scientificName": "Regulus regulus",
-    "datum": "2025-04-23T07:59:00+02:00",
-    "lokal": "Havik Näset, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Goldcrest_1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svartvit flugsnappare",
-    "scientificName": "Ficedula hypoleuca",
-    "datum": "2025-04-23T07:59:00+02:00",
-    "lokal": "Havik Näset, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ficedula_hypoleuca-F-Iski_morost.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca-F-Iski_morost.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rödstjärt",
-    "scientificName": "Phoenicurus phoenicurus",
-    "datum": "2025-04-23T00:00:00+02:00",
-    "lokal": "Mycklaflons Camping, Norrsånna, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mycklaflons+Camping%2C+Norrs%C3%A5nna%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "morkulla",
-    "scientificName": "Scolopax rusticola",
-    "datum": "2025-04-22T20:31:00+02:00",
-    "lokal": "Nifsarpsmaden, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ljungpipare",
-    "scientificName": "Pluvialis apricaria",
-    "datum": "2025-04-22T18:40:00+02:00",
-    "lokal": "Torsberg, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Rohkunborri_Pluvialis_Apricaria.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "turkduva",
-    "scientificName": "Streptopelia decaocto",
-    "datum": "2025-04-22T17:00:00+02:00",
-    "lokal": "Eksjö, Södra Rokalven, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6%2C+S%C3%B6dra+Rokalven%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
