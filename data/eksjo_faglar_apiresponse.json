@@ -67,8 +67,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dode_roek._Locatie._Natuurterrein_De_Famberhorst._01-06-2019._%28d.j.b%29._02.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Dode_roek._Locatie._Natuurterrein_De_Famberhorst._01-06-2019._(d.j.b)._02.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torstorp%2C+Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {

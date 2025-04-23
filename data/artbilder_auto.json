@@ -458,5 +458,9 @@
   "Jynx torquilla": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_крутиголовка.jpg"
+  },
+  "Corvus frugilegus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dode_roek._Locatie._Natuurterrein_De_Famberhorst._01-06-2019._%28d.j.b%29._02.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Dode_roek._Locatie._Natuurterrein_De_Famberhorst._01-06-2019._(d.j.b)._02.jpg"
   }
 }
