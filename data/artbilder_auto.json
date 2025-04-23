@@ -450,5 +450,9 @@
   "Hydroprogne caspia": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sterna-caspia-010.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg"
+  },
+  "Turdus torquatus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Turdus_torquatus_torquatus_MHNT.ZOO.2010.11.186.36.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_torquatus_torquatus_MHNT.ZOO.2010.11.186.36.jpg"
   }
 }
