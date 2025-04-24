@@ -462,5 +462,9 @@
   "Corvus frugilegus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dode_roek._Locatie._Natuurterrein_De_Famberhorst._01-06-2019._%28d.j.b%29._02.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Dode_roek._Locatie._Natuurterrein_De_Famberhorst._01-06-2019._(d.j.b)._02.jpg"
+  },
+  "Accipiter nisus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg"
   }
 }
