@@ -118,5 +118,9 @@
       "Delichon urbicum": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Western_house_martin_%28Delichon_urbicum%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_house_martin_(Delichon_urbicum).jpg"
+  },
+      "Turdus torquatus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Turdus_torquatus%2C_Spain_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_torquatus,_Spain_1.jpg"
   }
 }
