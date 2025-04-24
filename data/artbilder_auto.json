@@ -466,5 +466,9 @@
   "Accipiter nisus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg"
+  },
+  "Acrocephalus schoenobaenus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg"
   }
 }
