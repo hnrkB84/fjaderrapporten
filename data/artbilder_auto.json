@@ -478,5 +478,9 @@
   "Chloris chloris": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/29/Chloris_chloris_%28profile%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_(profile).jpg"
+  },
+  "Cuculus canorus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cuculus_canorus_canorus_MHNT.ZOO.2010.11.150.21.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_canorus_MHNT.ZOO.2010.11.150.21.jpg"
   }
 }
