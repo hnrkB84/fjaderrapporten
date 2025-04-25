@@ -1,5 +1,17 @@
 [
   {
+    "art": "smådopping",
+    "scientificName": "Tachybaptus ruficollis",
+    "datum": "2025-04-25T17:15:00+02:00",
+    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "bläsand",
     "scientificName": "Mareca penelope",
     "datum": "2025-04-25T17:10:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tringa_glareola_-_Laem_Phak_Bia.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tringa_glareola_-_Laem_Phak_Bia.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rnesl%C3%A4tts+mossar%2C+V%C3%A4rnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ormvråk",
-    "scientificName": "Buteo buteo",
-    "datum": "2025-04-24T10:35:00+02:00",
-    "lokal": "Värneslätts mossar, Värneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rnesl%C3%A4tts+mossar%2C+V%C3%A4rnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
