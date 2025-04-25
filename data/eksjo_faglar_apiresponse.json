@@ -1,5 +1,17 @@
 [
   {
+    "art": "bläsand",
+    "scientificName": "Mareca penelope",
+    "datum": "2025-04-25T07:42:00+02:00",
+    "lokal": "Långsjödiket, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eurasian_wigeon_in_Sakai%2C_Osaka%2C_February_2016.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_wigeon_in_Sakai,_Osaka,_February_2016.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%A5ngsj%C3%B6diket%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "röd glada",
     "scientificName": "Milvus milvus",
     "datum": "2025-04-25T07:09:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Turdus_torquatus%2C_Spain_1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_torquatus,_Spain_1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rnesl%C3%A4tts+mossar%2C+V%C3%A4rnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rödhake",
-    "scientificName": "Erithacus rubecula",
-    "datum": "2025-04-23T12:30:00+02:00",
-    "lokal": "Norrsånna naturreservat, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_robin_%28Erithacus_rubecula%29_juvenile.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrs%C3%A5nna+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
