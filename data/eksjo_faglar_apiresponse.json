@@ -396,6 +396,66 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sl%C3%A5nb%C3%A4rsv%C3%A4gen+9%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "smålom",
+    "scientificName": "Gavia stellata",
+    "datum": "2025-04-25T08:35:00+02:00",
+    "lokal": "Stensjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stensj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "kricka",
+    "scientificName": "Anas crecca",
+    "datum": "2025-04-25T08:35:00+02:00",
+    "lokal": "Stensjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/39/Common_Teal_Male_%288602525826%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Teal_Male_(8602525826).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stensj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gräsand",
+    "scientificName": "Anas platyrhynchos",
+    "datum": "2025-04-25T08:35:00+02:00",
+    "lokal": "Stensjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stensj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skogssnäppa",
+    "scientificName": "Tringa ochropus",
+    "datum": "2025-04-25T08:35:00+02:00",
+    "lokal": "Stensjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Green_sandpiper_%28Tringa_ochropus%29_in_Patiala.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_(Tringa_ochropus)_in_Patiala.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stensj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-04-25T07:55:00+02:00",
+    "lokal": "Kakelungsgölen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelungsg%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "bläsand",
     "scientificName": "Mareca penelope",
     "datum": "2025-04-25T07:42:00+02:00",
@@ -480,6 +540,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "forsärla",
+    "scientificName": "Motacilla cinerea",
+    "datum": "2025-04-25T00:00:00+02:00",
+    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "smålom",
     "scientificName": "Gavia stellata",
     "datum": "2025-04-24T17:35:00+02:00",
@@ -526,77 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bog%C3%A5rdslandet%2C+Skedesj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "smålom",
-    "scientificName": "Gavia stellata",
-    "datum": "2025-04-24T14:35:00+02:00",
-    "lokal": "Stensgöl, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gavia_stellata_-Iceland_-swimming-8.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_stellata_-Iceland_-swimming-8.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stensg%C3%B6l%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trädlärka",
-    "scientificName": "Lullula arborea",
-    "datum": "2025-04-24T14:00:00+02:00",
-    "lokal": "Industriområdet, Nifsarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Škovránok_stromový_(Lullula_arborea)_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svart rödstjärt",
-    "scientificName": "Phoenicurus ochruros",
-    "datum": "2025-04-24T14:00:00+02:00",
-    "lokal": "Industriområdet, Nifsarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Seehof_Phoenicurus_ochruros_female_5264746.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Seehof_Phoenicurus_ochruros_female_5264746.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "hämpling",
-    "scientificName": "Linaria cannabina",
-    "datum": "2025-04-24T14:00:00+02:00",
-    "lokal": "Industriområdet, Nifsarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svärta",
-    "scientificName": "Melanitta fusca",
-    "datum": "2025-04-24T13:43:00+02:00",
-    "lokal": "Mycklaflon, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/82/Melanitta_fusca_%28cropped%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Melanitta_fusca_(cropped).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mycklaflon%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sjöorre",
-    "scientificName": "Melanitta nigra",
-    "datum": "2025-04-24T13:43:00+02:00",
-    "lokal": "Mycklaflon, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mycklaflon%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
