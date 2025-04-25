@@ -122,5 +122,9 @@
       "Turdus torquatus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Turdus_torquatus%2C_Spain_1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Turdus_torquatus,_Spain_1.jpg"
+  },
+      "Curruca curruca": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Klappergrasm%C3%BCcke_%28Curruca_curruca%29_3%2C_Filey%2C_North_Yorkshire.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Klappergrasm%C3%BCcke_(Curruca_curruca)_3,_Filey,_North_Yorkshire.jpg"
   }
 }
