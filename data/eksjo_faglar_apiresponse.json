@@ -1,5 +1,17 @@
 [
   {
+    "art": "rödstjärt",
+    "scientificName": "Phoenicurus phoenicurus",
+    "datum": "2025-04-26T16:00:00+02:00",
+    "lokal": "Ränneslätt, norra delen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+norra+delen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "skäggdopping",
     "scientificName": "Podiceps cristatus",
     "datum": "2025-04-26T15:45:00+02:00",
@@ -84,6 +96,30 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "trädpiplärka",
+    "scientificName": "Anthus trivialis",
+    "datum": "2025-04-26T14:30:00+02:00",
+    "lokal": "Ränneslätt Syd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt+Syd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-04-26T14:30:00+02:00",
+    "lokal": "Ränneslätt Syd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt+Syd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "havsörn",
     "scientificName": "Haliaeetus albicilla",
     "datum": "2025-04-26T14:20:00+02:00",
@@ -154,6 +190,18 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/84/Western_yellow_wagtail_%28Motacilla_flava_lutea%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_yellow_wagtail_(Motacilla_flava_lutea)_male.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%B6ten%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "rödstjärt",
+    "scientificName": "Phoenicurus phoenicurus",
+    "datum": "2025-04-26T14:00:00+02:00",
+    "lokal": "Sandåkra, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sand%C3%A5kra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "sparvhök",
@@ -550,53 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_common_greenshank_%28Tringa_nebularia%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:The_common_greenshank_(Tringa_nebularia).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sothöna",
-    "scientificName": "Fulica atra",
-    "datum": "2025-04-26T10:15:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "enkelbeckasin",
-    "scientificName": "Gallinago gallinago",
-    "datum": "2025-04-26T10:15:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gallinago_delicata_Nicolet.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gallinago_delicata_Nicolet.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skrattmås",
-    "scientificName": "Chroicocephalus ridibundus",
-    "datum": "2025-04-26T10:14:00+02:00",
-    "lokal": "Rävö, Ingarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chroicocephalus_ridibundus_2012a.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4v%C3%B6%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "blåmes",
-    "scientificName": "Cyanistes caeruleus",
-    "datum": "2025-04-26T10:14:00+02:00",
-    "lokal": "Rävö, Ingarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4v%C3%B6%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
