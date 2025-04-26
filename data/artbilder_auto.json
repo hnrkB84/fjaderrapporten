@@ -482,5 +482,9 @@
   "Cuculus canorus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cuculus_canorus_canorus_MHNT.ZOO.2010.11.150.21.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_canorus_MHNT.ZOO.2010.11.150.21.jpg"
+  },
+  "Passer montanus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Passer_montanus_malaccensis_@_Kuala_Lumpur,_Malaysia_(1).jpg"
   }
 }
