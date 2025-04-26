@@ -1,5 +1,17 @@
 [
   {
+    "art": "svart rödstjärt",
+    "scientificName": "Phoenicurus ochruros",
+    "datum": "2025-04-26T06:20:00+02:00",
+    "lokal": "Niffsarp , Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Seehof_Phoenicurus_ochruros_female_5264746.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Seehof_Phoenicurus_ochruros_female_5264746.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Niffsarp+%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gök",
     "scientificName": "Cuculus canorus",
     "datum": "2025-04-25T19:19:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eurasian_wigeon_in_Sakai%2C_Osaka%2C_February_2016.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_wigeon_in_Sakai,_Osaka,_February_2016.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%A5ngsj%C3%B6diket%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "röd glada",
-    "scientificName": "Milvus milvus",
-    "datum": "2025-04-25T07:09:00+02:00",
-    "lokal": "Ebbarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ebbarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
