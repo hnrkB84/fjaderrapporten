@@ -498,5 +498,9 @@
   "Motacilla flava": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/84/Western_yellow_wagtail_%28Motacilla_flava_lutea%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_yellow_wagtail_(Motacilla_flava_lutea)_male.jpg"
+  },
+  "Charadrius dubius": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flussregenpfeifer_im_flachen_Wasser_01.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Flussregenpfeifer_im_flachen_Wasser_01.jpg"
   }
 }
