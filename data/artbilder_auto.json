@@ -506,5 +506,9 @@
   "Numenius phaeopus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Whimbrel_Numenius_phaeopus.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Whimbrel_Numenius_phaeopus.jpg"
+  },
+  "Curruca communis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sylvia_communis_-_Common_Whitethroat_XC496678.mp3",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_communis_-_Common_Whitethroat_XC496678.mp3"
   }
 }
