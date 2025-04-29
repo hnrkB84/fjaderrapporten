@@ -123,7 +123,7 @@
       }
 
       try {
-        const res = await fetch("data/nyheter.json");
+        const res = await fetch("data/nyhet_detalj.json");
         const nyheter = await res.json();
         const nyhet = nyheter.find(n => n.id == id);
 
