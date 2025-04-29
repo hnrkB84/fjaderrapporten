@@ -1,5 +1,17 @@
 [
   {
+    "art": "mindre hackspett",
+    "scientificName": "Dryobates minor",
+    "datum": "2025-04-29T13:12:00+02:00",
+    "lokal": "Kulla, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "buskskvätta",
     "scientificName": "Saxicola rubetra",
     "datum": "2025-04-29T12:26:00+02:00",
@@ -55,8 +67,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Columba_livia_forma_domestica_-_courtship_dance2.ogv",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Columba_livia_forma_domestica_-_courtship_dance2.ogv",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -115,8 +127,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tofsvipa",
-    "scientificName": "Vanellus vanellus",
-    "datum": "2025-04-29T08:11:00+02:00",
-    "lokal": "Billsjöns våtmark, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+v%C3%A5tmark%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]

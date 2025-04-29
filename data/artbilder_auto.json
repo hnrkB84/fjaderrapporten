@@ -510,5 +510,13 @@
   "Curruca communis": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sylvia_communis_-_Common_Whitethroat_XC496678.mp3",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_communis_-_Common_Whitethroat_XC496678.mp3"
+  },
+  "Columba livia forma domestica": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Columba_livia_forma_domestica_-_courtship_dance2.ogv",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Columba_livia_forma_domestica_-_courtship_dance2.ogv"
+  },
+  "Pica pica": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg"
   }
 }
