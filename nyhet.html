@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nyhet – Fjäderrapporten</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Merriweather', serif;
+      background-color: #f4f7f5;
+      color: #2c2c2c;
+    }
+
+    header {
+      position: relative;
+      width: 100%;
+      height: 260px;
+      overflow: hidden;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .header-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    nav {
+      background-color: #f0f5ef;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+      padding: 1rem;
+      border-bottom: 1px solid #c8d5c1;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #2c2c2c;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    nav a:hover {
+      color: #3f5d3f;
+    }
+
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    article {
+      background-color: #ffffff;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    article h1 {
+      font-size: 1.8rem;
+      margin-top: 0;
+    }
+
+    article .datum {
+      font-size: 0.9rem;
+      color: #555;
+      margin-bottom: 1rem;
+    }
+
+    article p {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #e8ede7;
+      color: #555;
+      font-size: 0.9rem;
+      margin-top: 4rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="bilder/header.png" alt="Fjäderrapporten bakgrund" class="header-image" />
+  </header>
+
+  <nav>
+    <a href="index.html">🏠 Hem</a>
+    <a href="checklistan.html">✅ Checklista</a>
+    <a href="info.html">ℹ️ Om</a>
+  </nav>
+
+  <main>
+    <article id="nyhetsartikel">
+      <p>Laddar nyhet...</p>
+    </article>
+  </main>
+
+  <footer>
+    &copy; 2025 Fjäderrapporten – Nyhetssida.
+  </footer>
+
+  <script>
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+
+    async function hamtaNyhet() {
+      const id = getQueryParam("id");
+      if (!id) {
+        document.getElementById("nyhetsartikel").innerHTML = "<p>Ingen nyhet angiven.</p>";
+        return;
+      }
+
+      try {
+        const res = await fetch("data/nyheter.json");
+        const nyheter = await res.json();
+        const nyhet = nyheter.find(n => n.id == id);
+
+        if (!nyhet) {
+          document.getElementById("nyhetsartikel").innerHTML = "<p>Nyheten hittades inte.</p>";
+          return;
+        }
+
+        document.title = `${nyhet.titel} – Fjäderrapporten`;
+        document.getElementById("nyhetsartikel").innerHTML = `
+          <h1>${nyhet.titel}</h1>
+          <div class="datum">${nyhet.datum}</div>
+          <p>${nyhet.text}</p>
+        `;
+      } catch (err) {
+        console.error(err);
+        document.getElementById("nyhetsartikel").innerHTML = "<p>Kunde inte ladda nyheten.</p>";
+      }
+    }
+
+    window.addEventListener("DOMContentLoaded", hamtaNyhet);
+  </script>
+</body>
+</html>
