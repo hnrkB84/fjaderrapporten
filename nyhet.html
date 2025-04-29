@@ -132,12 +132,13 @@
           return;
         }
 
-        document.title = `${nyhet.titel} – Fjäderrapporten`;
-        document.getElementById("nyhetsartikel").innerHTML = `
-          <h1>${nyhet.titel}</h1>
-          <div class="datum">${nyhet.datum}</div>
-          <p>${nyhet.text}</p>
-        `;
+          document.title = `${nyhet.titel} – Fjäderrapporten`;
+          const stycken = nyhet.text.split("\n\n").map(s => `<p>${s}</p>`).join("");
+          document.getElementById("nyhetsartikel").innerHTML = `
+            <h1>${nyhet.titel}</h1>
+            <div class="datum">${nyhet.datum}</div>
+            ${stycken}
+          `;
       } catch (err) {
         console.error(err);
         document.getElementById("nyhetsartikel").innerHTML = "<p>Kunde inte ladda nyheten.</p>";
