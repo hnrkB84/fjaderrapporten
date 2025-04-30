@@ -1,5 +1,53 @@
 [
   {
+    "art": "lövsångare",
+    "scientificName": "Phylloscopus trochilus",
+    "datum": "2025-04-30T18:14:00+02:00",
+    "lokal": "Gökö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Phylloscopus_trochilus_-_Willow_Warbler%2C_Adana_2017-01-15_05-1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_-_Willow_Warbler,_Adana_2017-01-15_05-1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=G%C3%B6k%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "trana",
+    "scientificName": "Grus grus",
+    "datum": "2025-04-30T18:11:00+02:00",
+    "lokal": "Gökö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=G%C3%B6k%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gulsparv",
+    "scientificName": "Emberiza citrinella",
+    "datum": "2025-04-30T18:07:00+02:00",
+    "lokal": "Gökö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Yellowhammer_%28Emberiza_citrinella%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Yellowhammer_(Emberiza_citrinella).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=G%C3%B6k%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skogsduva",
+    "scientificName": "Columba oenas",
+    "datum": "2025-04-30T18:06:00+02:00",
+    "lokal": "Gökö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2019-03-17_Columba_oenas%2C_Jesmond_Dene_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-03-17_Columba_oenas,_Jesmond_Dene_1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=G%C3%B6k%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "grönbena",
     "scientificName": "Tringa glareola",
     "datum": "2025-04-30T12:56:00+02:00",
@@ -225,6 +273,18 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tringa_glareola_-_Laem_Phak_Bia.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tringa_glareola_-_Laem_Phak_Bia.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "rödstjärt",
+    "scientificName": "Phoenicurus phoenicurus",
+    "datum": "2025-04-30T00:00:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -537,66 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gräsand",
-    "scientificName": "Anas platyrhynchos",
-    "datum": "2025-04-29T11:21:00+02:00",
-    "lokal": "Vildparken, Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tamduva",
-    "scientificName": "Columba livia forma domestica",
-    "datum": "2025-04-29T11:21:00+02:00",
-    "lokal": "Vildparken, Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Columba_livia_forma_domestica_-_courtship_dance2.ogv",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Columba_livia_forma_domestica_-_courtship_dance2.ogv",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ringduva",
-    "scientificName": "Columba palumbus",
-    "datum": "2025-04-29T11:21:00+02:00",
-    "lokal": "Vildparken, Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Wood_Pigeon_facing_left.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skrattmås",
-    "scientificName": "Chroicocephalus ridibundus",
-    "datum": "2025-04-29T11:21:00+02:00",
-    "lokal": "Vildparken, Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chroicocephalus_ridibundus_2012a.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "fiskmås",
-    "scientificName": "Larus canus",
-    "datum": "2025-04-29T11:21:00+02:00",
-    "lokal": "Vildparken, Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Larus_canus_Oulu_20150712_03.JPG",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_canus_Oulu_20150712_03.JPG",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
