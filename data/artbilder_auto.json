@@ -518,5 +518,9 @@
   "Pica pica": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg"
+  },
+  "Tringa totanus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Common_Redshank_Tringa_totanus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Redshank_Tringa_totanus.jpg"
   }
 }
