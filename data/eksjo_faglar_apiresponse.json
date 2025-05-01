@@ -24,6 +24,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stensj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "gransångare",
+    "scientificName": "Phylloscopus collybita",
+    "datum": "2025-05-01T16:00:00+02:00",
+    "lokal": "Skidstugan, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_collybita_-_Common_Chiffchaff%2C_Adana_2016-11-27_01-4.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff,_Adana_2016-11-27_01-4.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skidstugan%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "röd glada",
     "scientificName": "Milvus milvus",
     "datum": "2025-05-01T15:30:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knipa",
-    "scientificName": "Bucephala clangula",
-    "datum": "2025-05-01T07:50:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
