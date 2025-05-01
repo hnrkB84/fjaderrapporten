@@ -1,5 +1,29 @@
 [
   {
+    "art": "sävsångare",
+    "scientificName": "Acrocephalus schoenobaenus",
+    "datum": "2025-05-01T01:45:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sothöna",
+    "scientificName": "Fulica atra",
+    "datum": "2025-05-01T01:45:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "lövsångare",
     "scientificName": "Phylloscopus trochilus",
     "datum": "2025-04-30T18:14:00+02:00",
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Prom+tpt+L%C3%B6varboretum%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "bofink",
-    "scientificName": "Fringilla coelebs",
-    "datum": "2025-04-30T00:00:00+02:00",
-    "lokal": "Prom tpt Lövarboretum, Tannarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_chaffinch_male_edit2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Prom+tpt+L%C3%B6varboretum%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svartmes",
-    "scientificName": "Periparus ater",
-    "datum": "2025-04-30T00:00:00+02:00",
-    "lokal": "Prom tpt Lövarboretum, Tannarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_coal_tit_%28Periparus_ater_cypriotes%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyprus_coal_tit_(Periparus_ater_cypriotes).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Prom+tpt+L%C3%B6varboretum%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
