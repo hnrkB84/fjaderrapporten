@@ -48,6 +48,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-05-02T15:10:00+02:00",
+    "lokal": "Bränna, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Br%C3%A4nna%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "fiskmås",
     "scientificName": "Larus canus",
     "datum": "2025-05-02T15:03:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Veku%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trädpiplärka",
-    "scientificName": "Anthus trivialis",
-    "datum": "2025-05-01T11:04:00+02:00",
-    "lokal": "Kakelungsgölen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelungsg%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
