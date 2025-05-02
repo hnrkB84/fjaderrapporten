@@ -522,5 +522,9 @@
   "Tringa totanus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Common_Redshank_Tringa_totanus.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Redshank_Tringa_totanus.jpg"
+  },
+  "Tringa erythropus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tringa_erythropus_-_Laem_Pak_Bia.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tringa_erythropus_-_Laem_Pak_Bia.jpg"
   }
 }
