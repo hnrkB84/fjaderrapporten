@@ -542,5 +542,13 @@
   "Falco subbuteo": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Falco_subbuteo_MHNT.ZOO.2010.11.105.6.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_subbuteo_MHNT.ZOO.2010.11.105.6.jpg"
+  },
+  "Calidris pugnax": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Calidris_pugnax_pugnax_MHNT.ZOO.2010.11.117.6.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris_pugnax_pugnax_MHNT.ZOO.2010.11.117.6.jpg"
+  },
+  "Coturnix coturnix": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/be/Coturnix_coturnix_confisa_MHNT.ZOO.2010.11.7.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix_confisa_MHNT.ZOO.2010.11.7.1.jpg"
   }
 }
