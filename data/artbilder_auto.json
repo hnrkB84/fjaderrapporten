@@ -550,5 +550,9 @@
   "Coturnix coturnix": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/be/Coturnix_coturnix_confisa_MHNT.ZOO.2010.11.7.1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix_confisa_MHNT.ZOO.2010.11.7.1.jpg"
+  },
+  "Rallus aquaticus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Water_rail_2022_04_30_01.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Water_rail_2022_04_30_01.jpg"
   }
 }
