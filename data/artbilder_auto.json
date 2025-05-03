@@ -530,5 +530,17 @@
   "Ardea cinerea": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ardea_cinerea_2013-09-16.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16.jpg"
+  },
+  "Acrocephalus scirpaceus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/90/Acrocephalus_scirpaceus_scirpaceus_MHNT.ZOO.2010.11.200.21.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_scirpaceus_MHNT.ZOO.2010.11.200.21.jpg"
+  },
+  "Aquila chrysaetos": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aquila_chrysaetos_%28Linnaeus_1758%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aquila_chrysaetos_(Linnaeus_1758).jpg"
+  },
+  "Falco subbuteo": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Falco_subbuteo_MHNT.ZOO.2010.11.105.6.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_subbuteo_MHNT.ZOO.2010.11.105.6.jpg"
   }
 }
