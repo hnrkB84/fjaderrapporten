@@ -12,6 +12,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvitten%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "stäpphök",
+    "scientificName": "Circus macrourus",
+    "datum": "2025-05-06T10:43:00+02:00",
+    "lokal": "Långsjödiket, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Circus_macrourus_MHNT.ZOO.2010.11.97.11.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Circus_macrourus_MHNT.ZOO.2010.11.97.11.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%A5ngsj%C3%B6diket%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "grönbena",
     "scientificName": "Tringa glareola",
     "datum": "2025-05-06T09:55:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_мухоловка_сіра.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "grönsångare",
-    "scientificName": "Phylloscopus sibilatrix",
-    "datum": "2025-05-05T11:10:00+02:00",
-    "lokal": "Sjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/B%C3%B8ksanger_%28Phylloscopus_sibilatrix%29_Wood_Warbler.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:B%C3%B8ksanger_(Phylloscopus_sibilatrix)_Wood_Warbler.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
