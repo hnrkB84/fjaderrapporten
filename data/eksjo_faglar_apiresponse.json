@@ -96,6 +96,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Abborravik%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "sparvhök",
+    "scientificName": "Accipiter nisus",
+    "datum": "2025-05-05T13:00:00+02:00",
+    "lokal": "Castmansväg 158, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Castmansv%C3%A4g+158%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "sothöna",
     "scientificName": "Fulica atra",
     "datum": "2025-05-05T12:36:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Scoutstugan+Sk%C3%A4lsn%C3%A4s%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sothöna",
-    "scientificName": "Fulica atra",
-    "datum": "2025-05-05T00:00:00+02:00",
-    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpasj%C3%B6n+norr%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
