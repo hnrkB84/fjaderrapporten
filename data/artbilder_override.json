@@ -126,5 +126,21 @@
       "Curruca curruca": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Klappergrasm%C3%BCcke_%28Curruca_curruca%29_3%2C_Filey%2C_North_Yorkshire.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Klappergrasm%C3%BCcke_(Curruca_curruca)_3,_Filey,_North_Yorkshire.jpg"
+  },
+      "Sylvia borin": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_(%C3%96rebro_County).jpg"
+  },
+      "Poecile palustris": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Parus_palustris02.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_palustris02.jpg"
+  },
+      "Falco subbuteo": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hobby_%28Falco_subbuteo%29_juvenile_Danube_delta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hobby_(Falco_subbuteo)_juvenile_Danube_delta.jpg"
+  },
+      "Circus macrourus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a3/A_Pallid_Harrier_surveying_the_roosting_area_%2850580325842%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:A_Pallid_Harrier_surveying_the_roosting_area_(50580325842).jpg"
   }
 }
