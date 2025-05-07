@@ -1,5 +1,29 @@
 [
   {
+    "art": "gök",
+    "scientificName": "Cuculus canorus",
+    "datum": "2025-05-07T08:24:00+02:00",
+    "lokal": "Kullahagen, Bräknaryd, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cuculus_canorus_canorus_MHNT.ZOO.2010.11.150.21.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_canorus_MHNT.ZOO.2010.11.150.21.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kullahagen%2C+Br%C3%A4knaryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "rörsångare",
+    "scientificName": "Acrocephalus scirpaceus",
+    "datum": "2025-05-07T08:23:00+02:00",
+    "lokal": "Rävö, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/90/Acrocephalus_scirpaceus_scirpaceus_MHNT.ZOO.2010.11.200.21.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_scirpaceus_MHNT.ZOO.2010.11.200.21.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4v%C3%B6%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "sävsångare",
     "scientificName": "Acrocephalus schoenobaenus",
     "datum": "2025-05-06T22:00:00+02:00",
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Škovránok_stromový_(Lullula_arborea)_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "buskskvätta",
-    "scientificName": "Saxicola rubetra",
-    "datum": "2025-05-06T07:45:00+02:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tarier_des_près_Zaghouan_NP001.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stenskvätta",
-    "scientificName": "Oenanthe oenanthe",
-    "datum": "2025-05-06T07:45:00+02:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brown_rock_chat_%28Oenanthe_fusca%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Brown_rock_chat_(Oenanthe_fusca).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
