@@ -142,5 +142,21 @@
       "Circus macrourus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a3/A_Pallid_Harrier_surveying_the_roosting_area_%2850580325842%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:A_Pallid_Harrier_surveying_the_roosting_area_(50580325842).jpg"
-  }
+  },
+      "Cuculus canorus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Common_cuckoo_in_kathmandu_valley.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_cuckoo_in_kathmandu_valley.jpg"
+  },
+      "Acrocephalus scirpaceus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Eurasian_Reed_Warbler.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_Reed_Warbler.jpg"
+  },
+      "Turdus iliacus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Redwing_Turdus_iliacus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redwing_Turdus_iliacus.jpg"
+  },
+      "Curruca communis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flickr_-_Rainbirder_-_Common_Whitethroat_%28Sylvia_communis%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Common_Whitethroat_(Sylvia_communis).jpg"
+  },
 }
