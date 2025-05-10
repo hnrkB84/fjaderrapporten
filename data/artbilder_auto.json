@@ -570,5 +570,9 @@
   "Gallinago media": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Gallinago_media_MHNT.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Gallinago_media_MHNT.jpg"
+  },
+  "Calidris temminckii": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/32/Calidris_temminckii_MHNT.ZOO.2010.11.119.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris_temminckii_MHNT.ZOO.2010.11.119.1.jpg"
   }
 }
