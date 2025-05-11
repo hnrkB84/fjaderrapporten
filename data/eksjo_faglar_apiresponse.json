@@ -1,5 +1,17 @@
 [
   {
+    "art": "trädlärka",
+    "scientificName": "Lullula arborea",
+    "datum": "2025-05-11T16:20:00+02:00",
+    "lokal": "Broarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Škovránok_stromový_(Lullula_arborea)_2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Broarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "lärkfalk",
     "scientificName": "Falco subbuteo",
     "datum": "2025-05-11T13:07:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tetrao_urogallus_Richard_Bartz.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_Richard_Bartz.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Spolhem%2C+Ebbarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "göktyta",
-    "scientificName": "Jynx torquilla",
-    "datum": "2025-05-11T08:33:00+02:00",
-    "lokal": "Näset, Havik, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_крутиголовка.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N%C3%A4set%2C+Havik%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
