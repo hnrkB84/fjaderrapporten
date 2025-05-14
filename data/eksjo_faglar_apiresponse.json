@@ -1,5 +1,17 @@
 [
   {
+    "art": "göktyta",
+    "scientificName": "Jynx torquilla",
+    "datum": "2025-05-14T06:38:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_крутиголовка.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "spillkråka",
     "scientificName": "Dryocopus martius",
     "datum": "2025-05-13T20:38:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Karlberg%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ärtsångare",
-    "scientificName": "Curruca curruca",
-    "datum": "2025-05-13T00:00:00+02:00",
-    "lokal": "Björnåsa, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Klappergrasm%C3%BCcke_%28Curruca_curruca%29_3%2C_Filey%2C_North_Yorkshire.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Klappergrasm%C3%BCcke_(Curruca_curruca)_3,_Filey,_North_Yorkshire.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rn%C3%A5sa%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
