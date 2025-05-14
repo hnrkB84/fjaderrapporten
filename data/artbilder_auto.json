@@ -590,5 +590,9 @@
   "Motacilla flava thunbergi": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yellow_wagtail_%28Motacilla_flava_feldegg%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Yellow_wagtail_(Motacilla_flava_feldegg)_male.jpg"
+  },
+  "Milvus migrans": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg"
   }
 }
