@@ -586,5 +586,9 @@
   "Lanius collurio": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red-backed_Shrike_%28Lanius_collurio%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-backed_Shrike_(Lanius_collurio).jpg"
+  },
+  "Motacilla flava thunbergi": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yellow_wagtail_%28Motacilla_flava_feldegg%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Yellow_wagtail_(Motacilla_flava_feldegg)_male.jpg"
   }
 }
