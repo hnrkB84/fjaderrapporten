@@ -598,5 +598,9 @@
   "Corvidae": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Blue_jay_in_PP_(30960).jpg"
+  },
+  "Larus fuscus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Larus_fuscus_-_Bremerhaven_01.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_fuscus_-_Bremerhaven_01.jpg"
   }
 }
