@@ -1,5 +1,17 @@
 [
   {
+    "art": "grönsångare",
+    "scientificName": "Phylloscopus sibilatrix",
+    "datum": "2025-05-16T10:48:00+02:00",
+    "lokal": "Sjölandet, Norra Wixen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/B%C3%B8ksanger_%28Phylloscopus_sibilatrix%29_Wood_Warbler.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:B%C3%B8ksanger_(Phylloscopus_sibilatrix)_Wood_Warbler.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6landet%2C+Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "blåmes",
     "scientificName": "Cyanistes caeruleus",
     "datum": "2025-05-16T09:03:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "brun kärrhök",
-    "scientificName": "Circus aeruginosus",
-    "datum": "2025-05-14T16:30:00+02:00",
-    "lokal": "Markestad, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
