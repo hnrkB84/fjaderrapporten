@@ -594,5 +594,9 @@
   "Milvus migrans": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg"
+  },
+  "Corvidae": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blue_jay_in_PP_(30960).jpg"
   }
 }
