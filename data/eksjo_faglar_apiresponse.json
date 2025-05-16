@@ -24,6 +24,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rkhagaudden%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "trädgårdssångare",
+    "scientificName": "Sylvia borin",
+    "datum": "2025-05-16T12:30:00+02:00",
+    "lokal": "Munka kvarn, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_(%C3%96rebro_County).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munka+kvarn%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "grönsångare",
     "scientificName": "Phylloscopus sibilatrix",
     "datum": "2025-05-16T10:48:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rhult%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "röd glada",
-    "scientificName": "Milvus milvus",
-    "datum": "2025-05-14T18:43:00+02:00",
-    "lokal": "Bjärsby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bj%C3%A4rsby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
