@@ -602,5 +602,9 @@
   "Larus fuscus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Larus_fuscus_-_Bremerhaven_01.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_fuscus_-_Bremerhaven_01.jpg"
+  },
+  "Corvus cornix": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/38/CrowHeadClosed1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:CrowHeadClosed1.jpg"
   }
 }
