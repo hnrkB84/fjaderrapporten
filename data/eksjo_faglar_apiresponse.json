@@ -1,5 +1,29 @@
 [
   {
+    "art": "brun kärrhök",
+    "scientificName": "Circus aeruginosus",
+    "datum": "2025-05-18T15:30:00+02:00",
+    "lokal": "Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "tornseglare",
+    "scientificName": "Apus apus",
+    "datum": "2025-05-18T14:00:00+02:00",
+    "lokal": "Norra heden, Ränneslätt, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+heden%2C+R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "tornseglare",
     "scientificName": "Apus apus",
     "datum": "2025-05-18T12:45:00+02:00",
@@ -288,6 +312,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Br%C3%A4nnaviken%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "steglits",
+    "scientificName": "Carduelis carduelis",
+    "datum": "2025-05-18T11:00:00+02:00",
+    "lokal": "Storegårdsområdet, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Storeg%C3%A5rdsomr%C3%A5det%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "lövsångare",
     "scientificName": "Phylloscopus trochilus",
     "datum": "2025-05-18T10:24:00+02:00",
@@ -561,42 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svarthätta",
-    "scientificName": "Sylvia atricapilla",
-    "datum": "2025-05-17T14:21:00+02:00",
-    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gärdsmyg",
-    "scientificName": "Troglodytes troglodytes",
-    "datum": "2025-05-17T14:21:00+02:00",
-    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eurasian_wren_%28Troglodytes_troglodytes%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_wren_(Troglodytes_troglodytes).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "forsärla",
-    "scientificName": "Motacilla cinerea",
-    "datum": "2025-05-17T14:21:00+02:00",
-    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
