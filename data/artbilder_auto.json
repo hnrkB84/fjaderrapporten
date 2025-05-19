@@ -614,5 +614,9 @@
   "Pernis apivorus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pernis_apivorus_MHNT.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Pernis_apivorus_MHNT.jpg"
+  },
+  "Caprimulgus europaeus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG"
   }
 }
