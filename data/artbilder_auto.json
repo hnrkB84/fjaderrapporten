@@ -610,5 +610,9 @@
   "Hippolais icterina": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_%28ville%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_(ville).jpg"
+  },
+  "Pernis apivorus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pernis_apivorus_MHNT.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pernis_apivorus_MHNT.jpg"
   }
 }
