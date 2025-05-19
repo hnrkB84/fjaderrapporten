@@ -1,5 +1,17 @@
 [
   {
+    "art": "härmsångare",
+    "scientificName": "Hippolais icterina",
+    "datum": "2025-05-19T00:00:00+02:00",
+    "lokal": "Eksjö Energi, Östra ind.omr. Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6+Energi%2C+%C3%96stra+ind.omr.+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "steglits",
     "scientificName": "Carduelis carduelis",
     "datum": "2025-05-18T19:45:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ficedula_hypoleuca-F-Iski_morost.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca-F-Iski_morost.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Br%C3%A4nnaviken%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "steglits",
-    "scientificName": "Carduelis carduelis",
-    "datum": "2025-05-18T11:00:00+02:00",
-    "lokal": "Storegårdsområdet, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Storeg%C3%A5rdsomr%C3%A5det%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
