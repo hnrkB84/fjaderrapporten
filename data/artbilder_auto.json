@@ -606,5 +606,9 @@
   "Corvus cornix": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/38/CrowHeadClosed1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:CrowHeadClosed1.jpg"
+  },
+  "Hippolais icterina": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_%28ville%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_(ville).jpg"
   }
 }
