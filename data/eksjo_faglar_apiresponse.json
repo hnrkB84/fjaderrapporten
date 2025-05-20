@@ -1,5 +1,29 @@
 [
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-05-20T18:46:00+02:00",
+    "lokal": "Värhult, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rhult%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-05-20T18:38:00+02:00",
+    "lokal": "Granshult, Östraby, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Granshult%2C+%C3%96straby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "havsörn",
     "scientificName": "Haliaeetus albicilla",
     "datum": "2025-05-20T18:08:00+02:00",
@@ -574,29 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tawny_wiki_edit1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tawny_wiki_edit1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "nattskärra",
-    "scientificName": "Caprimulgus europaeus",
-    "datum": "2025-05-19T22:09:00+02:00",
-    "lokal": "Kyrkefloen, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kyrkefloen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "morkulla",
-    "scientificName": "Scolopax rusticola",
-    "datum": "2025-05-19T22:08:00+02:00",
-    "lokal": "Sjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
