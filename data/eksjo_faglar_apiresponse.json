@@ -1,5 +1,17 @@
 [
   {
+    "art": "bofink",
+    "scientificName": "Fringilla coelebs",
+    "datum": "2025-05-20T07:59:00+02:00",
+    "lokal": "Vildparken, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_chaffinch_male_edit2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vildparken%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kattuggla",
     "scientificName": "Strix aluco",
     "datum": "2025-05-19T23:25:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%A5ngan%C3%A4ssj%C3%B6n+s%C3%B6dra+%C3%A4nden%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rödstjärt",
-    "scientificName": "Phoenicurus phoenicurus",
-    "datum": "2025-05-19T06:15:00+02:00",
-    "lokal": "Linneryd, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Linneryd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
