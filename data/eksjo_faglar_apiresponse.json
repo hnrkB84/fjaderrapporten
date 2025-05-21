@@ -264,6 +264,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpasj%C3%B6n+norr%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "rörsångare",
+    "scientificName": "Acrocephalus scirpaceus",
+    "datum": "2025-05-20T13:40:00+02:00",
+    "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Eurasian_Reed_Warbler.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_Reed_Warbler.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpasj%C3%B6n+norr%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "smådopping",
     "scientificName": "Tachybaptus ruficollis",
     "datum": "2025-05-20T13:30:00+02:00",
@@ -273,6 +285,18 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skogsduva",
+    "scientificName": "Columba oenas",
+    "datum": "2025-05-20T13:30:00+02:00",
+    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2019-03-17_Columba_oenas%2C_Jesmond_Dene_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-03-17_Columba_oenas,_Jesmond_Dene_1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eurasian_wren_%28Troglodytes_troglodytes%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_wren_(Troglodytes_troglodytes).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trädkrypare",
-    "scientificName": "Certhia familiaris",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%89%D1%83%D1%85%D0%B0_%28Certhia_familiaris%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%89%D1%83%D1%85%D0%B0_(Certhia_familiaris).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rödvingetrast",
-    "scientificName": "Turdus iliacus",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Redwing_Turdus_iliacus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redwing_Turdus_iliacus.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
