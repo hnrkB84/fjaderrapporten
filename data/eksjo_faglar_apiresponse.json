@@ -24,6 +24,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-05-22T00:00:00+02:00",
+    "lokal": "Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "svart rödstjärt",
     "scientificName": "Phoenicurus ochruros",
     "datum": "2025-05-21T00:00:00+02:00",
@@ -70,6 +82,18 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Red-breasted_merganser_female_in_CP_%2840744%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-breasted_merganser_female_in_CP_(40744).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gluttsnäppa",
+    "scientificName": "Tringa nebularia",
+    "datum": "2025-05-21T00:00:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_common_greenshank_%28Tringa_nebularia%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:The_common_greenshank_(Tringa_nebularia).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "härmsångare",
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "talgoxe",
-    "scientificName": "Parus major",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "grönsångare",
-    "scientificName": "Phylloscopus sibilatrix",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/B%C3%B8ksanger_%28Phylloscopus_sibilatrix%29_Wood_Warbler.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:B%C3%B8ksanger_(Phylloscopus_sibilatrix)_Wood_Warbler.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
