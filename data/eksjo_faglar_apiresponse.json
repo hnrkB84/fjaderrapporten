@@ -1,5 +1,29 @@
 [
   {
+    "art": "rödstjärt",
+    "scientificName": "Phoenicurus phoenicurus",
+    "datum": "2025-05-22T08:00:00+02:00",
+    "lokal": "oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "koltrast",
+    "scientificName": "Turdus merula",
+    "datum": "2025-05-22T08:00:00+02:00",
+    "lokal": "oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "svart rödstjärt",
     "scientificName": "Phoenicurus ochruros",
     "datum": "2025-05-21T00:00:00+02:00",
@@ -10,6 +34,42 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Seehof_Phoenicurus_ochruros_female_5264746.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Seehof_Phoenicurus_ochruros_female_5264746.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6hus+Industri%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "storskrake",
+    "scientificName": "Mergus merganser",
+    "datum": "2025-05-21T00:00:00+02:00",
+    "lokal": "Södra Wixen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mergus_merganser_qtl1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_qtl1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "storskrake",
+    "scientificName": "Mergus merganser",
+    "datum": "2025-05-21T00:00:00+02:00",
+    "lokal": "Södra Wixen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mergus_merganser_qtl1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_qtl1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "småskrake",
+    "scientificName": "Mergus serrator",
+    "datum": "2025-05-21T00:00:00+02:00",
+    "lokal": "Södra Wixen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Red-breasted_merganser_female_in_CP_%2840744%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-breasted_merganser_female_in_CP_(40744).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "härmsångare",
@@ -537,66 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/B%C3%B8ksanger_%28Phylloscopus_sibilatrix%29_Wood_Warbler.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:B%C3%B8ksanger_(Phylloscopus_sibilatrix)_Wood_Warbler.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_collybita_-_Common_Chiffchaff%2C_Adana_2016-11-27_01-4.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff,_Adana_2016-11-27_01-4.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svarthätta",
-    "scientificName": "Sylvia atricapilla",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trädgårdssångare",
-    "scientificName": "Sylvia borin",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_(%C3%96rebro_County).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "törnsångare",
-    "scientificName": "Curruca communis",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flickr_-_Rainbirder_-_Common_Whitethroat_%28Sylvia_communis%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Common_Whitethroat_(Sylvia_communis).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kungsfågel",
-    "scientificName": "Regulus regulus",
-    "datum": "2025-05-20T09:23:00+02:00",
-    "lokal": "Kulla, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Goldcrest_1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
