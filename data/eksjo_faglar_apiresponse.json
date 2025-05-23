@@ -7,8 +7,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carpodacus_erythrinus_erythrinus_MHNT.ZOO.2010.11_Vyborg.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carpodacus_erythrinus_erythrinus_MHNT.ZOO.2010.11_Vyborg.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vitsippegatan+42+eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {

@@ -618,5 +618,9 @@
   "Caprimulgus europaeus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG"
+  },
+  "Carpodacus erythrinus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carpodacus_erythrinus_erythrinus_MHNT.ZOO.2010.11_Vyborg.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carpodacus_erythrinus_erythrinus_MHNT.ZOO.2010.11_Vyborg.jpg"
   }
 }
