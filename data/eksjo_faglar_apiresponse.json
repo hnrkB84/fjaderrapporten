@@ -1,5 +1,17 @@
 [
   {
+    "art": "större hackspett",
+    "scientificName": "Dendrocopos major",
+    "datum": "2025-05-24T17:33:00+02:00",
+    "lokal": "Södra Rokalven, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Rokalven%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "skogssnäppa",
     "scientificName": "Tringa ochropus",
     "datum": "2025-05-24T16:17:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "dubbeltrast",
-    "scientificName": "Turdus viscivorus",
-    "datum": "2025-05-22T11:00:00+02:00",
-    "lokal": "Bodaholm, Boda, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bd/2019-08-13_01_Purple_Sandpiper_%28Calidris_maritima%29%2C_Reykjavik_Iceland.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-08-13_01_Purple_Sandpiper_(Calidris_maritima),_Reykjavik_Iceland.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bodaholm%2C+Boda%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
