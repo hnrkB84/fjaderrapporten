@@ -626,5 +626,9 @@
   "Acrocephalus palustris": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Acrocephalus_palustris_MHNT.ZOO.2010.11.200.34.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_palustris_MHNT.ZOO.2010.11.200.34.jpg"
+  },
+  "Acrocephalus arundinaceus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/02/Acrocephalus_arundinaceus_MHNT_323.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_arundinaceus_MHNT_323.jpg"
   }
 }
