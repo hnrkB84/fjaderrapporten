@@ -630,5 +630,9 @@
   "Acrocephalus arundinaceus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/02/Acrocephalus_arundinaceus_MHNT_323.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_arundinaceus_MHNT_323.jpg"
+  },
+  "Poecile montanus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Poecile_montanus_kleinschmidti_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Poecile_montanus_kleinschmidti_2.jpg"
   }
 }
