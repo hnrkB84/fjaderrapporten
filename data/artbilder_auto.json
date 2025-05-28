@@ -638,5 +638,9 @@
   "Luscinia luscinia": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bluethroat_%28Luscinia_svecica%29_at_Ichkeul_NP.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica)_at_Ichkeul_NP.jpg"
+  },
+  "Crex crex": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Crex_crex_MHNT.ZOO.2010.11.69.1.jpg"
   }
 }
