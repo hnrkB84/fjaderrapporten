@@ -1,5 +1,29 @@
 [
   {
+    "art": "näktergal",
+    "scientificName": "Luscinia luscinia",
+    "datum": "2025-05-28T22:22:00+02:00",
+    "lokal": "N oset, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "näktergal",
+    "scientificName": "Luscinia luscinia",
+    "datum": "2025-05-28T21:53:00+02:00",
+    "lokal": "N oset, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "stare",
     "scientificName": "Sturnus vulgaris",
     "datum": "2025-05-28T00:00:00+02:00",
@@ -82,6 +106,18 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "tornseglare",
+    "scientificName": "Apus apus",
+    "datum": "2025-05-28T00:00:00+02:00",
+    "lokal": "Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "trastsångare",
@@ -561,42 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingatorp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trädlärka",
-    "scientificName": "Lullula arborea",
-    "datum": "2025-05-27T04:24:00+02:00",
-    "lokal": "Ingatorp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Škovránok_stromový_(Lullula_arborea)_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingatorp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "lövsångare",
-    "scientificName": "Phylloscopus trochilus",
-    "datum": "2025-05-27T04:24:00+02:00",
-    "lokal": "Ingatorp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Phylloscopus_trochilus_-_Willow_Warbler%2C_Adana_2017-01-15_05-1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_-_Willow_Warbler,_Adana_2017-01-15_05-1.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingatorp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svarthätta",
-    "scientificName": "Sylvia atricapilla",
-    "datum": "2025-05-27T04:24:00+02:00",
-    "lokal": "Ingatorp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingatorp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
