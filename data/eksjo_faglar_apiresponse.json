@@ -7,8 +7,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bluethroat_%28Luscinia_svecica%29_at_Ichkeul_NP.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica)_at_Ichkeul_NP.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -19,8 +19,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bluethroat_%28Luscinia_svecica%29_at_Ichkeul_NP.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica)_at_Ichkeul_NP.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {

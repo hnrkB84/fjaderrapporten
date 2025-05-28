@@ -634,5 +634,9 @@
   "Poecile montanus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Poecile_montanus_kleinschmidti_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Poecile_montanus_kleinschmidti_2.jpg"
+  },
+  "Luscinia luscinia": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bluethroat_%28Luscinia_svecica%29_at_Ichkeul_NP.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica)_at_Ichkeul_NP.jpg"
   }
 }
