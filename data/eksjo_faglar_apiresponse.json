@@ -151,8 +151,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpag%C3%B6l%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
