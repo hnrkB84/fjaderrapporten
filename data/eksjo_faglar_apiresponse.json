@@ -1,5 +1,17 @@
 [
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-06-01T16:39:00+02:00",
+    "lokal": "Skäljarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sk%C3%A4ljarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "steglits",
     "scientificName": "Carduelis carduelis",
     "datum": "2025-06-01T07:55:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tofsmes",
-    "scientificName": "Lophophanes cristatus",
-    "datum": "2025-05-31T00:00:00+02:00",
-    "lokal": "Nifsarpsmaden, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lophophanes_cristatus_Luc_Viatour_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lophophanes_cristatus_Luc_Viatour_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
