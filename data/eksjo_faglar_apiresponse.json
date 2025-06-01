@@ -156,6 +156,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kulla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "härmsångare",
+    "scientificName": "Hippolais icterina",
+    "datum": "2025-06-01T08:30:00+02:00",
+    "lokal": "Reningsverket, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_%28ville%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_(ville).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Reningsverket%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "steglits",
     "scientificName": "Carduelis carduelis",
     "datum": "2025-06-01T07:55:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kyrkefloen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "nattskärra",
-    "scientificName": "Caprimulgus europaeus",
-    "datum": "2025-05-31T23:05:00+02:00",
-    "lokal": "Kyrkefloen, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kyrkefloen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
