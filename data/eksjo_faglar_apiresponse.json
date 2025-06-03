@@ -1,5 +1,17 @@
 [
   {
+    "art": "kärrsångare",
+    "scientificName": "Acrocephalus palustris",
+    "datum": "2025-06-03T23:10:00+02:00",
+    "lokal": "Rävlakanalen, Spakarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Acrocephalus_palustris_MHNT.ZOO.2010.11.200.34.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_palustris_MHNT.ZOO.2010.11.200.34.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4vlakanalen%2C+Spakarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gök",
     "scientificName": "Cuculus canorus",
     "datum": "2025-06-03T22:15:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpasj%C3%B6n+norr%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gök",
-    "scientificName": "Cuculus canorus",
-    "datum": "2025-06-02T22:10:00+02:00",
-    "lokal": "Östra gärdet, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Common_cuckoo_in_kathmandu_valley.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_cuckoo_in_kathmandu_valley.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stra+g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
