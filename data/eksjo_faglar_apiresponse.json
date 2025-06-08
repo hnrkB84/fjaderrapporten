@@ -2,6 +2,18 @@
   {
     "art": "smådopping",
     "scientificName": "Tachybaptus ruficollis",
+    "datum": "2025-06-08T11:35:00+02:00",
+    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "smådopping",
+    "scientificName": "Tachybaptus ruficollis",
     "datum": "2025-06-08T11:20:00+02:00",
     "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
     "rapporteradAv": "okänd observatör",
@@ -22,6 +34,42 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "trastsångare",
+    "scientificName": "Acrocephalus arundinaceus",
+    "datum": "2025-06-08T10:30:00+02:00",
+    "lokal": "Badlandsviken, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/02/Acrocephalus_arundinaceus_MHNT_323.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_arundinaceus_MHNT_323.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sävsångare",
+    "scientificName": "Acrocephalus schoenobaenus",
+    "datum": "2025-06-08T10:30:00+02:00",
+    "lokal": "Badlandsviken, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "rörsångare",
+    "scientificName": "Acrocephalus scirpaceus",
+    "datum": "2025-06-08T10:30:00+02:00",
+    "lokal": "Badlandsviken, Ingarpssjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Eurasian_Reed_Warbler.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_Reed_Warbler.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "kornknarr",
@@ -549,54 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knölsvan",
-    "scientificName": "Cygnus olor",
-    "datum": "2025-06-06T12:00:00+02:00",
-    "lokal": "Badlandsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kanadagås",
-    "scientificName": "Branta canadensis",
-    "datum": "2025-06-06T12:00:00+02:00",
-    "lokal": "Badlandsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Canadagoose.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "grågås",
-    "scientificName": "Anser anser",
-    "datum": "2025-06-06T12:00:00+02:00",
-    "lokal": "Badlandsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trastsångare",
-    "scientificName": "Acrocephalus arundinaceus",
-    "datum": "2025-06-06T12:00:00+02:00",
-    "lokal": "Badlandsviken, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/02/Acrocephalus_arundinaceus_MHNT_323.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Acrocephalus_arundinaceus_MHNT_323.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Badlandsviken%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
