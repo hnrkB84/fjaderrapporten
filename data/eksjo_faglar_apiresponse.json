@@ -12,6 +12,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gisshultasj%C3%B6n+Lugnet%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-06-11T19:00:00+02:00",
+    "lokal": "Gullegärde, Mariannelund, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gulleg%C3%A4rde%2C+Mariannelund%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gransångare",
     "scientificName": "Phylloscopus collybita",
     "datum": "2025-06-11T18:18:00+02:00",
@@ -139,8 +151,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=holmen%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -151,8 +163,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=holmen%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sturnus_vulgaris_-California-8.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-California-8.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "havsörn",
-    "scientificName": "Haliaeetus albicilla",
-    "datum": "2025-06-09T16:30:00+02:00",
-    "lokal": "Ågärdet, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fighting_white-tailed_eagles_%28Haliaeetus_albicilla%29_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
