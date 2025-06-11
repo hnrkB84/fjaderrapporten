@@ -1,5 +1,17 @@
 [
   {
+    "art": "härmsångare",
+    "scientificName": "Hippolais icterina",
+    "datum": "2025-06-11T09:35:00+02:00",
+    "lokal": "prästängen, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_%28ville%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_(ville).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=pr%C3%A4st%C3%A4ngen%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "knölsvan",
     "scientificName": "Cygnus olor",
     "datum": "2025-06-10T00:00:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "enkelbeckasin",
-    "scientificName": "Gallinago gallinago",
-    "datum": "2025-06-07T23:45:00+02:00",
-    "lokal": "Mellby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gallinago_delicata_Nicolet.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gallinago_delicata_Nicolet.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
