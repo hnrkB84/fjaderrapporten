@@ -1,5 +1,17 @@
 [
   {
+    "art": "nattskärra",
+    "scientificName": "Caprimulgus europaeus",
+    "datum": "2025-06-13T23:32:00+02:00",
+    "lokal": "Kyrkefloen, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kyrkefloen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "vaktel",
     "scientificName": "Coturnix coturnix",
     "datum": "2025-06-13T23:19:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gulleg%C3%A4rde%2C+Mariannelund%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-06-11T18:18:00+02:00",
-    "lokal": "Nifsarpsmaden, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_collybita_-_Common_Chiffchaff%2C_Adana_2016-11-27_01-4.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff,_Adana_2016-11-27_01-4.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
