@@ -1,5 +1,17 @@
 [
   {
+    "art": "svarthätta",
+    "scientificName": "Sylvia atricapilla",
+    "datum": "2025-06-14T07:37:00+02:00",
+    "lokal": "Branthälla, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Branth%C3%A4lla%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "hornuggla",
     "scientificName": "Asio otus",
     "datum": "2025-06-14T00:10:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stra+g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "koltrast",
-    "scientificName": "Turdus merula",
-    "datum": "2025-06-11T20:18:00+02:00",
-    "lokal": "Gisshultasjön Lugnet, Gisshultasjön Södra, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gisshultasj%C3%B6n+Lugnet%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
