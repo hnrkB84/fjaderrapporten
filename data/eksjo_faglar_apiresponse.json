@@ -1,5 +1,77 @@
 [
   {
+    "art": "sothöna",
+    "scientificName": "Fulica atra",
+    "datum": "2025-06-17T15:00:00+02:00",
+    "lokal": "Oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sothöna",
+    "scientificName": "Fulica atra",
+    "datum": "2025-06-17T15:00:00+02:00",
+    "lokal": "Oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skrattmås",
+    "scientificName": "Chroicocephalus ridibundus",
+    "datum": "2025-06-17T15:00:00+02:00",
+    "lokal": "Oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chroicocephalus_ridibundus_2012a.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skäggdopping",
+    "scientificName": "Podiceps cristatus",
+    "datum": "2025-06-17T15:00:00+02:00",
+    "lokal": "Oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gr%C3%A8be_hupp%C3%A9_Thyna008.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_huppé_Thyna008.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skäggdopping",
+    "scientificName": "Podiceps cristatus",
+    "datum": "2025-06-17T15:00:00+02:00",
+    "lokal": "Oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gr%C3%A8be_hupp%C3%A9_Thyna008.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_huppé_Thyna008.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "rörsångare",
+    "scientificName": "Acrocephalus scirpaceus",
+    "datum": "2025-06-17T15:00:00+02:00",
+    "lokal": "Oset, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Eurasian_Reed_Warbler.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_Reed_Warbler.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Oset%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "havsörn",
     "scientificName": "Haliaeetus albicilla",
     "datum": "2025-06-17T12:45:00+02:00",
@@ -526,77 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_(%C3%96rebro_County).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Risatorpet%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "smådopping",
-    "scientificName": "Tachybaptus ruficollis",
-    "datum": "2025-06-15T09:00:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svartvit flugsnappare",
-    "scientificName": "Ficedula hypoleuca",
-    "datum": "2025-06-15T08:36:00+02:00",
-    "lokal": "Södra Rokalven, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ficedula_hypoleuca-F-Iski_morost.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca-F-Iski_morost.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Rokalven%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kornknarr",
-    "scientificName": "Crex crex",
-    "datum": "2025-06-15T01:30:00+02:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sävsångare",
-    "scientificName": "Acrocephalus schoenobaenus",
-    "datum": "2025-06-15T01:30:00+02:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kornknarr",
-    "scientificName": "Crex crex",
-    "datum": "2025-06-15T00:35:00+02:00",
-    "lokal": "Värneslätts mossar, Värneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4rnesl%C3%A4tts+mossar%2C+V%C3%A4rnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "nattskärra",
-    "scientificName": "Caprimulgus europaeus",
-    "datum": "2025-06-15T00:30:00+02:00",
-    "lokal": "Mellby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
