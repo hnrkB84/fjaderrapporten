@@ -216,6 +216,30 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpasj%C3%B6n+norr%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "svartvit flugsnappare",
+    "scientificName": "Ficedula hypoleuca",
+    "datum": "2025-06-18T09:30:00+02:00",
+    "lokal": "Slånbärsvägen 9, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ficedula_hypoleuca-F-Iski_morost.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca-F-Iski_morost.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sl%C3%A5nb%C3%A4rsv%C3%A4gen+9%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "svartvit flugsnappare",
+    "scientificName": "Ficedula hypoleuca",
+    "datum": "2025-06-18T09:30:00+02:00",
+    "lokal": "Slånbärsvägen 9, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ficedula_hypoleuca-F-Iski_morost.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca-F-Iski_morost.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sl%C3%A5nb%C3%A4rsv%C3%A4gen+9%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "smådopping",
     "scientificName": "Tachybaptus ruficollis",
     "datum": "2025-06-18T09:00:00+02:00",
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/bd/2019-08-13_01_Purple_Sandpiper_%28Calidris_maritima%29%2C_Reykjavik_Iceland.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:2019-08-13_01_Purple_Sandpiper_(Calidris_maritima),_Reykjavik_Iceland.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gök",
-    "scientificName": "Cuculus canorus",
-    "datum": "2025-06-16T11:43:00+02:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Common_cuckoo_in_kathmandu_valley.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_cuckoo_in_kathmandu_valley.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tornfalk",
-    "scientificName": "Falco tinnunculus",
-    "datum": "2025-06-16T11:43:00+02:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
