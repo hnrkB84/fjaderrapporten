@@ -120,6 +120,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4straby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "steglits",
+    "scientificName": "Carduelis carduelis",
+    "datum": "2025-06-19T00:00:00+02:00",
+    "lokal": "Castmansväg 48, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Castmansv%C3%A4g+48%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "brun kärrhök",
     "scientificName": "Circus aeruginosus",
     "datum": "2025-06-18T11:23:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "lärkfalk",
-    "scientificName": "Falco subbuteo",
-    "datum": "2025-06-17T11:26:00+02:00",
-    "lokal": "Kråkön, Ingarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hobby_%28Falco_subbuteo%29_juvenile_Danube_delta.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hobby_(Falco_subbuteo)_juvenile_Danube_delta.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
