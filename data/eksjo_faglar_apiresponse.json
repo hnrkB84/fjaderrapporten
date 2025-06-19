@@ -108,6 +108,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Castmans+v%C3%A4g%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "göktyta",
+    "scientificName": "Jynx torquilla",
+    "datum": "2025-06-19T00:00:00+02:00",
+    "lokal": "Västraby, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_крутиголовка.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=V%C3%A4straby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "brun kärrhök",
     "scientificName": "Circus aeruginosus",
     "datum": "2025-06-18T11:23:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hobby_%28Falco_subbuteo%29_juvenile_Danube_delta.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Hobby_(Falco_subbuteo)_juvenile_Danube_delta.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "smådopping",
-    "scientificName": "Tachybaptus ruficollis",
-    "datum": "2025-06-17T09:30:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
