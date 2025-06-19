@@ -1,5 +1,17 @@
 [
   {
+    "art": "kornknarr",
+    "scientificName": "Crex crex",
+    "datum": "2025-06-19T23:15:00+02:00",
+    "lokal": "Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kärrsångare",
     "scientificName": "Acrocephalus palustris",
     "datum": "2025-06-19T21:50:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "röd glada",
-    "scientificName": "Milvus milvus",
-    "datum": "2025-06-17T11:26:00+02:00",
-    "lokal": "Kråkön, Ingarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
