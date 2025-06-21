@@ -1,5 +1,17 @@
 [
   {
+    "art": "nattskärra",
+    "scientificName": "Caprimulgus europaeus",
+    "datum": "2025-06-21T22:47:00+02:00",
+    "lokal": "Kyrkefloen, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kyrkefloen%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kärrsångare",
     "scientificName": "Acrocephalus palustris",
     "datum": "2025-06-21T20:15:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stare",
-    "scientificName": "Sturnus vulgaris",
-    "datum": "2025-06-19T13:02:00+02:00",
-    "lokal": "Ulfsparregatan, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sturnus_vulgaris_-California-8.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-California-8.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ulfsparregatan%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
