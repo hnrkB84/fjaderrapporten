@@ -1,5 +1,17 @@
 [
   {
+    "art": "törnskata",
+    "scientificName": "Lanius collurio",
+    "datum": "2025-06-26T07:26:00+02:00",
+    "lokal": "Dullingsmålen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red-backed_Shrike_%28Lanius_collurio%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-backed_Shrike_(Lanius_collurio).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "tornseglare",
     "scientificName": "Apus apus",
     "datum": "2025-06-26T07:10:00+02:00",
@@ -573,18 +585,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Klappergrasm%C3%BCcke_%28Curruca_curruca%29_3%2C_Filey%2C_North_Yorkshire.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Klappergrasm%C3%BCcke_(Curruca_curruca)_3,_Filey,_North_Yorkshire.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knölsvan",
-    "scientificName": "Cygnus olor",
-    "datum": "2025-06-25T00:00:00+02:00",
-    "lokal": "Nifsarpsmaden, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
