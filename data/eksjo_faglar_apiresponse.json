@@ -12,18 +12,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "gluttsnäppa",
-    "scientificName": "Tringa nebularia",
-    "datum": "2025-07-01T11:00:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_common_greenshank_%28Tringa_nebularia%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:The_common_greenshank_(Tringa_nebularia).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "kornknarr",
     "scientificName": "Crex crex",
     "datum": "2025-07-01T05:00:00+02:00",
@@ -108,88 +96,16 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berghagen%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "koltrast",
-    "scientificName": "Turdus merula",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
+    "art": "nattskärra",
+    "scientificName": "Caprimulgus europaeus",
+    "datum": "2025-06-30T23:23:45+02:00",
+    "lokal": "Rumskulla, Vimmerby, Kalmar County, SE",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "storlom",
-    "scientificName": "Gavia arctica",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gavia_arctica_%28Black-throated_Loon_or_Black-throated_Diver%29_on_nest.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_arctica_(Black-throated_Loon_or_Black-throated_Diver)_on_nest.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sädesärla",
-    "scientificName": "Motacilla alba",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bachstelze_%28motacilla_alba%29_auf_Singwarte_-_Spiekeroog%2C_Nationalpark_nieders%C3%A4chsisches_Wattenmeer.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bachstelze_(motacilla_alba)_auf_Singwarte_-_Spiekeroog,_Nationalpark_niedersächsisches_Wattenmeer.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "bofink",
-    "scientificName": "Fringilla coelebs",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_chaffinch_male_edit2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "lövsångare",
-    "scientificName": "Phylloscopus trochilus",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Phylloscopus_trochilus_-_Willow_Warbler%2C_Adana_2017-01-15_05-1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_-_Willow_Warbler,_Adana_2017-01-15_05-1.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svarthätta",
-    "scientificName": "Sylvia atricapilla",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "mindre korsnäbb",
-    "scientificName": "Loxia curvirostra",
-    "datum": "2025-07-01T00:00:00+02:00",
-    "lokal": "Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/da/Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_T%C3%A9bessa.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_Tébessa.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caprimulgus_europaeus_g.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Caprimulgus_europaeus_g.JPG",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Rumskulla%2C+Vimmerby%2C+Kalmar+County%2C+SE%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "kornknarr",
@@ -598,5 +514,89 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "steglits",
+    "scientificName": "Carduelis carduelis",
+    "datum": "2025-06-29T12:30:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "fisktärna",
+    "scientificName": "Sterna hirundo",
+    "datum": "2025-06-29T12:27:00+02:00",
+    "lokal": "Vattenledningsparken Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vattenledningsparken+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skrattmås",
+    "scientificName": "Chroicocephalus ridibundus",
+    "datum": "2025-06-29T12:27:00+02:00",
+    "lokal": "Vattenledningsparken Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chroicocephalus_ridibundus_2012a.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vattenledningsparken+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "fiskmås",
+    "scientificName": "Larus canus",
+    "datum": "2025-06-29T12:27:00+02:00",
+    "lokal": "Vattenledningsparken Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Larus_canus_Oulu_20150712_03.JPG",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_canus_Oulu_20150712_03.JPG",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vattenledningsparken+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "björktrast",
+    "scientificName": "Turdus pilaris",
+    "datum": "2025-06-29T12:27:00+02:00",
+    "lokal": "Vattenledningsparken Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fieldfare_aka_Turdus_pilaris.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fieldfare_aka_Turdus_pilaris.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vattenledningsparken+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "kanadagås",
+    "scientificName": "Branta canadensis",
+    "datum": "2025-06-29T12:17:00+02:00",
+    "lokal": "Kakelungsgölen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Canadagoose.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelungsg%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "knipa",
+    "scientificName": "Bucephala clangula",
+    "datum": "2025-06-29T12:17:00+02:00",
+    "lokal": "Kakelungsgölen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelungsg%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
