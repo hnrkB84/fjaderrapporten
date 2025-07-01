@@ -7,8 +7,8 @@
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Locustella_fluviatilis_MHNT.ZOO.2010.11.195.29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Locustella_fluviatilis_MHNT.ZOO.2010.11.195.29.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
