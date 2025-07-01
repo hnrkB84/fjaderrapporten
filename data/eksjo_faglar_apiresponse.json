@@ -36,6 +36,66 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6hus+Industri%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "svarthätta",
+    "scientificName": "Sylvia atricapilla",
+    "datum": "2025-07-01T00:00:00+02:00",
+    "lokal": "Tjädervägen 8, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Tj%C3%A4derv%C3%A4gen+8%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "trädgårdssångare",
+    "scientificName": "Sylvia borin",
+    "datum": "2025-07-01T00:00:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_(%C3%96rebro_County).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "fiskgjuse",
+    "scientificName": "Pandion haliaetus",
+    "datum": "2025-07-01T00:00:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0f/OspreyNASA.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:OspreyNASA.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gråhäger",
+    "scientificName": "Ardea cinerea",
+    "datum": "2025-07-01T00:00:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ardea_cinerea_2013-09-16.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "brun kärrhök",
+    "scientificName": "Circus aeruginosus",
+    "datum": "2025-07-01T00:00:00+02:00",
+    "lokal": "Berghagen, Markestad, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berghagen%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kornknarr",
     "scientificName": "Crex crex",
     "datum": "2025-06-30T22:15:00+02:00",
@@ -538,65 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/B%C3%B8ksanger_%28Phylloscopus_sibilatrix%29_Wood_Warbler.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:B%C3%B8ksanger_(Phylloscopus_sibilatrix)_Wood_Warbler.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholmslandet%2C+Assj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gärdsmyg",
-    "scientificName": "Troglodytes troglodytes",
-    "datum": "2025-06-29T11:45:00+02:00",
-    "lokal": "Ryningsholmslandet, Assjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eurasian_wren_%28Troglodytes_troglodytes%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_wren_(Troglodytes_troglodytes).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholmslandet%2C+Assj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "röd glada",
-    "scientificName": "Milvus milvus",
-    "datum": "2025-06-29T11:00:00+02:00",
-    "lokal": "Torsberg, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "mindre korsnäbb",
-    "scientificName": "Loxia curvirostra",
-    "datum": "2025-06-29T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/da/Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_T%C3%A9bessa.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_Tébessa.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sparvhök",
-    "scientificName": "Accipiter nisus",
-    "datum": "2025-06-29T00:00:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rosenfink",
-    "scientificName": "Carpodacus erythrinus",
-    "datum": "2025-06-28T20:30:00+02:00",
-    "lokal": "Allén, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carpodacus_erythrinus_erythrinus_MHNT.ZOO.2010.11_Vyborg.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carpodacus_erythrinus_erythrinus_MHNT.ZOO.2010.11_Vyborg.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=All%C3%A9n%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
