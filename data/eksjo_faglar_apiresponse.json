@@ -1,5 +1,17 @@
 [
   {
+    "art": "stenknäck",
+    "scientificName": "Coccothraustes coccothraustes",
+    "datum": "2025-07-01T14:56:00+02:00",
+    "lokal": "Dullingsmålen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hawfinch_%28Coccothraustes_coccothraustes%29_juvenile_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_juvenile_2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kornknarr",
     "scientificName": "Crex crex",
     "datum": "2025-07-01T05:00:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Actitis_hypoleucos.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trädpiplärka",
-    "scientificName": "Anthus trivialis",
-    "datum": "2025-06-28T11:59:00+02:00",
-    "lokal": "Försjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%B6rsj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
