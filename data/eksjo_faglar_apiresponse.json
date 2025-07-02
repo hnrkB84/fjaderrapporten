@@ -192,6 +192,42 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sk%C3%B6nbergav%C3%A4gen+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "törnsångare",
+    "scientificName": "Curruca communis",
+    "datum": "2025-07-02T00:00:00+02:00",
+    "lokal": "prästängen, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flickr_-_Rainbirder_-_Common_Whitethroat_%28Sylvia_communis%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Common_Whitethroat_(Sylvia_communis).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=pr%C3%A4st%C3%A4ngen%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sävsångare",
+    "scientificName": "Acrocephalus schoenobaenus",
+    "datum": "2025-07-02T00:00:00+02:00",
+    "lokal": "prästängen, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=pr%C3%A4st%C3%A4ngen%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "strandskata",
+    "scientificName": "Haematopus ostralegus",
+    "datum": "2025-07-02T00:00:00+02:00",
+    "lokal": "prästängen, Hunsnäsen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=pr%C3%A4st%C3%A4ngen%2C+Hunsn%C3%A4sen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "flodsångare",
     "scientificName": "Locustella fluviatilis",
     "datum": "2025-07-01T23:00:00+02:00",
@@ -561,42 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tarier_des_près_Zaghouan_NP001.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "buskskvätta",
-    "scientificName": "Saxicola rubetra",
-    "datum": "2025-06-30T19:40:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tarier_des_près_Zaghouan_NP001.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knipa",
-    "scientificName": "Bucephala clangula",
-    "datum": "2025-06-30T19:40:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knipa",
-    "scientificName": "Bucephala clangula",
-    "datum": "2025-06-30T19:40:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
