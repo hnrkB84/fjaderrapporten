@@ -1,5 +1,17 @@
 [
   {
+    "art": "lärkfalk",
+    "scientificName": "Falco subbuteo",
+    "datum": "2025-07-02T07:00:00+02:00",
+    "lokal": "Skönbergavägen 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hobby_%28Falco_subbuteo%29_juvenile_Danube_delta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hobby_(Falco_subbuteo)_juvenile_Danube_delta.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sk%C3%B6nbergav%C3%A4gen+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "flodsångare",
     "scientificName": "Locustella fluviatilis",
     "datum": "2025-07-01T23:00:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Seehof_Phoenicurus_ochruros_female_5264746.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Seehof_Phoenicurus_ochruros_female_5264746.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stra+ind.omr.+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gök",
-    "scientificName": "Cuculus canorus",
-    "datum": "2025-06-30T00:00:00+02:00",
-    "lokal": "Allmänningsån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Common_cuckoo_in_kathmandu_valley.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_cuckoo_in_kathmandu_valley.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Allm%C3%A4nnings%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
