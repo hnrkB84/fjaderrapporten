@@ -1,5 +1,17 @@
 [
   {
+    "art": "kornknarr",
+    "scientificName": "Crex crex",
+    "datum": "2025-07-06T22:36:00+02:00",
+    "lokal": "lertaget, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Crex_crex_MHNT.ZOO.2010.11.69.1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=lertaget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "brun glada",
     "scientificName": "Milvus migrans",
     "datum": "2025-07-06T18:48:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "härmsångare",
-    "scientificName": "Hippolais icterina",
-    "datum": "2025-07-04T13:00:00+02:00",
-    "lokal": "Östervall, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_%28ville%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hippolais_icterina_MHNT_ZOO_2010_11_201_Spire_(ville).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stervall%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
