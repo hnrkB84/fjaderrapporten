@@ -662,5 +662,9 @@
   "Locustella fluviatilis": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Locustella_fluviatilis_MHNT.ZOO.2010.11.195.29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Locustella_fluviatilis_MHNT.ZOO.2010.11.195.29.jpg"
+  },
+  "Calidris alpina": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Calidris-alpina-001_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris-alpina-001_edit.jpg"
   }
 }
