@@ -670,5 +670,9 @@
   "Lanius excubitor": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg"
+  },
+  "Nucifraga caryocatactes": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nucifraga_caryocatactes_caryocatactes_MHNT.ZOO.2010.11.170.8.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_caryocatactes_MHNT.ZOO.2010.11.170.8.jpg"
   }
 }
