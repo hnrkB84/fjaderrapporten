@@ -1,5 +1,17 @@
 [
   {
+    "art": "tornfalk",
+    "scientificName": "Falco tinnunculus",
+    "datum": "2025-07-12T00:00:00+02:00",
+    "lokal": "Industriområdet, Nifsarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "nötkråka",
     "scientificName": "Nucifraga caryocatactes",
     "datum": "2025-07-11T12:30:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ardea_cinerea_2013-09-16.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Holma%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trana",
-    "scientificName": "Grus grus",
-    "datum": "2025-07-10T00:00:00+02:00",
-    "lokal": "Holma, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Holma%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
