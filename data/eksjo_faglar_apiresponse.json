@@ -24,6 +24,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "fisktärna",
+    "scientificName": "Sterna hirundo",
+    "datum": "2025-07-11T09:22:00+02:00",
+    "lokal": "Södra Rokalven, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Rokalven%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gråhäger",
     "scientificName": "Ardea cinerea",
     "datum": "2025-07-11T09:20:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Holma%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sädesärla",
-    "scientificName": "Motacilla alba",
-    "datum": "2025-07-10T00:00:00+02:00",
-    "lokal": "Havraviks strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bachstelze_%28motacilla_alba%29_auf_Singwarte_-_Spiekeroog%2C_Nationalpark_nieders%C3%A4chsisches_Wattenmeer.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bachstelze_(motacilla_alba)_auf_Singwarte_-_Spiekeroog,_Nationalpark_niedersächsisches_Wattenmeer.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havraviks+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
