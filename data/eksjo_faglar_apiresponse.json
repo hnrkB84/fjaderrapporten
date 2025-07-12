@@ -96,6 +96,42 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Industriomr%C3%A5det%2C+Nifsarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "trädpiplärka",
+    "scientificName": "Anthus trivialis",
+    "datum": "2025-07-12T00:00:00+02:00",
+    "lokal": "Koanäs, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anthus_trivialis_%2840810566815%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_(40810566815).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Koan%C3%A4s%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "stenskvätta",
+    "scientificName": "Oenanthe oenanthe",
+    "datum": "2025-07-12T00:00:00+02:00",
+    "lokal": "Trossarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brown_rock_chat_%28Oenanthe_fusca%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Brown_rock_chat_(Oenanthe_fusca).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Trossarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-07-12T00:00:00+02:00",
+    "lokal": "Trossarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Trossarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "nötkråka",
     "scientificName": "Nucifraga caryocatactes",
     "datum": "2025-07-11T12:30:00+02:00",
@@ -562,41 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=holmen%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skäggdopping",
-    "scientificName": "Podiceps cristatus",
-    "datum": "2025-07-10T09:09:00+02:00",
-    "lokal": "holmen, Gisshultasjön Södra, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gr%C3%A8be_hupp%C3%A9_Thyna008.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_huppé_Thyna008.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=holmen%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "svarthätta",
-    "scientificName": "Sylvia atricapilla",
-    "datum": "2025-07-10T09:09:00+02:00",
-    "lokal": "holmen, Gisshultasjön Södra, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=holmen%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "steglits",
-    "scientificName": "Carduelis carduelis",
-    "datum": "2025-07-10T00:00:00+02:00",
-    "lokal": "Tjädervägen 8, Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Tj%C3%A4derv%C3%A4gen+8%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
