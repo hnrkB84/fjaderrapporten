@@ -1,5 +1,29 @@
 [
   {
+    "art": "mindre hackspett",
+    "scientificName": "Dryobates minor",
+    "datum": "2025-07-15T14:17:00+02:00",
+    "lokal": "Dullingsmålen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-07-15T00:00:00+02:00",
+    "lokal": "Dullingsmålen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "sävsångare",
     "scientificName": "Acrocephalus schoenobaenus",
     "datum": "2025-07-14T23:00:00+02:00",
@@ -574,29 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Actitis_hypoleucos.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sävsångare",
-    "scientificName": "Acrocephalus schoenobaenus",
-    "datum": "2025-07-12T23:50:00+02:00",
-    "lokal": "Parken, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kornknarr",
-    "scientificName": "Crex crex",
-    "datum": "2025-07-12T22:10:00+02:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Corncrake2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corncrake2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
