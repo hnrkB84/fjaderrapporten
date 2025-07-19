@@ -288,6 +288,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra+Rokalven%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "trädlärka",
+    "scientificName": "Lullula arborea",
+    "datum": "2025-07-18T05:45:00+02:00",
+    "lokal": "Tannarp, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Škovránok_stromový_(Lullula_arborea)_2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "smådopping",
     "scientificName": "Tachybaptus ruficollis",
     "datum": "2025-07-18T00:00:00+02:00",
@@ -574,18 +586,6 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Risatorpet%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rödstjärt",
-    "scientificName": "Phoenicurus phoenicurus",
-    "datum": "2025-07-15T06:30:00+02:00",
-    "lokal": "Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Redstart_%28Phoenicurus_phoenicurus%29_male_ringed_Malta.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "rödstjärt",
