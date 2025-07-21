@@ -1,5 +1,17 @@
 [
   {
+    "art": "bivråk",
+    "scientificName": "Pernis apivorus",
+    "datum": "2025-07-21T10:39:00+02:00",
+    "lokal": "golfbanan, Skedhult, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pernis_apivorus_MHNT.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pernis_apivorus_MHNT.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=golfbanan%2C+Skedhult%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "grå flugsnappare",
     "scientificName": "Muscicapa striata",
     "datum": "2025-07-21T07:10:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Br%C3%A4nna%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stjärtmes",
-    "scientificName": "Aegithalos caudatus",
-    "datum": "2025-07-18T10:15:00+02:00",
-    "lokal": "Bränna, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aegithalos_caudatus_front-on_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_front-on_2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Br%C3%A4nna%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
