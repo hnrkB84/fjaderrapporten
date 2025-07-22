@@ -1,5 +1,29 @@
 [
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-07-22T10:30:00+02:00",
+    "lokal": "Skinnaryd ån, Brevik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skinnaryd+%C3%A5n%2C+Brevik%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "korp",
+    "scientificName": "Corvus corax",
+    "datum": "2025-07-22T10:30:00+02:00",
+    "lokal": "Skinnaryd ån, Brevik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis,_Point_Reyes_National_Seashore.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skinnaryd+%C3%A5n%2C+Brevik%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "smådopping",
     "scientificName": "Tachybaptus ruficollis",
     "datum": "2025-07-22T10:08:00+02:00",
@@ -574,29 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Corncrake2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Corncrake2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "rörsångare",
-    "scientificName": "Acrocephalus scirpaceus",
-    "datum": "2025-07-19T22:00:00+02:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Eurasian_Reed_Warbler.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_Reed_Warbler.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skräntärna",
-    "scientificName": "Hydroprogne caspia",
-    "datum": "2025-07-19T18:20:00+02:00",
-    "lokal": "vassgrundet,Söraby, Solgen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sterna-caspia-010.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=vassgrundet%2CS%C3%B6raby%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
