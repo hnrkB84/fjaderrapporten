@@ -678,5 +678,9 @@
   "Chlidonias niger": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/34/Chlidonias_niger_niger_MHNT.ZOO.2010.11.132.9.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Chlidonias_niger_niger_MHNT.ZOO.2010.11.132.9.jpg"
+  },
+  "Apus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg"
   }
 }
