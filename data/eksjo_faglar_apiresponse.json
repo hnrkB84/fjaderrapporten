@@ -144,6 +144,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "mindre hackspett",
+    "scientificName": "Dryobates minor",
+    "datum": "2025-08-07T00:00:00+02:00",
+    "lokal": "Kvarnarpaån, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "spillkråka",
     "scientificName": "Dryocopus martius",
     "datum": "2025-08-06T18:25:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Allm%C3%A4nnings%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "törnskata",
-    "scientificName": "Lanius collurio",
-    "datum": "2025-08-01T00:00:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red-backed_Shrike_%28Lanius_collurio%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-backed_Shrike_(Lanius_collurio).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
