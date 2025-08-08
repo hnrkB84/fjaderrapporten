@@ -682,5 +682,9 @@
   "Apus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Apus_apus_MHNT_ZOO_2011_11_159_Le_Louvres_Paris.jpg"
+  },
+  "Limosa lapponica": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bar-tailed_Godwit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bar-tailed_Godwit.jpg"
   }
 }
