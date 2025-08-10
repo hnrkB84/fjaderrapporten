@@ -690,5 +690,9 @@
   "Alcedo atthis": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg"
+  },
+  "Falco peregrinus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/93/Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg"
   }
 }
