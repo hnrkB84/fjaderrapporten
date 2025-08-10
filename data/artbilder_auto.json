@@ -686,5 +686,9 @@
   "Limosa lapponica": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bar-tailed_Godwit.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Bar-tailed_Godwit.jpg"
+  },
+  "Alcedo atthis": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg"
   }
 }
