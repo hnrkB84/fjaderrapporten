@@ -1,5 +1,29 @@
 [
   {
+    "art": "brun kärrhök",
+    "scientificName": "Circus aeruginosus",
+    "datum": "2025-08-11T14:41:00+02:00",
+    "lokal": "Norra gärdet, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "brun kärrhök",
+    "scientificName": "Circus aeruginosus",
+    "datum": "2025-08-11T14:41:00+02:00",
+    "lokal": "Norra gärdet, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "bivråk",
     "scientificName": "Pernis apivorus",
     "datum": "2025-08-11T10:57:00+02:00",
@@ -574,29 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/93/Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stra+ind.omr.+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "grå flugsnappare",
-    "scientificName": "Muscicapa striata",
-    "datum": "2025-08-10T11:15:00+02:00",
-    "lokal": "Parken, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_мухоловка_сіра.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "steglits",
-    "scientificName": "Carduelis carduelis",
-    "datum": "2025-08-10T11:15:00+02:00",
-    "lokal": "Parken, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_close_up.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
