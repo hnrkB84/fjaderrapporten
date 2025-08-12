@@ -694,5 +694,9 @@
   "Falco peregrinus": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/93/Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg"
+  },
+  "Numenius/Limosa": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Katinger_watt_Limosa_limosa_10.05.2011_20-19-00.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Katinger_watt_Limosa_limosa_10.05.2011_20-19-00.jpg"
   }
 }
