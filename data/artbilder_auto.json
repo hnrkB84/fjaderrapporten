@@ -698,5 +698,9 @@
   "Numenius/Limosa": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Katinger_watt_Limosa_limosa_10.05.2011_20-19-00.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Katinger_watt_Limosa_limosa_10.05.2011_20-19-00.jpg"
+  },
+  "Tadorna tadorna": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/A_couple_of_Tadorna_ferruginea.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:A_couple_of_Tadorna_ferruginea.jpg"
   }
 }
