@@ -1,5 +1,17 @@
 [
   {
+    "art": "gluttsnäppa",
+    "scientificName": "Tringa nebularia",
+    "datum": "2025-08-17T05:42:00+02:00",
+    "lokal": "Nifsarpsmaden, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_common_greenshank_%28Tringa_nebularia%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:The_common_greenshank_(Tringa_nebularia).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "smålom",
     "scientificName": "Gavia stellata",
     "datum": "2025-08-16T10:05:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/94/Common_reed_bunting_%28Emberiza_schoeniclus%29_male_breeding_plumage_3.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_reed_bunting_(Emberiza_schoeniclus)_male_breeding_plumage_3.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "buskskvätta",
-    "scientificName": "Saxicola rubetra",
-    "datum": "2025-08-13T00:00:00+02:00",
-    "lokal": "Billsjöns strandäng, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Tarier_des_près_Zaghouan_NP001.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
