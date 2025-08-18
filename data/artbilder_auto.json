@@ -702,5 +702,13 @@
   "Tadorna tadorna": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/A_couple_of_Tadorna_ferruginea.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:A_couple_of_Tadorna_ferruginea.jpg"
+  },
+  "Glaucidium passerinum": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/79/Eurasian_pygmy_owl_%28Glaucidium_passerinum%29_Bia%C5%82owieza.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_pygmy_owl_(Glaucidium_passerinum)_Białowieza.jpg"
+  },
+  "Hirundinidae": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Landsvale.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Landsvale.jpg"
   }
 }
