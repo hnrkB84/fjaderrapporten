@@ -1,5 +1,17 @@
 [
   {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-08-21T11:13:00+02:00",
+    "lokal": "Östra ind.omr. Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stra+ind.omr.+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "knölsvan",
     "scientificName": "Cygnus olor",
     "datum": "2025-08-21T09:15:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84spen%C3%A4slandet%2C+Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "vigg",
-    "scientificName": "Aythya fuligula",
-    "datum": "2025-08-17T11:22:00+02:00",
-    "lokal": "Äspenäslandet, Bodasjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84spen%C3%A4slandet%2C+Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
