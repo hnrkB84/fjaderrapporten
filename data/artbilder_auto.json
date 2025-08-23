@@ -710,5 +710,9 @@
   "Hirundinidae": {
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Landsvale.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Landsvale.jpg"
+  },
+  "Larus marinus": {
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Great_black-backed_gull_%2826769%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Great_black-backed_gull_(26769).jpg"
   }
 }
