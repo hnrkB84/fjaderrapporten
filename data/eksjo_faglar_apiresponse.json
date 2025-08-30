@@ -1,5 +1,17 @@
 [
   {
+    "art": "sparvhök",
+    "scientificName": "Accipiter nisus",
+    "datum": "2025-08-30T16:12:00+02:00",
+    "lokal": "Näset, Havik, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N%C3%A4set%2C+Havik%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "röd glada",
     "scientificName": "Milvus milvus",
     "datum": "2025-08-30T00:00:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "trana",
-    "scientificName": "Grus grus",
-    "datum": "2025-08-26T12:08:00+02:00",
-    "lokal": "Hällinge, Höreda, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%A4llinge%2C+H%C3%B6reda%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
