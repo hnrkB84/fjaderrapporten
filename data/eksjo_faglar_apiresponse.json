@@ -1,5 +1,17 @@
 [
   {
+    "art": "pilfink",
+    "scientificName": "Passer montanus",
+    "datum": "2025-09-03T12:15:00+02:00",
+    "lokal": "Siken 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Passer_montanus_malaccensis_@_Kuala_Lumpur,_Malaysia_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "brunand",
     "scientificName": "Aythya ferina",
     "datum": "2025-09-02T18:41:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84nkarpag%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "nötskrika",
-    "scientificName": "Garrulus glandarius",
-    "datum": "2025-08-31T17:00:00+02:00",
-    "lokal": "Änkarpagölen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84nkarpag%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
