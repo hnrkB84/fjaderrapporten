@@ -1,5 +1,17 @@
 [
   {
+    "art": "mindre hackspett",
+    "scientificName": "Dryobates minor",
+    "datum": "2025-09-03T16:27:00+02:00",
+    "lokal": "Östra ind.omr. Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%96stra+ind.omr.+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "pilfink",
     "scientificName": "Passer montanus",
     "datum": "2025-09-03T12:15:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84nkarpag%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "större hackspett",
-    "scientificName": "Dendrocopos major",
-    "datum": "2025-08-31T17:00:00+02:00",
-    "lokal": "Änkarpagölen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84nkarpag%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
