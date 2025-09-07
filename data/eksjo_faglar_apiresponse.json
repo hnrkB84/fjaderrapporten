@@ -1,5 +1,17 @@
 [
   {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2025-09-07T16:30:00+02:00",
+    "lokal": "Gisshultasjön Lugnet, Gisshultasjön Södra, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gisshultasj%C3%B6n+Lugnet%2C+Gisshultasj%C3%B6n+S%C3%B6dra%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "ägretthäger",
     "scientificName": "Ardea alba",
     "datum": "2025-09-07T15:48:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gr%C3%A8be_castagneux_Lac_de_Tunis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Grèbe_castagneux_Lac_de_Tunis.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6ns+strand%C3%A4ng%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ljungpipare",
-    "scientificName": "Pluvialis apricaria",
-    "datum": "2025-09-05T14:18:00+02:00",
-    "lokal": "Parken, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Rohkunborri_Pluvialis_Apricaria.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
