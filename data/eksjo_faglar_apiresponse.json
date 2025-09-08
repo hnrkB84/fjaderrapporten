@@ -1,5 +1,17 @@
 [
   {
+    "art": "ägretthäger",
+    "scientificName": "Ardea alba",
+    "datum": "2025-09-08T17:15:00+02:00",
+    "lokal": "Sörabyviken, Solgen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6rabyviken%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "entita",
     "scientificName": "Poecile palustris",
     "datum": "2025-09-08T07:00:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=gravf%C3%A4ltet%2C+Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ägretthäger",
-    "scientificName": "Ardea alba",
-    "datum": "2025-09-07T00:00:00+02:00",
-    "lokal": "Kvitten, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvitten%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
