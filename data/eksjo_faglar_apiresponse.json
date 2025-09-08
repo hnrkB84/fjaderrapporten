@@ -1,5 +1,29 @@
 [
   {
+    "art": "entita",
+    "scientificName": "Poecile palustris",
+    "datum": "2025-09-08T07:00:00+02:00",
+    "lokal": "Dullingsmålen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Parus_palustris02.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_palustris02.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "trana",
+    "scientificName": "Grus grus",
+    "datum": "2025-09-08T07:00:00+02:00",
+    "lokal": "Dullingsmålen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gröngöling",
     "scientificName": "Picus viridis",
     "datum": "2025-09-07T19:00:00+02:00",
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "duvhök",
-    "scientificName": "Astur gentilis",
-    "datum": "2025-09-06T15:00:00+02:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sparvhök",
-    "scientificName": "Accipiter nisus",
-    "datum": "2025-09-06T15:00:00+02:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
