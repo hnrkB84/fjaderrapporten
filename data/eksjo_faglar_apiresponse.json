@@ -1,5 +1,17 @@
 [
   {
+    "art": "spillkråka",
+    "scientificName": "Dryocopus martius",
+    "datum": "2025-09-09T17:00:00+02:00",
+    "lokal": "Skidstugan, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Black_woodpecker_%28Dryocopus_martius%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Black_woodpecker_(Dryocopus_martius).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skidstugan%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "trana",
     "scientificName": "Grus grus",
     "datum": "2025-09-09T13:00:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Head_of_European_herring_gull_%28Larus_argentatus%29._Saint-Malo%2C_France.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Head_of_European_herring_gull_(Larus_argentatus)._Saint-Malo,_France.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "havstrut",
-    "scientificName": "Larus marinus",
-    "datum": "2025-09-08T18:24:00+02:00",
-    "lokal": "Fredriks pir, Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Great_black-backed_gull_%2826769%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Great_black-backed_gull_(26769).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Fredriks+pir%2C+S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
