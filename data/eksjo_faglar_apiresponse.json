@@ -1,5 +1,29 @@
 [
   {
+    "art": "havstrut",
+    "scientificName": "Larus marinus",
+    "datum": "2025-09-26T19:00:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Great_black-backed_gull_%2826769%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Great_black-backed_gull_(26769).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "kungsfiskare",
+    "scientificName": "Alcedo atthis",
+    "datum": "2025-09-26T18:30:00+02:00",
+    "lokal": "Berget, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "nötkråka",
     "scientificName": "Nucifraga caryocatactes",
     "datum": "2025-09-26T17:30:00+02:00",
@@ -573,30 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hirundo_rustica_Ormoz.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_Ormoz.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gransångare",
-    "scientificName": "Phylloscopus collybita",
-    "datum": "2025-09-26T09:00:00+02:00",
-    "lokal": "Åberga, Markestad, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_collybita_-_Common_Chiffchaff%2C_Adana_2016-11-27_01-4.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff,_Adana_2016-11-27_01-4.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "storskarv",
-    "scientificName": "Phalacrocorax carbo",
-    "datum": "2025-09-26T09:00:00+02:00",
-    "lokal": "Åberga, Markestad, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phalacrocorax_carbo_Vic.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_Vic.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
