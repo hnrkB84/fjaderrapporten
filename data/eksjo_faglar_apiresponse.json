@@ -1,5 +1,17 @@
 [
   {
+    "art": "gransångare",
+    "scientificName": "Phylloscopus collybita",
+    "datum": "2025-09-27T08:30:00+02:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_collybita_-_Common_Chiffchaff%2C_Adana_2016-11-27_01-4.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff,_Adana_2016-11-27_01-4.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "havstrut",
     "scientificName": "Larus marinus",
     "datum": "2025-09-26T19:00:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Alouette_des_champs_Zaghouan001.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Alouette_des_champs_Zaghouan001.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ladusvala",
-    "scientificName": "Hirundo rustica",
-    "datum": "2025-09-26T09:00:00+02:00",
-    "lokal": "Åberga, Markestad, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hirundo_rustica_Ormoz.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_Ormoz.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
