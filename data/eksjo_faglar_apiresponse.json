@@ -1,5 +1,17 @@
 [
   {
+    "art": "ägretthäger",
+    "scientificName": "Ardea alba",
+    "datum": "2025-09-30T14:50:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kricka",
     "scientificName": "Anas crecca",
     "datum": "2025-09-30T11:25:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Altan%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "blåmes",
-    "scientificName": "Cyanistes caeruleus",
-    "datum": "2025-09-27T00:00:00+02:00",
-    "lokal": "Altan, Tannarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Altan%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
