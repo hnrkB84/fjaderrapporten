@@ -1,5 +1,17 @@
 [
   {
+    "art": "strömstare",
+    "scientificName": "Cinclus cinclus",
+    "datum": "2025-10-20T13:37:00+02:00",
+    "lokal": "Kvarnpsån, Kvarnarpasjön, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cinclus_cinclus_bronwen_y_dwr.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_bronwen_y_dwr.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnps%C3%A5n%2C+Kvarnarpasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "dubbeltrast",
     "scientificName": "Turdus viscivorus",
     "datum": "2025-10-20T10:53:00+02:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": null,
     "bild_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Altan%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "nötväcka",
-    "scientificName": "Sitta europaea",
-    "datum": "2025-10-19T00:00:00+02:00",
-    "lokal": "Altan, Tannarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sitta_europaea_wildlife_3.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_wildlife_3.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Altan%2C+Tannarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
