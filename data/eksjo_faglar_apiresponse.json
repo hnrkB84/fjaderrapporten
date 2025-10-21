@@ -1,5 +1,41 @@
 [
   {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-10-21T10:53:00+02:00",
+    "lokal": "S oset, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "grågås",
+    "scientificName": "Anser anser",
+    "datum": "2025-10-21T10:53:00+02:00",
+    "lokal": "S oset, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "bläsgås",
+    "scientificName": "Anser albifrons",
+    "datum": "2025-10-21T10:53:00+02:00",
+    "lokal": "S oset, Nifsarpen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "strömstare",
     "scientificName": "Cinclus cinclus",
     "datum": "2025-10-21T10:23:00+02:00",
@@ -562,41 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mergus_merganser_qtl1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_qtl1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knölsvan",
-    "scientificName": "Cygnus olor",
-    "datum": "2025-10-19T00:00:00+02:00",
-    "lokal": "Bodasjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stjärtmes",
-    "scientificName": "Aegithalos caudatus",
-    "datum": "2025-10-19T00:00:00+02:00",
-    "lokal": "Söraby, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aegithalos_caudatus_front-on_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_front-on_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6raby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "vigg",
-    "scientificName": "Aythya fuligula",
-    "datum": "2025-10-19T00:00:00+02:00",
-    "lokal": "Mellby badplats, Solgen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aythya_fuligula_Hires.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aythya_fuligula_Hires.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
