@@ -1,5 +1,41 @@
 [
   {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-10-22T10:02:00+02:00",
+    "lokal": "Liparpamossen, Torsjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Liparpamossen%2C+Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "grågås",
+    "scientificName": "Anser anser",
+    "datum": "2025-10-22T10:02:00+02:00",
+    "lokal": "Liparpamossen, Torsjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Liparpamossen%2C+Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "bläsgås",
+    "scientificName": "Anser albifrons",
+    "datum": "2025-10-22T10:02:00+02:00",
+    "lokal": "Liparpamossen, Torsjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Liparpamossen%2C+Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "strömstare",
     "scientificName": "Cinclus cinclus",
     "datum": "2025-10-21T17:09:00+02:00",
@@ -562,41 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%84spen%C3%A4slandet%2C+Bodasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "grågås",
-    "scientificName": "Anser anser",
-    "datum": "2025-10-19T11:07:00+02:00",
-    "lokal": "Torsberg, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tornfalk",
-    "scientificName": "Falco tinnunculus",
-    "datum": "2025-10-19T11:07:00+02:00",
-    "lokal": "Torsberg, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stenfalk",
-    "scientificName": "Falco columbarius",
-    "datum": "2025-10-19T11:07:00+02:00",
-    "lokal": "Torsberg, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": null,
-    "bild_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
