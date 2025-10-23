@@ -120,6 +120,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "skata",
+    "scientificName": "Pica pica",
+    "datum": "2025-10-23T10:01:00+02:00",
+    "lokal": "Munkakvarn, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "grågås x kanadagås",
     "scientificName": "Anser anser x Branta canadensis",
     "datum": "2025-10-22T16:00:00+02:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "strömstare",
-    "scientificName": "Cinclus cinclus",
-    "datum": "2025-10-20T13:37:00+02:00",
-    "lokal": "Kvarnpsån, Kvarnarpasjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cinclus_cinclus_bronwen_y_dwr.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_bronwen_y_dwr.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnps%C3%A5n%2C+Kvarnarpasj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
