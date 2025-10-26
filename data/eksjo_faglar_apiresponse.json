@@ -1,5 +1,17 @@
 [
   {
+    "art": "strömstare",
+    "scientificName": "Cinclus cinclus",
+    "datum": "2025-10-26T13:30:00+01:00",
+    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cinclus_cinclus_bronwen_y_dwr.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_bronwen_y_dwr.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gråhäger",
     "scientificName": "Ardea cinerea",
     "datum": "2025-10-26T13:22:00+01:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sångsvan",
-    "scientificName": "Cygnus cygnus",
-    "datum": "2025-10-23T11:40:00+02:00",
-    "lokal": "N oset, Nifsarpen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
