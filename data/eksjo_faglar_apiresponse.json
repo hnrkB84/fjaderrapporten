@@ -1,5 +1,17 @@
 [
   {
+    "art": "kungsfiskare",
+    "scientificName": "Alcedo atthis",
+    "datum": "2025-10-28T12:22:00+01:00",
+    "lokal": "Berget, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "knölsvan",
     "scientificName": "Cygnus olor",
     "datum": "2025-10-28T11:16:00+01:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga+sydost%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gråkråka",
-    "scientificName": "Corvus corone cornix",
-    "datum": "2025-10-25T13:30:00+02:00",
-    "lokal": "Åberga sydost, Markestad, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga+sydost%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
