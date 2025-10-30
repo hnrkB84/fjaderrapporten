@@ -1,5 +1,41 @@
 [
   {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-10-30T09:18:00+01:00",
+    "lokal": "Torsjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-10-30T08:57:00+01:00",
+    "lokal": "Billsjön, Haga, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6n%2C+Haga%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "knipa",
+    "scientificName": "Bucephala clangula",
+    "datum": "2025-10-30T08:57:00+01:00",
+    "lokal": "Billsjön, Haga, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bucephala_clangula_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Billsj%C3%B6n%2C+Haga%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "bläsand",
     "scientificName": "Mareca penelope",
     "datum": "2025-10-30T08:16:00+01:00",
@@ -562,41 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrg%C3%A5rd%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kungsfiskare",
-    "scientificName": "Alcedo atthis",
-    "datum": "2025-10-29T10:40:00+01:00",
-    "lokal": "Berget, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tofsvipa",
-    "scientificName": "Vanellus vanellus",
-    "datum": "2025-10-29T10:40:00+01:00",
-    "lokal": "Sjögärdet, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gulsparv",
-    "scientificName": "Emberiza citrinella",
-    "datum": "2025-10-29T10:40:00+01:00",
-    "lokal": "Russnäs, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Yellowhammer_%28Emberiza_citrinella%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Yellowhammer_(Emberiza_citrinella).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Russn%C3%A4s%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
