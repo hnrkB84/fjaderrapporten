@@ -588,15 +588,15 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Russn%C3%A4s%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "ormvråk",
-    "scientificName": "Buteo buteo",
-    "datum": "2025-11-02T10:07:00+01:00",
-    "lokal": "Hålkärret, Markestad, Sm",
+    "art": "sidensvans",
+    "scientificName": "Bombycilla garrulus",
+    "datum": "2025-11-02T10:15:00+01:00",
+    "lokal": "Nannylund, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%A5lk%C3%A4rret%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nannylund%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
