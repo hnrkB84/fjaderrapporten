@@ -24,6 +24,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=N+oset%2C+Nifsarpen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "varfågel",
+    "scientificName": "Lanius excubitor",
+    "datum": "2025-11-02T09:15:00+01:00",
+    "lokal": "Soåsen, Ränneslätt, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=So%C3%A5sen%2C+R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "järpe",
     "scientificName": "Tetrastes bonasia",
     "datum": "2025-11-02T09:13:00+01:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Bj%C3%A4rsby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "mindre korsnäbb",
-    "scientificName": "Loxia curvirostra",
-    "datum": "2025-11-01T11:20:00+01:00",
-    "lokal": "Åhagen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/da/Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_T%C3%A9bessa.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_Tébessa.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85hagen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
