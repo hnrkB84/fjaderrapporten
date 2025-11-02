@@ -1,5 +1,29 @@
 [
   {
+    "art": "järpe",
+    "scientificName": "Tetrastes bonasia",
+    "datum": "2025-11-02T09:13:00+01:00",
+    "lokal": "Vistaholmsgölen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vistaholmsg%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "rödvingetrast",
+    "scientificName": "Turdus iliacus",
+    "datum": "2025-11-02T08:52:00+01:00",
+    "lokal": "Vistaholmsgölen, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Redwing_Turdus_iliacus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Redwing_Turdus_iliacus.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vistaholmsg%C3%B6len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gråhäger",
     "scientificName": "Ardea cinerea",
     "datum": "2025-11-02T08:15:00+01:00",
@@ -574,29 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Meadow_pipit_%28Anthus_pratensis%29_Oppdal.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Meadow_pipit_(Anthus_pratensis)_Oppdal.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "hämpling",
-    "scientificName": "Linaria cannabina",
-    "datum": "2025-11-01T11:10:00+01:00",
-    "lokal": "Kråkön, Ingarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A5k%C3%B6n%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skedand",
-    "scientificName": "Spatula clypeata",
-    "datum": "2025-11-01T10:42:00+01:00",
-    "lokal": "Ingarpagöl, Ingarp, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/70/Northern_shoveler_pair_in_Marine_Park_%2833233%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_pair_in_Marine_Park_(33233).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingarpag%C3%B6l%2C+Ingarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
