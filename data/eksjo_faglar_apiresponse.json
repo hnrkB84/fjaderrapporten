@@ -12,6 +12,66 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ebbarp%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "mindre korsnäbb",
+    "scientificName": "Loxia curvirostra",
+    "datum": "2025-11-04T14:00:00+01:00",
+    "lokal": "Kakelugnsmossens naturreservat, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/da/Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_T%C3%A9bessa.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_poliogyna_MHNT.ZOO.2010.11.220_Tébessa.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelugnsmossens+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "talltita",
+    "scientificName": "Poecile montanus",
+    "datum": "2025-11-04T14:00:00+01:00",
+    "lokal": "Kakelugnsmossens naturreservat, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Poecile_montanus_kleinschmidti_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Poecile_montanus_kleinschmidti_2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelugnsmossens+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "entita",
+    "scientificName": "Poecile palustris",
+    "datum": "2025-11-04T14:00:00+01:00",
+    "lokal": "Kakelugnsmossens naturreservat, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Parus_palustris02.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_palustris02.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelugnsmossens+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "större hackspett",
+    "scientificName": "Dendrocopos major",
+    "datum": "2025-11-04T14:00:00+01:00",
+    "lokal": "Kakelugnsmossens naturreservat, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelugnsmossens+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "kungsfågel",
+    "scientificName": "Regulus regulus",
+    "datum": "2025-11-04T14:00:00+01:00",
+    "lokal": "Kakelugnsmossens naturreservat, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Goldcrest_1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kakelugnsmossens+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kanadagås",
     "scientificName": "Branta canadensis",
     "datum": "2025-11-04T10:52:00+01:00",
@@ -538,65 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "blåmes",
-    "scientificName": "Cyanistes caeruleus",
-    "datum": "2025-11-02T12:45:00+01:00",
-    "lokal": "Siken 5, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "koltrast",
-    "scientificName": "Turdus merula",
-    "datum": "2025-11-02T12:45:00+01:00",
-    "lokal": "Siken 5, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kungsfiskare",
-    "scientificName": "Alcedo atthis",
-    "datum": "2025-11-02T12:20:00+01:00",
-    "lokal": "Berget, Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "morkulla",
-    "scientificName": "Scolopax rusticola",
-    "datum": "2025-11-02T12:00:00+01:00",
-    "lokal": "Dullingsmålen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Woodcock_%28Scolopax_rusticola%29%2C_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola),_Haroldswick_-_geograph.org.uk_-_6758230.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sparvuggla",
-    "scientificName": "Glaucidium passerinum",
-    "datum": "2025-11-02T12:00:00+01:00",
-    "lokal": "Dullingsmålen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/79/Eurasian_pygmy_owl_%28Glaucidium_passerinum%29_Bia%C5%82owieza.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_pygmy_owl_(Glaucidium_passerinum)_Białowieza.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Dullingsm%C3%A5len%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
