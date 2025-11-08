@@ -1,5 +1,17 @@
 [
   {
+    "art": "fasan",
+    "scientificName": "Phasianus colchicus",
+    "datum": "2025-11-08T00:00:00+01:00",
+    "lokal": "Parken, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jagdfasan-Hahn_%28M%C3%A4rz_2025%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Jagdfasan-Hahn_(M%C3%A4rz_2025).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "björktrast",
     "scientificName": "Turdus pilaris",
     "datum": "2025-11-07T14:00:00+01:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "varfågel",
-    "scientificName": "Lanius excubitor",
-    "datum": "2025-11-05T00:00:00+01:00",
-    "lokal": "Mellby kyrkmosse, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+kyrkmosse%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
