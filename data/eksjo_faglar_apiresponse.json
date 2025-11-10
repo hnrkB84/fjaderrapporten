@@ -2,6 +2,18 @@
   {
     "art": "varfågel",
     "scientificName": "Lanius excubitor",
+    "datum": "2025-11-10T08:52:00+01:00",
+    "lokal": "Grönnens strandängar, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gr%C3%B6nnens+strand%C3%A4ngar%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "varfågel",
+    "scientificName": "Lanius excubitor",
     "datum": "2025-11-10T08:28:00+01:00",
     "lokal": "Ingarpasjön norr, Ingarpssjön, Sm",
     "rapporteradAv": "okänd observatör",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%B6reda-Br%C3%A4nna+3%2CEksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "grönsiska",
-    "scientificName": "Spinus spinus",
-    "datum": "2025-11-08T09:34:00+01:00",
-    "lokal": "Höreda-Bränna 3,Eksjö, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Eurasian_siskin_%28Spinus_spinus%29_female_Biebrzanski.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_female_Biebrzanski.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%B6reda-Br%C3%A4nna+3%2CEksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
