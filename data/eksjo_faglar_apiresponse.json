@@ -1,5 +1,17 @@
 [
   {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2025-11-15T12:25:00+01:00",
+    "lokal": "flygfältet, Ränneslätt, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=flygf%C3%A4ltet%2C+R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "ormvråk",
     "scientificName": "Buteo buteo",
     "datum": "2025-11-15T08:53:00+01:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sitta_europaea_wildlife_3.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_wildlife_3.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mosshemmet%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kungsfågel",
-    "scientificName": "Regulus regulus",
-    "datum": "2025-11-11T11:45:00+01:00",
-    "lokal": "Mosshemmet, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Goldcrest_1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mosshemmet%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
