@@ -1,5 +1,17 @@
 [
   {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-11-15T08:53:00+01:00",
+    "lokal": "Allén, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=All%C3%A9n%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "större hackspett",
     "scientificName": "Dendrocopos major",
     "datum": "2025-11-14T11:04:00+01:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Goldcrest_1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mosshemmet%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "bläsand",
-    "scientificName": "Mareca penelope",
-    "datum": "2025-11-11T11:24:00+01:00",
-    "lokal": "badplatsen, Ingarpssjön, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eurasian_wigeon_in_Sakai%2C_Osaka%2C_February_2016.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_wigeon_in_Sakai,_Osaka,_February_2016.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=badplatsen%2C+Ingarpssj%C3%B6n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
