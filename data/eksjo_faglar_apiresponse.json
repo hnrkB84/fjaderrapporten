@@ -24,6 +24,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vetlandav%C3%A4gen+6%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2025-11-18T10:15:00+01:00",
+    "lokal": "Skiverstad, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skiverstad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gråhäger",
     "scientificName": "Ardea cinerea",
     "datum": "2025-11-18T10:10:00+01:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Weibliche_Kornweihe_%28circus_cyaneus%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Weibliche_Kornweihe_(circus_cyaneus)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "björktrast",
-    "scientificName": "Turdus pilaris",
-    "datum": "2025-11-15T12:35:00+01:00",
-    "lokal": "Torsberg, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fieldfare_aka_Turdus_pilaris.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fieldfare_aka_Turdus_pilaris.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
