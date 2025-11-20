@@ -1,5 +1,17 @@
 [
   {
+    "art": "sädgås",
+    "scientificName": "Anser fabalis/serrirostris",
+    "datum": "2025-11-20T09:27:00+01:00",
+    "lokal": "Kvarnarps gård, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": null,
+    "bild_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnarps+g%C3%A5rd%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "gransångare",
     "scientificName": "Phylloscopus collybita",
     "datum": "2025-11-19T14:30:00+01:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tofsmes",
-    "scientificName": "Lophophanes cristatus",
-    "datum": "2025-11-16T12:52:00+01:00",
-    "lokal": "Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lophophanes_cristatus_Luc_Viatour_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lophophanes_cristatus_Luc_Viatour_2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
