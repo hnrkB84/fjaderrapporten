@@ -2,6 +2,18 @@
   {
     "art": "strömstare",
     "scientificName": "Cinclus cinclus",
+    "datum": "2025-11-30T13:10:00+01:00",
+    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cinclus_cinclus_bronwen_y_dwr.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_bronwen_y_dwr.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "strömstare",
+    "scientificName": "Cinclus cinclus",
     "datum": "2025-11-29T12:02:00+01:00",
     "lokal": "Munkakvarn, Kvarnarpaån, Sm",
     "rapporteradAv": "okänd observatör",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stjärtmes",
-    "scientificName": "Aegithalos caudatus",
-    "datum": "2025-11-24T11:30:00+01:00",
-    "lokal": "Nifsarpsmaden, Kvarnarpaån, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aegithalos_caudatus_front-on_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_front-on_2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
