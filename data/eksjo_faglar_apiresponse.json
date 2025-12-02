@@ -1,5 +1,29 @@
 [
   {
+    "art": "rödhake",
+    "scientificName": "Erithacus rubecula",
+    "datum": "2025-12-02T14:04:00+01:00",
+    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_robin_%28Erithacus_rubecula%29_juvenile.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "grönsiska",
+    "scientificName": "Spinus spinus",
+    "datum": "2025-12-02T14:04:00+01:00",
+    "lokal": "Munkakvarn, Kvarnarpaån, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Eurasian_siskin_%28Spinus_spinus%29_female_Biebrzanski.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_female_Biebrzanski.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Munkakvarn%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "turkduva",
     "scientificName": "Streptopelia decaocto",
     "datum": "2025-12-02T09:50:00+01:00",
@@ -574,29 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hawfinch_%28Coccothraustes_coccothraustes%29_juvenile_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_juvenile_2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Matningen%2C+Sj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "turkduva",
-    "scientificName": "Streptopelia decaocto",
-    "datum": "2025-11-24T13:10:00+01:00",
-    "lokal": "Siken 5, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "koltrast",
-    "scientificName": "Turdus merula",
-    "datum": "2025-11-24T13:10:00+01:00",
-    "lokal": "Siken 5, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
