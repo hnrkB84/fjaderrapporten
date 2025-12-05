@@ -60,6 +60,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nifsarpsmaden%2C+Kvarnarpa%C3%A5n%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "rödhake",
+    "scientificName": "Erithacus rubecula",
+    "datum": "2025-12-04T00:00:00+01:00",
+    "lokal": "Kvarnarps villaområde Castmans väg, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_robin_%28Erithacus_rubecula%29_juvenile.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Kvarnarps+villaomr%C3%A5de+Castmans+v%C3%A4g%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "knölsvan",
     "scientificName": "Cygnus olor",
     "datum": "2025-12-03T11:16:00+01:00",
@@ -586,17 +598,5 @@
     "bild": null,
     "bild_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Parken%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "havsörn",
-    "scientificName": "Haliaeetus albicilla",
-    "datum": "2025-11-30T00:00:00+01:00",
-    "lokal": "Norra Wixen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fighting_white-tailed_eagles_%28Haliaeetus_albicilla%29_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
