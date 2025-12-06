@@ -120,39 +120,27 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Hunnerstad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "sparvhök",
-    "scientificName": "Accipiter nisus",
-    "datum": "2025-12-05T14:00:00+01:00",
-    "lokal": "Havik Näset 1, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set+1%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sparvhök",
-    "scientificName": "Accipiter nisus",
-    "datum": "2025-12-05T00:00:00+01:00",
-    "lokal": "Havik Näset 1, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set+1%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "kattuggla",
     "scientificName": "Strix aluco",
-    "datum": "2025-12-05T00:00:00+01:00",
+    "datum": "2025-12-05T16:14:00+01:00",
     "lokal": "Havik Näset 1, Sm",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tawny_wiki_edit1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Tawny_wiki_edit1.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set+1%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sparvhök",
+    "scientificName": "Accipiter nisus",
+    "datum": "2025-12-05T00:00:00+01:00",
+    "lokal": "Havik Näset 1, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Havik+N%C3%A4set+1%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
@@ -598,5 +586,17 @@
     "bild": null,
     "bild_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "turkduva",
+    "scientificName": "Streptopelia decaocto",
+    "datum": "2025-12-02T09:50:00+01:00",
+    "lokal": "Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
