@@ -1,5 +1,77 @@
 [
   {
+    "art": "bofink",
+    "scientificName": "Fringilla coelebs",
+    "datum": "2025-12-21T10:17:00+01:00",
+    "lokal": "Vetlandavägen 6, Eksjö, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_chaffinch_male_edit2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Vetlandav%C3%A4gen+6%2C+Eksj%C3%B6%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "pilfink",
+    "scientificName": "Passer montanus",
+    "datum": "2025-12-21T09:45:00+01:00",
+    "lokal": "Siken 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Passer_montanus_malaccensis_@_Kuala_Lumpur,_Malaysia_(1).jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "stenknäck",
+    "scientificName": "Coccothraustes coccothraustes",
+    "datum": "2025-12-21T09:45:00+01:00",
+    "lokal": "Siken 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hawfinch_%28Coccothraustes_coccothraustes%29_juvenile_2.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_juvenile_2.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "talgoxe",
+    "scientificName": "Parus major",
+    "datum": "2025-12-21T09:45:00+01:00",
+    "lokal": "Siken 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Parus_major_m.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "blåmes",
+    "scientificName": "Cyanistes caeruleus",
+    "datum": "2025-12-21T09:45:00+01:00",
+    "lokal": "Siken 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skata",
+    "scientificName": "Pica pica",
+    "datum": "2025-12-21T09:45:00+01:00",
+    "lokal": "Siken 5, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Siken+5%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "varfågel",
     "scientificName": "Lanius excubitor",
     "datum": "2025-12-20T13:00:00+01:00",
@@ -526,77 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mergus_merganser_qtl1.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_qtl1.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gråtrut",
-    "scientificName": "Larus argentatus",
-    "datum": "2025-12-15T00:00:00+01:00",
-    "lokal": "Norra Wixen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Head_of_European_herring_gull_%28Larus_argentatus%29._Saint-Malo%2C_France.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Head_of_European_herring_gull_(Larus_argentatus)._Saint-Malo,_France.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "knölsvan",
-    "scientificName": "Cygnus olor",
-    "datum": "2025-12-15T00:00:00+01:00",
-    "lokal": "Norra Wixen, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norra+Wixen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "varfågel",
-    "scientificName": "Lanius excubitor",
-    "datum": "2025-12-14T00:00:00+01:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gråhäger",
-    "scientificName": "Ardea cinerea",
-    "datum": "2025-12-14T00:00:00+01:00",
-    "lokal": "Ryningsholm, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ardea_cinerea_2013-09-16.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "spillkråka",
-    "scientificName": "Dryocopus martius",
-    "datum": "2025-12-14T00:00:00+01:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Black_woodpecker_%28Dryocopus_martius%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Black_woodpecker_(Dryocopus_martius).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "fiskmås",
-    "scientificName": "Larus canus",
-    "datum": "2025-12-14T00:00:00+01:00",
-    "lokal": "Reningsverket, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/07/Larus_canus_Oulu_20150712_03.JPG",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Larus_canus_Oulu_20150712_03.JPG",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Reningsverket%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
