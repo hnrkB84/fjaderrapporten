@@ -1,5 +1,17 @@
 [
   {
+    "art": "trana",
+    "scientificName": "Grus grus",
+    "datum": "2025-12-23T13:45:00+01:00",
+    "lokal": "Drakaröret, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Drakar%C3%B6ret%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "rödhake",
     "scientificName": "Erithacus rubecula",
     "datum": "2025-12-23T12:34:00+01:00",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=All%C3%A9n%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "duvhök",
-    "scientificName": "Astur gentilis",
-    "datum": "2025-12-20T11:58:00+01:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
