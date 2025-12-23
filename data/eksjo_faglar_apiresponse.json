@@ -36,6 +36,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gamla+stan%2C+Gamla+stan%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
+    "art": "trana",
+    "scientificName": "Grus grus",
+    "datum": "2025-12-23T11:00:00+01:00",
+    "lokal": "Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grus_antigone_Luc_viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grus_antigone_Luc_viatour.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "grågås",
     "scientificName": "Anser anser",
     "datum": "2025-12-22T10:36:00+01:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_gentilis_MHNT.ZOO.2010.11.84.2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tornfalk",
-    "scientificName": "Falco tinnunculus",
-    "datum": "2025-12-20T11:58:00+01:00",
-    "lokal": "Ränneslätt, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=R%C3%A4nnesl%C3%A4tt%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
