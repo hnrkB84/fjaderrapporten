@@ -2,6 +2,18 @@
   {
     "art": "varfågel",
     "scientificName": "Lanius excubitor",
+    "datum": "2025-12-29T09:52:00+01:00",
+    "lokal": "Grönnens strandängar, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Gr%C3%B6nnens+strand%C3%A4ngar%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "varfågel",
+    "scientificName": "Lanius excubitor",
     "datum": "2025-12-28T14:00:00+01:00",
     "lokal": "Nödjehult, Ebbarp, Sm",
     "rapporteradAv": "okänd observatör",
@@ -586,17 +598,5 @@
     "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lophophanes_cristatus_Luc_Viatour_2.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Lophophanes_cristatus_Luc_Viatour_2.jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Lillahemsklack%2C+H%C3%A4ssel%C3%A5s%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "stjärtmes",
-    "scientificName": "Aegithalos caudatus",
-    "datum": "2025-12-26T15:47:00+01:00",
-    "lokal": "Hunnerstad, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aegithalos_caudatus_front-on_2.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_front-on_2.jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Hunnerstad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
