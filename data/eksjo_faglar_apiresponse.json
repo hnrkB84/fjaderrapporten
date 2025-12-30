@@ -1,5 +1,17 @@
 [
   {
+    "art": "kungsfiskare",
+    "scientificName": "Alcedo atthis",
+    "datum": "2025-12-30T14:15:00+01:00",
+    "lokal": "Berget, Ryningsholm, Sm",
+    "rapporteradAv": "okänd observatör",
+    "antal": 1,
+    "observationstyp": "okänd",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "ormvråk",
     "scientificName": "Buteo buteo",
     "datum": "2025-12-29T12:55:00+01:00",
@@ -585,18 +597,6 @@
     "observationstyp": "okänd",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aquila_chrysaetos_%28Linnaeus_1758%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Aquila_chrysaetos_(Linnaeus_1758).jpg",
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Lillahemsklack%2C+H%C3%A4ssel%C3%A5s%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "havsörn",
-    "scientificName": "Haliaeetus albicilla",
-    "datum": "2025-12-27T11:00:00+01:00",
-    "lokal": "Lillahemsklack, Hässelås, Sm",
-    "rapporteradAv": "okänd observatör",
-    "antal": 1,
-    "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fighting_white-tailed_eagles_%28Haliaeetus_albicilla%29_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg",
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Lillahemsklack%2C+H%C3%A4ssel%C3%A5s%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   }
 ]
