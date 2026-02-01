@@ -3,7 +3,7 @@ import json
 import time
 from pathlib import Path
 
-OBSERVATIONFIL = Path("data/eksjo_faglar_apiresponse.json")
+CHECKLISTA_FIL = Path("data/checklista.json")
 UTFIL = Path("data/artbilder_auto.json")
 
 WM_API = "https://commons.wikimedia.org/w/api.php"
@@ -28,7 +28,7 @@ def hamta_bildinfo(artnamn):
             print(f"⚠️ Hittade ingen bildfil för {artnamn}.")
             return {}
 
-        filtitel = search_data["query"]["search"][0]["title"]  # ex: "File:Aythya_fuligula_male.jpg"
+        filtitel = search_data["query"]["search"][0]["title"]
 
         # Steg 2: Hämta bildens URL
         info_params = {
@@ -58,35 +58,41 @@ def hamta_bildinfo(artnamn):
         return {}
 
 def bygg_artbilder():
-    print("🔍 Läser in observationer...")
-    if not OBSERVATIONFIL.exists():
-        print("❌ Ingen observationfil hittades.")
+    print("📸 Hämtar bilder från Wikimedia Commons...")
+
+    if not CHECKLISTA_FIL.exists():
+        print("❌ Ingen checklista hittades — körs skapa_checklista.py första.")
         return
 
-    with open(OBSERVATIONFIL, encoding="utf-8") as f:
-        observationer = json.load(f)
+    with open(CHECKLISTA_FIL, encoding="utf-8") as f:
+        checklista = json.load(f)
 
-    # Läs in befintliga bilder för cache
+    # Läs befintlig cache
     if UTFIL.exists():
         with open(UTFIL, encoding="utf-8") as f:
             artbilder = json.load(f)
     else:
         artbilder = {}
 
-    arter = sorted(set(obs["scientificName"] for obs in observationer if obs.get("scientificName")))
-    print(f"🔎 Hittade {len(arter)} unika arter att söka bilder till.")
+    arter = sorted(set(
+        art["scientificName"] for art in checklista
+        if art.get("scientificName")
+    ))
+    print(f"🖼 {len(arter)} arter att söka bilder till.")
 
-    for ix, artnamn in enumerate(arter):
+    nya = 0
+    for artnamn in arter:
         if artnamn in artbilder and artbilder[artnamn].get("bild"):
-            print(f"⏩ Hoppar över (redan sparad): {artnamn}")
+            print(f"⏭ Hoppar över (sparad): {artnamn}")
             continue
 
         print(f"🔄 Hämtar bild till: {artnamn}...")
         artbilder[artnamn] = hamta_bildinfo(artnamn)
+        nya += 1
         time.sleep(3)
 
-        if ix % 10 == 0 and ix != 0:
-            print("⏳ Tar en extra paus...")
+        if nya % 10 == 0:
+            print("⏳ Extra paus...")
             time.sleep(5)
 
     with open(UTFIL, "w", encoding="utf-8") as f:

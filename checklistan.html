@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Checklista - Fjäderrapporten</title>
+  <title>Checklista — Fjäderrapporten</title>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -26,30 +26,6 @@
       height: 100%;
       object-fit: cover;
       display: block;
-    }
-
-    .header-text {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      text-align: center;
-      color: #1d2c1d;
-      background-color: rgba(255, 255, 255, 0.7);
-      padding: 1rem 2rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
-
-    .header-text h1 {
-      font-size: 2.5rem;
-      margin: 0;
-    }
-
-    .header-text p {
-      font-size: 1.2rem;
-      margin: 0.3rem 0 0;
-      color: #3f5d3f;
     }
 
     nav {
@@ -75,36 +51,151 @@
       padding: 0 1rem;
     }
 
+    /* Sökbar */
+    .sok-bar {
+      width: 100%;
+      padding: 0.7rem 1rem;
+      font-size: 1rem;
+      font-family: 'Merriweather', serif;
+      border: 1px solid #c8d5c1;
+      border-radius: 8px;
+      background: #fff;
+      box-sizing: border-box;
+      margin-bottom: 1rem;
+    }
+    .sok-bar:focus {
+      outline: none;
+      border-color: #a8c0a8;
+      box-shadow: 0 0 4px rgba(168,192,168,0.3);
+    }
+
+    /* Progress */
+    .progress-info {
+      text-align: center;
+      font-size: 0.88rem;
+      color: #555;
+      margin-bottom: 0.35rem;
+    }
+    .progress-bar {
+      width: 100%;
+      height: 5px;
+      background-color: #e0e8e0;
+      border-radius: 3px;
+      margin-bottom: 1.5rem;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background-color: #7ea77e;
+      border-radius: 3px;
+      transition: width 0.3s ease;
+    }
+
+    /* Bird cards */
     .bird-card {
       background: #ffffff;
       border-radius: 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      margin-bottom: 1.5rem;
-      padding: 1rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+      margin-bottom: 1rem;
+      padding: 1rem 1.2rem;
+      transition: background-color 0.2s;
     }
-    .bird-header {
-      margin-bottom: 0.5rem;
+    .bird-card.checked {
+      background-color: #eef5ee;
+    }
+
+    .card-top {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.7rem;
+    }
+
+    .art-checkbox {
+      margin-top: 0.2rem;
+      width: 20px;
+      height: 20px;
+      accent-color: #7ea77e;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+
+    .card-names {
+      flex: 1;
     }
     .sv-namn {
-      font-size: 1.2rem;
+      font-size: 1.15rem;
       font-weight: bold;
+      display: block;
     }
     .lat-namn {
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       font-style: italic;
-      color: #555;
+      color: #666;
+      display: block;
+      margin-top: 0.1rem;
+    }
+
+    .bird-details {
+      margin-top: 0.5rem;
+      padding-left: 2.5rem;
     }
     .bird-details p {
       margin: 0.2rem 0;
+      font-size: 0.87rem;
+      color: #555;
+    }
+
+    .kommuner-tags {
+      margin-top: 0.35rem;
+    }
+    .kommuntag {
+      display: inline-block;
+      font-size: 0.72rem;
+      background-color: #f0f5ef;
+      color: #3f5d3f;
+      padding: 0.15rem 0.45rem;
+      border-radius: 10px;
+      margin-right: 0.25rem;
+      margin-bottom: 0.2rem;
+    }
+
+    /* Ljud */
+    .ljud-btn {
+      background: none;
+      border: 1px solid #a8c0a8;
+      border-radius: 16px;
+      padding: 0.2rem 0.65rem;
+      font-size: 0.78rem;
+      color: #3f5d3f;
+      cursor: pointer;
+      margin-top: 0.5rem;
+      margin-left: 2.5rem;
+      font-family: 'Merriweather', serif;
+      transition: background-color 0.2s;
+    }
+    .ljud-btn:hover {
+      background-color: #e8f3e8;
+    }
+    .ljud-btn.playing {
+      background-color: #dbe8d1;
+      border-color: #7ea77e;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #e8ede7;
+      color: #555;
+      font-size: 0.9rem;
+      margin-top: 4rem;
     }
 
     @media (max-width: 600px) {
-      .sv-namn {
-        font-size: 1rem;
-      }
-      .lat-namn {
-        font-size: 0.8rem;
-      }
+      .sv-namn   { font-size: 1rem; }
+      .lat-namn  { font-size: 0.78rem; }
+      .bird-details { padding-left: 2.5rem; }
+      .ljud-btn  { margin-left: 2.5rem; }
     }
   </style>
 </head>
@@ -120,36 +211,192 @@
   </nav>
 
   <main>
-    <h2 style="text-align: center;">Checklista: Fåglar i Eksjö 2025</h2>
+    <h2 style="text-align:center; margin-bottom:0.5rem;">Checklista — Högland</h2>
+
+    <input type="search" class="sok-bar" id="sok" placeholder="Sök art…" />
+
+    <div class="progress-info">
+      Du har sett <strong><span id="checked-count">0</span></strong> av <span id="total-count">0</span> arter
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+
     <div id="checklista-body"></div>
   </main>
 
+  <footer>
+    &copy; 2025 Fjäderrapporten — Naturen är alltid närea.
+  </footer>
+
   <script>
-    fetch("data/checklista.json")
-      .then(response => response.json())
-      .then(data => {
-        const container = document.getElementById("checklista-body");
-        const sorted = data.sort((a, b) => new Date(a.förstSedd) - new Date(b.förstSedd));
-        for (const art of sorted) {
-          const card = document.createElement("div");
-          card.className = "bird-card";
+    const STORAGE_KEY = "checklista_checked";
 
-          const artnamn = art.art.charAt(0).toUpperCase() + art.art.slice(1);
-          const datum = new Date(art.förstSedd).toLocaleDateString("sv-SE");
+    // --- localStorage ---
+    function läsChecked() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        return raw ? new Set(JSON.parse(raw)) : new Set();
+      } catch { return new Set(); }
+    }
 
-          card.innerHTML = `
-            <div class="bird-header">
-              <div class="sv-namn">${artnamn}</div>
-              <div class="lat-namn"><em>${art.scientificName}</em></div>
-            </div>
-            <div class="bird-details">
-              <p><strong>Först sedd:</strong> ${datum}</p>
-              <p><strong>Plats:</strong> ${art.lokal}</p>
-            </div>
-          `;
-          container.appendChild(card);
-        }
+    function sparaChecked(set) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
+    }
+
+    let checked  = läsChecked();
+    let allArter = [];
+    let artljud  = {};
+
+    // --- Ljud (en källa i taget) ---
+    let currentAudio = null;
+    let currentBtn   = null;
+
+    function toggleSound(url, btn) {
+      if (currentAudio && currentBtn === btn) {
+        currentAudio.pause();
+        currentAudio = null;
+        currentBtn.classList.remove("playing");
+        currentBtn.textContent = "🔊 Lyssna";
+        currentBtn = null;
+        return;
+      }
+
+      if (currentAudio) {
+        currentAudio.pause();
+        currentBtn.classList.remove("playing");
+        currentBtn.textContent = "🔊 Lyssna";
+      }
+
+      currentAudio = new Audio(url);
+      currentAudio.play().catch(() => {
+        btn.classList.remove("playing");
+        btn.textContent = "🔊 Lyssna";
+        currentAudio = null;
+        currentBtn = null;
       });
+      currentBtn = btn;
+      btn.classList.add("playing");
+      btn.textContent = "⏹ Stopp";
+
+      currentAudio.addEventListener("ended", () => {
+        btn.classList.remove("playing");
+        btn.textContent = "🔊 Lyssna";
+        currentAudio = null;
+        currentBtn = null;
+      });
+    }
+
+    // --- Progress ---
+    function uppdateraProgress() {
+      const total = allArter.length;
+      const count = checked.size;
+      document.getElementById("checked-count").textContent = count;
+      document.getElementById("total-count").textContent   = total;
+      document.getElementById("progress-fill").style.width = (total > 0 ? (count / total) * 100 : 0) + "%";
+    }
+
+    // --- Sök ---
+    document.getElementById("sok").addEventListener("input", (e) => {
+      const term = e.target.value.toLowerCase();
+      document.querySelectorAll(".bird-card").forEach(card => {
+        const art        = (card.dataset.art || "").toLowerCase();
+        const scientific = (card.dataset.scientific || "").toLowerCase();
+        card.style.display = (art.includes(term) || scientific.includes(term)) ? "" : "none";
+      });
+    });
+
+    // --- Render ---
+    function renderChecklista() {
+      const container = document.getElementById("checklista-body");
+      container.innerHTML = "";
+
+      allArter.forEach(art => {
+        const isChecked = checked.has(art.scientificName);
+
+        const card = document.createElement("div");
+        card.className  = "bird-card" + (isChecked ? " checked" : "");
+        card.dataset.art       = art.art || "";
+        card.dataset.scientific = art.scientificName || "";
+
+        const artnamn = art.art
+          ? art.art.charAt(0).toUpperCase() + art.art.slice(1)
+          : "Okänd";
+
+        const första = art.första
+          ? new Date(art.första).toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" })
+          : "—";
+        const sista = art.sista
+          ? new Date(art.sista).toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" })
+          : "—";
+
+        const kommunTaggar = (art.kommuner || [])
+          .map(k => `<span class="kommuntag">${k}</span>`)
+          .join("");
+
+        const ljud = artljud[art.scientificName]?.ljud || null;
+
+        card.innerHTML = `
+          <div class="card-top">
+            <input type="checkbox" class="art-checkbox"
+              data-scientific="${art.scientificName}"
+              ${isChecked ? "checked" : ""} />
+            <div class="card-names">
+              <span class="sv-namn">${artnamn}</span>
+              <span class="lat-namn">${art.scientificName}</span>
+            </div>
+          </div>
+          <div class="bird-details">
+            <p>Första sedd: ${första}</p>
+            <p>Sista sedd: ${sista}</p>
+            <div class="kommuner-tags">${kommunTaggar}</div>
+          </div>
+          ${ljud ? `<button class="ljud-btn" title="Ljud från Xeno-Canto">🔊 Lyssna</button>` : ""}
+        `;
+
+        // Checkbox event
+        card.querySelector(".art-checkbox").addEventListener("change", (e) => {
+          if (e.target.checked) {
+            checked.add(art.scientificName);
+            card.classList.add("checked");
+          } else {
+            checked.delete(art.scientificName);
+            card.classList.remove("checked");
+          }
+          sparaChecked(checked);
+          uppdateraProgress();
+        });
+
+        // Ljud event
+        if (ljud) {
+          const btn = card.querySelector(".ljud-btn");
+          btn.addEventListener("click", () => toggleSound(ljud, btn));
+        }
+
+        container.appendChild(card);
+      });
+
+      uppdateraProgress();
+    }
+
+    // --- Init ---
+    async function init() {
+      try {
+        const [checkRes, ljudRes] = await Promise.all([
+          fetch("data/checklista.json"),
+          fetch("data/artljud.json").catch(() => ({ json: () => ({}) }))
+        ]);
+
+        allArter = await checkRes.json();
+        artljud  = await ljudRes.json();
+
+        allArter.sort((a, b) => (a.art || "").localeCompare(b.art || "", "sv"));
+        renderChecklista();
+      } catch (e) {
+        console.error("Fel vid laddning:", e);
+        document.getElementById("checklista-body").innerHTML = "<p>Kunde inte ladda checklistan.</p>";
+      }
+    }
+
+    window.addEventListener("DOMContentLoaded", init);
   </script>
 </body>
 </html>

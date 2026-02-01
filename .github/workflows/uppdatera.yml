@@ -1,0 +1,54 @@
+name: Uppdatera data
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # Varje dag kl ~06:00 svenska (04:00 UTC)
+  workflow_dispatch:        # Manuell start från GitHub UI
+
+jobs:
+  uppdatera:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installera dependencies
+        run: pip install requests
+
+      # 1) Checklista måste komma första — bilder och ljud läser från den
+      - name: Skapa checklista
+        run: python3 skapa_checklista.py
+        env:
+          OCP_APIM_SUBSCRIPTION_KEY: ${{ secrets.OCP_APIM_SUBSCRIPTION_KEY }}
+
+      # 2–3) Bilder och ljud kan köras oberoende, men after checklista
+      - name: Hämta bilder
+        run: python3 bygg_artbilder_auto.py
+
+      - name: Hämta ljud
+        run: python3 hamta_ljud.py
+
+      # 4) Sist — bäddar in bilder + ljud i fågeldata
+      - name: Hämta fågelfynd
+        run: python3 hamta_faglar.py
+        env:
+          OCP_APIM_SUBSCRIPTION_KEY: ${{ secrets.OCP_APIM_SUBSCRIPTION_KEY }}
+
+      # Pusha bara om det faktiskt ändrades
+      - name: Commita och pusha
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Inga ändringar att commita."
+          else
+            git config user.email "bot@högland.local"
+            git config user.name "Högland Bot"
+            git commit -m "Uppdatera data — $(date '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

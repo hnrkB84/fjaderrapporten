@@ -1,7 +1,7 @@
 import requests
 import json
 from datetime import datetime
-from urllib.parse import urlencode, quote_plus  # ✅ Lägg till quote_plus
+from urllib.parse import urlencode, quote_plus
 from pathlib import Path
 import sys
 import os
@@ -15,20 +15,16 @@ headers = {
     "X-Api-Version": "1.5"
 }
 
-artbilder_override_path = Path("data/artbilder_override.json")
-artbilder_auto_path = Path("data/artbilder_auto.json")
+# --- Hjälpfunktion ---
+def läs_json(path):
+    if Path(path).exists():
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
 
-if artbilder_auto_path.exists():
-    with open(artbilder_auto_path, encoding="utf-8") as f:
-        ARTBILDER_AUTO = json.load(f)
-else:
-    ARTBILDER_AUTO = {}
-
-if artbilder_override_path.exists():
-    with open(artbilder_override_path, encoding="utf-8") as f:
-        ARTBILDER_OVERRIDE = json.load(f)
-else:
-    ARTBILDER_OVERRIDE = {}
+ARTBILDER_OVERRIDE = läs_json("data/artbilder_override.json")
+ARTBILDER_AUTO    = läs_json("data/artbilder_auto.json")
+ARTLJUD           = läs_json("data/artljud.json")
 
 def hitta_override(namn):
     namn = namn.lower().strip()
@@ -37,18 +33,23 @@ def hitta_override(namn):
             return ARTBILDER_OVERRIDE[key]
     return None
 
+# --- Kommuner i Högland ---
+# Vetlanda är tätort i Vaggeryd kommun (687)
+KOMMUNER = [
+    {"areaType": "Municipality", "featureId": "686"},  # Eksjö
+    {"areaType": "Municipality", "featureId": "684"},  # Nässjö
+    {"areaType": "Municipality", "featureId": "682"},  # Aneby
+    {"areaType": "Municipality", "featureId": "687"},  # Tranås
+    {"areaType": "Municipality", "featureId": "688"},  # Vetlanda
+]
+
 payload = {
     "taxon": {
         "ids": [4000104],
         "includeUnderlyingTaxa": True
     },
     "geographics": {
-        "areas": [
-            {
-                "areaType": "Municipality",
-                "featureId": "686"
-            }
-        ],
+        "areas": KOMMUNER,
         "considerDisturbanceRadius": False,
         "considerObservationAccuracy": False
     },
@@ -72,11 +73,11 @@ payload = {
 }
 
 def hamta_fagelfynd():
-    print("📡 Hämtar fågelfynd från Artportalen...")
+    print("📡 Hämtar fågelfynd från Artportalen (Högland)...")
 
     query_params = {
         "skip": 0,
-        "take": 50,
+        "take": 100,
         "sortBy": "event.startDate",
         "sortOrder": "Desc"
     }
@@ -105,20 +106,23 @@ def hamta_fagelfynd():
             antal = record.get("event", {}).get("individualCount", 1)
             aktivitet = record.get("event", {}).get("activity", "okänd")
 
-            # 🔁 Prioritera override > auto
+            # Bild: override > auto
             override = hitta_override(scientific_name)
             auto = ARTBILDER_AUTO.get(scientific_name)
+            bild = (override or {}).get("bild") or (auto or {}).get("bild")
+            bild_lank = (override or {}).get("bild_lank") or (auto or {}).get("bild_lank")
 
-            bild = override.get("bild") if override else auto.get("bild") if auto else None
-            bild_lank = override.get("bild_lank") if override else auto.get("bild_lank") if auto else None
+            # Ljud (från Xeno-Canto cache)
+            ljud_data = ARTLJUD.get(scientific_name, {})
+            ljud = ljud_data.get("ljud")
+            ljud_lank = ljud_data.get("ljud_lank")
 
-            # 🌍 Bygg Google Maps-länk
-            platsnamn = plats
-            sokfras = f"{platsnamn}, Eksjö, Sverige"
+            # Google Maps
+            sokfras = f"{plats}, {municipality}, Sverige"
             google_maps_url = f"https://www.google.com/maps/search/?api=1&query={quote_plus(sokfras)}"
 
             if override:
-                print(f"📸 Override används för {scientific_name}")
+                print(f"🔸 Override användes för {scientific_name}")
 
             if observation_date_str:
                 try:
@@ -132,20 +136,23 @@ def hamta_fagelfynd():
                     "scientificName": scientific_name,
                     "datum": formatted_date,
                     "lokal": plats,
+                    "kommun": municipality,
                     "rapporteradAv": observator,
                     "antal": antal,
                     "observationstyp": aktivitet,
                     "bild": bild,
                     "bild_lank": bild_lank,
-                    "googleMapsLank": google_maps_url  # ✅ Nytt fält!
+                    "ljud": ljud,
+                    "ljud_lank": ljud_lank,
+                    "googleMapsLank": google_maps_url
                 })
 
         if observationer:
-            with open("data/eksjo_faglar_apiresponse.json", "w", encoding="utf-8") as f:
+            with open("data/fagelfynd.json", "w", encoding="utf-8") as f:
                 json.dump(observationer, f, ensure_ascii=False, indent=2)
-            print(f"💾 Sparade {len(observationer)} fynd till data/eksjo_faglar_apiresponse.json")
+            print(f"💾 Sparade {len(observationer)} fynd till data/fagelfynd.json")
         else:
-            print("⚠️ Inga observationer sparade – listan är tom.")
+            print("⚠️ Inga observationer sparade — listan är tom.")
 
     except Exception as e:
         print(f"❌ Fel vid hantering av data: {e}")
