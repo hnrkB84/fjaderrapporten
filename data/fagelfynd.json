@@ -1485,18 +1485,18 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n+utlopp%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
-    "art": "kungsfiskare",
-    "scientificName": "Alcedo atthis",
-    "datum": "2025-12-30T14:15:00+01:00",
-    "lokal": "Berget, Ryningsholm, Sm",
-    "kommun": "Eksjö",
+    "art": "blåmes",
+    "scientificName": "Cyanistes caeruleus",
+    "datum": "2025-12-30T14:00:00+01:00",
+    "lokal": "Fågeltornet Barkeryd, Sm",
+    "kommun": "Nässjö",
     "rapporteradAv": "okänd observatör",
     "antal": 1,
     "observationstyp": "okänd",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_3_Luc_Viatour.jpg",
     "ljud": null,
     "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Berget%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=F%C3%A5geltornet+Barkeryd%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   }
 ]
