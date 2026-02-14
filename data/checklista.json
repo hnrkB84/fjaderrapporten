@@ -1,9 +1,9 @@
 [
   {
-    "art": "blåmes",
-    "scientificName": "Cyanistes caeruleus",
-    "första": "2019-05-25T18:15:00+02:00",
-    "sista": "2019-05-25T18:15:00+02:00",
+    "art": "björktrast",
+    "scientificName": "Turdus pilaris",
+    "första": "2016-05-23T18:17:00+02:00",
+    "sista": "2016-05-23T18:17:00+02:00",
     "lokal": "SFTpkt:siteId:3083",
     "kommuner": [
       "Eksjö"
@@ -12,20 +12,21 @@
   {
     "art": "bofink",
     "scientificName": "Fringilla coelebs",
-    "första": "2019-05-22T06:00:00+02:00",
-    "sista": "2019-05-22T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2674",
+    "första": "2016-05-08T06:12:00+02:00",
+    "sista": "2018-05-07T06:10:00+02:00",
+    "lokal": "SFTpkt:siteId:870",
     "kommuner": [
-      "Nässjö"
+      "Eksjö"
     ]
   },
   {
     "art": "buskskvätta",
     "scientificName": "Saxicola rubetra",
-    "första": "2020-05-26T06:00:00+02:00",
-    "sista": "2020-05-26T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2674",
+    "första": "2022-05-21T04:20:00+02:00",
+    "sista": "2022-05-21T04:20:00+02:00",
+    "lokal": "SFTstd:siteId:81",
     "kommuner": [
+      "Eksjö",
       "Nässjö"
     ]
   },
@@ -36,26 +37,36 @@
     "sista": "2024-06-04T04:35:00+02:00",
     "lokal": "SFTstd:siteId:76",
     "kommuner": [
-      "Sävsjö"
+      "Sävsjö",
+      "Nässjö"
     ]
   },
   {
     "art": "fiskmås",
     "scientificName": "Larus canus",
-    "första": "2016-06-07T04:00:00+02:00",
+    "första": "2021-05-24T04:05:00+02:00",
     "sista": "2021-05-24T04:05:00+02:00",
-    "lokal": "SFTstd:siteId:78",
+    "lokal": "SFTstd:siteId:81",
     "kommuner": [
-      "Nässjö",
+      "Eksjö"
+    ]
+  },
+  {
+    "art": "fisktärna",
+    "scientificName": "Sterna hirundo",
+    "första": "2023-05-27T04:30:00+02:00",
+    "sista": "2023-05-27T04:30:00+02:00",
+    "lokal": "SFTstd:siteId:81",
+    "kommuner": [
       "Eksjö"
     ]
   },
   {
     "art": "forsärla",
     "scientificName": "Motacilla cinerea",
-    "första": "2019-04-25T06:00:00+02:00",
+    "första": "2020-05-26T18:15:00+02:00",
     "sista": "2020-05-26T18:15:00+02:00",
-    "lokal": "SFTpkt:siteId:869",
+    "lokal": "SFTpkt:siteId:3083",
     "kommuner": [
       "Eksjö"
     ]
@@ -73,12 +84,21 @@
   {
     "art": "gräsand",
     "scientificName": "Anas platyrhynchos",
-    "första": "2022-06-05T04:06:00+02:00",
-    "sista": "2022-06-05T04:06:00+02:00",
-    "lokal": "SFTstd:siteId:82",
+    "första": "2015-04-19T06:10:00+02:00",
+    "sista": "2015-04-19T06:10:00+02:00",
+    "lokal": "SFTpkt:siteId:869",
     "kommuner": [
-      "Eksjö",
-      "Nässjö"
+      "Eksjö"
+    ]
+  },
+  {
+    "art": "grå flugsnappare",
+    "scientificName": "Muscicapa striata",
+    "första": "2023-05-27T04:30:00+02:00",
+    "sista": "2023-05-27T04:30:00+02:00",
+    "lokal": "SFTstd:siteId:81",
+    "kommuner": [
+      "Eksjö"
     ]
   },
   {
@@ -92,93 +112,94 @@
     ]
   },
   {
-    "art": "gråhäger",
-    "scientificName": "Ardea cinerea",
-    "första": "2017-06-03T04:00:00+02:00",
-    "sista": "2017-06-03T04:00:00+02:00",
-    "lokal": "SFTstd:siteId:104",
-    "kommuner": [
-      "Tranås"
-    ]
-  },
-  {
     "art": "gråkråka",
     "scientificName": "Corvus corone cornix",
-    "första": "2022-06-04T04:00:00+02:00",
-    "sista": "2024-05-21T04:10:00+02:00",
-    "lokal": "SFTstd:siteId:104",
+    "första": "2016-05-24T06:00:00+02:00",
+    "sista": "2022-06-04T04:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2674",
     "kommuner": [
-      "Tranås",
-      "Eksjö"
+      "Nässjö",
+      "Tranås"
     ]
   },
   {
     "art": "grönfink",
     "scientificName": "Chloris chloris",
-    "första": "2020-05-03T08:00:00+02:00",
-    "sista": "2020-05-22T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2842",
-    "kommuner": [
-      "Eksjö",
-      "Sävsjö"
-    ]
-  },
-  {
-    "art": "gröngöling",
-    "scientificName": "Picus viridis",
-    "första": "2024-05-25T05:30:00+02:00",
-    "sista": "2024-05-25T05:30:00+02:00",
-    "lokal": "SFTstd:siteId:81",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "grönsiska",
-    "scientificName": "Spinus spinus",
-    "första": "2015-05-26T06:00:00+02:00",
-    "sista": "2019-06-01T06:00:00+02:00",
+    "första": "2020-05-22T06:00:00+02:00",
+    "sista": "2021-05-24T06:00:00+02:00",
     "lokal": "SFTpkt:siteId:2841",
     "kommuner": [
       "Sävsjö"
     ]
   },
   {
+    "art": "grönsiska",
+    "scientificName": "Spinus spinus",
+    "första": "2016-05-25T06:00:00+02:00",
+    "sista": "2016-05-25T06:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2866",
+    "kommuner": [
+      "Nässjö"
+    ]
+  },
+  {
     "art": "grönsångare",
     "scientificName": "Phylloscopus sibilatrix",
-    "första": "2021-06-05T04:00:00+02:00",
-    "sista": "2021-06-05T04:00:00+02:00",
-    "lokal": "SFTstd:siteId:104",
+    "första": "2023-05-30T04:24:00+02:00",
+    "sista": "2023-05-30T04:24:00+02:00",
+    "lokal": "SFTstd:siteId:76",
     "kommuner": [
+      "Sävsjö",
+      "Nässjö",
       "Tranås"
+    ]
+  },
+  {
+    "art": "gulsparv",
+    "scientificName": "Emberiza citrinella",
+    "första": "2024-06-06T06:05:00+02:00",
+    "sista": "2024-06-06T06:05:00+02:00",
+    "lokal": "SFTpkt:siteId:2874",
+    "kommuner": [
+      "Sävsjö"
     ]
   },
   {
     "art": "gärdsmyg",
     "scientificName": "Troglodytes troglodytes",
-    "första": "2017-05-22T18:15:00+02:00",
-    "sista": "2023-06-06T04:00:00+02:00",
-    "lokal": "SFTpkt:siteId:3083",
+    "första": "2020-05-24T06:00:00+02:00",
+    "sista": "2020-05-24T06:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2866",
     "kommuner": [
-      "Eksjö",
       "Nässjö"
     ]
   },
   {
-    "art": "göktyta",
-    "scientificName": "Jynx torquilla",
-    "första": "2017-06-03T04:00:00+02:00",
-    "sista": "2017-06-03T04:00:00+02:00",
-    "lokal": "SFTstd:siteId:104",
+    "art": "gök",
+    "scientificName": "Cuculus canorus",
+    "första": "2022-06-02T06:00:00+02:00",
+    "sista": "2023-05-30T04:24:00+02:00",
+    "lokal": "SFTpkt:siteId:2866",
     "kommuner": [
-      "Tranås"
+      "Nässjö",
+      "Sävsjö"
+    ]
+  },
+  {
+    "art": "hussvala",
+    "scientificName": "Delichon urbicum",
+    "första": "2023-05-30T04:24:00+02:00",
+    "sista": "2023-05-30T04:24:00+02:00",
+    "lokal": "SFTstd:siteId:76",
+    "kommuner": [
+      "Sävsjö"
     ]
   },
   {
     "art": "härmsångare",
     "scientificName": "Hippolais icterina",
-    "första": "2019-05-29T06:00:00+02:00",
-    "sista": "2019-05-29T06:00:00+02:00",
+    "första": "2016-05-25T06:00:00+02:00",
+    "sista": "2016-05-25T06:00:00+02:00",
     "lokal": "SFTpkt:siteId:2866",
     "kommuner": [
       "Nässjö"
@@ -195,146 +216,116 @@
     ]
   },
   {
+    "art": "kaja",
+    "scientificName": "Coloeus monedula",
+    "första": "2016-05-23T18:17:00+02:00",
+    "sista": "2023-05-27T04:30:00+02:00",
+    "lokal": "SFTpkt:siteId:3083",
+    "kommuner": [
+      "Eksjö"
+    ]
+  },
+  {
     "art": "knipa",
     "scientificName": "Bucephala clangula",
-    "första": "2019-06-08T06:15:00+02:00",
-    "sista": "2019-06-08T06:15:00+02:00",
-    "lokal": "SFTpkt:siteId:2874",
+    "första": "2023-05-27T04:30:00+02:00",
+    "sista": "2023-05-27T04:30:00+02:00",
+    "lokal": "SFTstd:siteId:81",
     "kommuner": [
-      "Sävsjö"
+      "Eksjö"
+    ]
+  },
+  {
+    "art": "knölsvan",
+    "scientificName": "Cygnus olor",
+    "första": "2018-05-07T06:10:00+02:00",
+    "sista": "2018-05-07T06:10:00+02:00",
+    "lokal": "SFTpkt:siteId:870",
+    "kommuner": [
+      "Eksjö"
     ]
   },
   {
     "art": "koltrast",
     "scientificName": "Turdus merula",
-    "första": "2018-05-29T04:29:00+02:00",
-    "sista": "2020-05-22T06:00:00+02:00",
-    "lokal": "SFTstd:siteId:76",
+    "första": "2017-05-19T00:00:00+02:00",
+    "sista": "2022-06-01T06:00:00+02:00",
+    "lokal": "Äpplaholm, Brunnstorp",
     "kommuner": [
-      "Sävsjö",
       "Nässjö",
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "korp",
-    "scientificName": "Corvus corax",
-    "första": "2022-06-02T04:35:00+02:00",
-    "sista": "2022-06-02T04:35:00+02:00",
-    "lokal": "SFTstd:siteId:76",
-    "kommuner": [
-      "Sävsjö",
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "kricka",
-    "scientificName": "Anas crecca",
-    "första": "2019-05-22T06:00:00+02:00",
-    "sista": "2019-05-22T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2674",
-    "kommuner": [
-      "Nässjö"
+      "Sävsjö"
     ]
   },
   {
     "art": "kungsfågel",
     "scientificName": "Regulus regulus",
-    "första": "2017-06-03T04:20:00+02:00",
+    "första": "2020-05-26T06:00:00+02:00",
     "sista": "2020-05-26T06:00:00+02:00",
-    "lokal": "SFTstd:siteId:81",
+    "lokal": "SFTpkt:siteId:2674",
     "kommuner": [
-      "Eksjö",
       "Nässjö"
     ]
   },
   {
     "art": "lövsångare",
     "scientificName": "Phylloscopus trochilus",
-    "första": "2024-05-21T04:10:00+02:00",
-    "sista": "2024-05-21T04:10:00+02:00",
-    "lokal": "SFTstd:siteId:82",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "nötskrika",
-    "scientificName": "Garrulus glandarius",
-    "första": "2020-06-08T06:05:00+02:00",
-    "sista": "2020-06-08T06:05:00+02:00",
-    "lokal": "SFTpkt:siteId:2874",
-    "kommuner": [
-      "Sävsjö"
-    ]
-  },
-  {
-    "art": "nötväcka",
-    "scientificName": "Sitta europaea",
-    "första": "2024-07-13T13:15:50+02:00",
-    "sista": "2024-07-13T13:15:50+02:00",
-    "lokal": "575 97 Ingatorp, Sverige",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "ormvråk",
-    "scientificName": "Buteo buteo",
-    "första": "2016-06-03T04:15:00+02:00",
-    "sista": "2021-05-01T07:55:00+02:00",
-    "lokal": "SFTstd:siteId:82",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "ringduva",
-    "scientificName": "Columba palumbus",
-    "första": "2016-06-03T04:15:00+02:00",
-    "sista": "2021-05-01T07:55:00+02:00",
-    "lokal": "SFTstd:siteId:82",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "rödhake",
-    "scientificName": "Erithacus rubecula",
-    "första": "2024-08-05T11:39:38+02:00",
-    "sista": "2024-08-05T11:39:38+02:00",
-    "lokal": "598 97 Mariannelund, Schweden",
+    "första": "2020-05-26T18:15:00+02:00",
+    "sista": "2020-06-09T04:00:00+02:00",
+    "lokal": "SFTpkt:siteId:3083",
     "kommuner": [
       "Eksjö",
       "Nässjö"
     ]
   },
   {
-    "art": "rödstjärt",
-    "scientificName": "Phoenicurus phoenicurus",
-    "första": "2017-05-24T06:00:00+02:00",
-    "sista": "2017-05-24T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2674",
+    "art": "nötskrika",
+    "scientificName": "Garrulus glandarius",
+    "första": "2016-05-08T06:12:00+02:00",
+    "sista": "2020-06-08T06:05:00+02:00",
+    "lokal": "SFTpkt:siteId:870",
+    "kommuner": [
+      "Eksjö",
+      "Sävsjö",
+      "Nässjö"
+    ]
+  },
+  {
+    "art": "pilfink",
+    "scientificName": "Passer montanus",
+    "första": "2021-06-06T06:01:00+02:00",
+    "sista": "2021-06-06T06:01:00+02:00",
+    "lokal": "SFTpkt:siteId:2874",
+    "kommuner": [
+      "Sävsjö"
+    ]
+  },
+  {
+    "art": "pärluggla",
+    "scientificName": "Aegolius funereus",
+    "första": "2016-05-25T00:00:00+02:00",
+    "sista": "2016-05-25T00:00:00+02:00",
+    "lokal": "Forserum, Stenseryd",
     "kommuner": [
       "Nässjö"
     ]
   },
   {
-    "art": "rödvingetrast",
-    "scientificName": "Turdus iliacus",
-    "första": "2017-06-03T04:20:00+02:00",
-    "sista": "2017-06-03T04:20:00+02:00",
-    "lokal": "SFTstd:siteId:81",
+    "art": "rödhake",
+    "scientificName": "Erithacus rubecula",
+    "första": "2015-06-09T06:10:00+02:00",
+    "sista": "2023-05-27T04:30:00+02:00",
+    "lokal": "SFTpkt:siteId:2874",
     "kommuner": [
+      "Sävsjö",
       "Eksjö"
     ]
   },
   {
-    "art": "rördrom",
-    "scientificName": "Botaurus stellaris",
-    "första": "2019-06-01T06:00:00+02:00",
-    "sista": "2019-06-01T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2841",
+    "art": "rödstjärt",
+    "scientificName": "Phoenicurus phoenicurus",
+    "första": "2020-06-03T04:27:00+02:00",
+    "sista": "2020-06-03T04:27:00+02:00",
+    "lokal": "SFTstd:siteId:76",
     "kommuner": [
       "Sävsjö"
     ]
@@ -342,10 +333,11 @@
   {
     "art": "skata",
     "scientificName": "Pica pica",
-    "första": "2020-05-26T06:00:00+02:00",
+    "första": "2015-06-09T06:10:00+02:00",
     "sista": "2020-05-26T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2674",
+    "lokal": "SFTpkt:siteId:2874",
     "kommuner": [
+      "Sävsjö",
       "Nässjö"
     ]
   },
@@ -362,80 +354,52 @@
   {
     "art": "skrattmås",
     "scientificName": "Chroicocephalus ridibundus",
-    "första": "2018-05-29T04:29:00+02:00",
+    "första": "2017-06-06T06:10:00+02:00",
     "sista": "2021-07-11T00:00:00+02:00",
-    "lokal": "SFTstd:siteId:76",
+    "lokal": "SFTpkt:siteId:2874",
     "kommuner": [
       "Sävsjö",
       "Nässjö"
     ]
   },
   {
-    "art": "skäggdopping",
-    "scientificName": "Podiceps cristatus",
-    "första": "2017-05-22T18:15:00+02:00",
-    "sista": "2017-05-22T18:15:00+02:00",
-    "lokal": "SFTpkt:siteId:3083",
+    "art": "småskrake",
+    "scientificName": "Mergus serrator",
+    "första": "2018-05-30T06:00:00+02:00",
+    "sista": "2018-05-30T06:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2674",
     "kommuner": [
-      "Eksjö"
+      "Nässjö"
     ]
   },
   {
     "art": "spillkråka",
     "scientificName": "Dryocopus martius",
     "första": "2020-05-26T06:00:00+02:00",
-    "sista": "2020-05-26T06:00:00+02:00",
+    "sista": "2023-05-30T04:24:00+02:00",
     "lokal": "SFTpkt:siteId:2674",
     "kommuner": [
-      "Nässjö"
+      "Nässjö",
+      "Sävsjö"
     ]
   },
   {
     "art": "stare",
     "scientificName": "Sturnus vulgaris",
-    "första": "2024-05-25T05:30:00+02:00",
-    "sista": "2024-05-25T05:30:00+02:00",
-    "lokal": "SFTstd:siteId:81",
+    "första": "2015-05-29T00:00:00+02:00",
+    "sista": "2021-05-24T04:05:00+02:00",
+    "lokal": "Sandsjöfors, Nygård",
     "kommuner": [
+      "Nässjö",
       "Eksjö"
-    ]
-  },
-  {
-    "art": "steglits",
-    "scientificName": "Carduelis carduelis",
-    "första": "2017-05-24T06:00:00+02:00",
-    "sista": "2017-05-24T06:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2674",
-    "kommuner": [
-      "Nässjö"
     ]
   },
   {
     "art": "storlom",
     "scientificName": "Gavia arctica",
-    "första": "2017-06-03T04:20:00+02:00",
-    "sista": "2017-06-03T04:20:00+02:00",
+    "första": "2022-05-21T04:20:00+02:00",
+    "sista": "2022-05-21T04:20:00+02:00",
     "lokal": "SFTstd:siteId:81",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "storskarv",
-    "scientificName": "Phalacrocorax carbo",
-    "första": "2019-05-11T06:10:00+02:00",
-    "sista": "2019-05-11T06:10:00+02:00",
-    "lokal": "SFTpkt:siteId:870",
-    "kommuner": [
-      "Eksjö"
-    ]
-  },
-  {
-    "art": "storskrake",
-    "scientificName": "Mergus merganser",
-    "första": "2019-05-11T06:10:00+02:00",
-    "sista": "2019-05-11T06:10:00+02:00",
-    "lokal": "SFTpkt:siteId:870",
     "kommuner": [
       "Eksjö"
     ]
@@ -443,34 +407,45 @@
   {
     "art": "större hackspett",
     "scientificName": "Dendrocopos major",
-    "första": "2022-06-05T04:06:00+02:00",
-    "sista": "2022-06-05T04:06:00+02:00",
-    "lokal": "SFTstd:siteId:82",
+    "första": "2021-05-24T04:05:00+02:00",
+    "sista": "2021-05-24T04:05:00+02:00",
+    "lokal": "SFTstd:siteId:81",
     "kommuner": [
       "Eksjö"
     ]
   },
   {
-    "art": "svartvit flugsnappare",
-    "scientificName": "Ficedula hypoleuca",
-    "första": "2020-05-03T08:00:00+02:00",
-    "sista": "2020-05-03T08:00:00+02:00",
-    "lokal": "SFTpkt:siteId:2842",
+    "art": "svartmes",
+    "scientificName": "Periparus ater",
+    "första": "2022-05-21T04:20:00+02:00",
+    "sista": "2022-06-02T06:00:00+02:00",
+    "lokal": "SFTstd:siteId:81",
     "kommuner": [
       "Eksjö",
+      "Sävsjö",
       "Nässjö"
+    ]
+  },
+  {
+    "art": "svartvit flugsnappare",
+    "scientificName": "Ficedula hypoleuca",
+    "första": "2016-04-21T06:15:00+02:00",
+    "sista": "2016-04-21T06:15:00+02:00",
+    "lokal": "SFTpkt:siteId:869",
+    "kommuner": [
+      "Eksjö"
     ]
   },
   {
     "art": "sädesärla",
     "scientificName": "Motacilla alba",
-    "första": "2016-06-03T04:15:00+02:00",
-    "sista": "2021-05-24T04:05:00+02:00",
-    "lokal": "SFTstd:siteId:82",
+    "första": "2016-05-31T06:00:00+02:00",
+    "sista": "2021-05-24T06:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2841",
     "kommuner": [
-      "Eksjö",
       "Sävsjö",
-      "Nässjö"
+      "Nässjö",
+      "Eksjö"
     ]
   },
   {
@@ -480,41 +455,61 @@
     "sista": "2022-06-04T04:00:00+02:00",
     "lokal": "SFTstd:siteId:104",
     "kommuner": [
-      "Tranås",
-      "Nässjö"
+      "Tranås"
     ]
   },
   {
     "art": "talgoxe",
     "scientificName": "Parus major",
-    "första": "2021-05-24T04:05:00+02:00",
+    "första": "2020-05-24T06:00:00+02:00",
     "sista": "2021-05-24T04:05:00+02:00",
-    "lokal": "SFTstd:siteId:81",
+    "lokal": "SFTpkt:siteId:2866",
     "kommuner": [
-      "Eksjö",
-      "Nässjö"
+      "Nässjö",
+      "Eksjö"
+    ]
+  },
+  {
+    "art": "talltita",
+    "scientificName": "Poecile montanus",
+    "första": "2024-07-12T11:13:28+02:00",
+    "sista": "2024-07-12T11:13:28+02:00",
+    "lokal": "Tornsbo, Ingatorp, F, SE",
+    "kommuner": [
+      "Eksjö"
     ]
   },
   {
     "art": "taltrast",
     "scientificName": "Turdus philomelos",
-    "första": "2016-06-07T04:00:00+02:00",
-    "sista": "2024-06-01T04:00:00+02:00",
-    "lokal": "SFTstd:siteId:78",
+    "första": "2019-05-03T00:00:00+02:00",
+    "sista": "2020-06-08T06:05:00+02:00",
+    "lokal": "Äpplaholm, Brunnstorp",
     "kommuner": [
       "Nässjö",
-      "Tranås",
+      "Eksjö",
       "Sävsjö"
     ]
   },
   {
     "art": "tornfalk",
     "scientificName": "Falco tinnunculus",
-    "första": "2022-07-10T00:00:00+02:00",
+    "första": "2021-06-16T00:00:00+02:00",
     "sista": "2025-06-19T00:00:00+02:00",
-    "lokal": "Anneberg, Vässleda",
+    "lokal": "Aneby, Berga",
     "kommuner": [
+      "Tranås",
       "Nässjö"
+    ]
+  },
+  {
+    "art": "tornseglare",
+    "scientificName": "Apus apus",
+    "första": "2021-06-06T06:01:00+02:00",
+    "sista": "2021-06-06T06:01:00+02:00",
+    "lokal": "SFTpkt:siteId:2874",
+    "kommuner": [
+      "Sävsjö"
     ]
   },
   {
@@ -530,24 +525,22 @@
   {
     "art": "trädgårdssångare",
     "scientificName": "Sylvia borin",
-    "första": "2017-06-03T04:00:00+02:00",
+    "första": "2024-06-04T04:35:00+02:00",
     "sista": "2024-06-04T04:35:00+02:00",
-    "lokal": "SFTstd:siteId:104",
+    "lokal": "SFTstd:siteId:76",
     "kommuner": [
-      "Tranås",
-      "Sävsjö",
-      "Nässjö"
+      "Sävsjö"
     ]
   },
   {
     "art": "trädpiplärka",
     "scientificName": "Anthus trivialis",
-    "första": "2022-06-02T04:35:00+02:00",
-    "sista": "2022-06-02T04:35:00+02:00",
-    "lokal": "SFTstd:siteId:76",
+    "första": "2016-05-24T06:00:00+02:00",
+    "sista": "2020-05-24T06:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2674",
     "kommuner": [
-      "Sävsjö",
-      "Nässjö"
+      "Nässjö",
+      "Sävsjö"
     ]
   },
   {
@@ -561,13 +554,13 @@
     ]
   },
   {
-    "art": "ärtsångare",
-    "scientificName": "Curruca curruca",
-    "första": "2022-06-02T04:35:00+02:00",
-    "sista": "2022-06-02T04:35:00+02:00",
-    "lokal": "SFTstd:siteId:76",
+    "art": "törnsångare",
+    "scientificName": "Curruca communis",
+    "första": "2015-05-24T06:00:00+02:00",
+    "sista": "2015-05-24T06:00:00+02:00",
+    "lokal": "SFTpkt:siteId:2866",
     "kommuner": [
-      "Sävsjö"
+      "Nässjö"
     ]
   }
 ]
