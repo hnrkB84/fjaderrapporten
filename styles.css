@@ -1,0 +1,717 @@
+/* ================================================
+   Fågelkollen — styles.css
+   Delad stilmall för alla sidor
+   ================================================ */
+
+/* ─── VARIABLER ─────────────────────────────── */
+:root {
+  --ink:           #1a1f1a;
+  --forest:        #1e3a2a;
+  --moss:          #3a6347;
+  --sage:          #7ea87e;
+  --mist:          #c9dbc4;
+  --cream:         #f5f0e8;
+  --parchment:     #ede6d6;
+  --warm-white:    #faf8f3;
+  --accent:        #c17f3b;
+  --accent-light:  #e8a95a;
+
+  --radius:        4px;
+  --shadow-card:   0 1px 4px rgba(0,0,0,0.06);
+
+  --font-serif:    'Playfair Display', serif;
+  --font-sans:     'Lato', sans-serif;
+}
+
+/* ─── RESET & BASE ──────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--cream);
+  color: var(--ink);
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ─── MASTHEAD ──────────────────────────────── */
+.masthead {
+  background-color: var(--forest);
+  color: var(--cream);
+  text-align: center;
+  padding: 3rem 1.5rem 2.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.masthead::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(
+    ellipse 80% 60% at 50% 120%,
+    rgba(122, 180, 122, 0.12) 0%,
+    transparent 70%
+  );
+  pointer-events: none;
+}
+
+.masthead-eyebrow {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 0.62rem;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: var(--sage);
+  margin-bottom: 0.9rem;
+}
+
+.masthead h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(2.4rem, 8vw, 4.8rem);
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--warm-white);
+  position: relative;
+}
+
+.masthead h1 em {
+  font-style: italic;
+  color: var(--accent-light);
+}
+
+.masthead-rule {
+  width: 50px;
+  height: 1px;
+  background: var(--sage);
+  margin: 1.3rem auto;
+  opacity: 0.6;
+}
+
+.masthead-tagline {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  color: var(--mist);
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+/* ─── ENKEL HEADER (för info, nyhet) ────────── */
+.page-header {
+  background: linear-gradient(135deg, var(--forest) 0%, var(--moss) 100%);
+  padding: 2.5rem 1.5rem 2rem;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.8rem, 5vw, 2.6rem);
+  font-weight: 700;
+  color: var(--warm-white);
+  margin-bottom: 0.4rem;
+}
+
+.page-header p {
+  font-size: 0.8rem;
+  color: var(--mist);
+  letter-spacing: 0.08em;
+}
+
+/* ─── NAVIGATION ────────────────────────────── */
+nav {
+  background-color: var(--forest);
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--mist);
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.85rem 1.6rem;
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+  transition: color 0.2s, background-color 0.2s;
+}
+
+nav a:first-child {
+  border-left: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+nav a:hover {
+  color: var(--warm-white);
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* ─── ISSUE LINE ────────────────────────────── */
+.issue-line {
+  background-color: var(--parchment);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0.45rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  color: #aaa;
+}
+
+/* ─── FILTER ────────────────────────────────── */
+.filter-section {
+  background-color: var(--warm-white);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.filter-label {
+  font-family: var(--font-sans);
+  font-size: 0.62rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #bbb;
+  font-weight: 700;
+  margin-right: 0.3rem;
+}
+
+.filter-btn {
+  background: transparent;
+  border: 1px solid #ccc;
+  border-radius: var(--radius);
+  padding: 0.3rem 0.8rem;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #777;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s, background-color 0.2s;
+}
+
+.filter-btn:hover {
+  border-color: var(--moss);
+  color: var(--moss);
+  background: rgba(58, 99, 71, 0.05);
+}
+
+.filter-btn.active {
+  background-color: var(--forest);
+  border-color: var(--forest);
+  color: var(--cream);
+}
+
+/* ─── MAIN WRAPPER ──────────────────────────── */
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 5rem;
+}
+
+/* ─── SECTION DIVIDER ───────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.8rem 0 1.2rem;
+}
+
+.section-head-line {
+  flex: 1;
+  height: 1px;
+}
+
+.section-head-line--left {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.12), transparent);
+}
+
+.section-head-line--right {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.12), transparent);
+}
+
+.section-head-text {
+  font-family: var(--font-sans);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #bbb;
+}
+
+/* ─── KIKAREN ───────────────────────────────── */
+.kikaren {
+  background-color: var(--forest);
+  color: var(--cream);
+  border-radius: var(--radius);
+  padding: 1.4rem;
+  margin-bottom: 1rem;
+  display: flex;
+  gap: 1.1rem;
+  align-items: flex-start;
+}
+
+.kikaren-icon-wrap {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.kikaren-body { flex: 1; }
+
+.kikaren-badge {
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent-light);
+  margin-bottom: 0.25rem;
+}
+
+.kikaren-title {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--warm-white);
+  margin-bottom: 0.55rem;
+}
+
+.kikaren-item {
+  font-size: 0.8rem;
+  color: var(--mist);
+  line-height: 1.5;
+  margin-bottom: 0.4rem;
+}
+
+.kikaren-item a {
+  color: var(--accent-light);
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(232, 169, 90, 0.4);
+  transition: border-bottom-style 0.15s;
+}
+
+.kikaren-item a:hover {
+  border-bottom-style: solid;
+}
+
+/* ─── INSTALL HINT ──────────────────────────── */
+.install-hint {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  background-color: var(--parchment);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: var(--radius);
+  padding: 0.85rem 1.1rem;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+  color: #777;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  transition: background-color 0.2s;
+}
+
+.install-hint:hover {
+  background-color: #e4dccb;
+}
+
+/* ─── OBSERVATIONSKORT ──────────────────────── */
+.obs-card {
+  background-color: var(--warm-white);
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: var(--radius);
+  margin-bottom: 2px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  position: relative;
+  animation: fadeUp 0.3s ease both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.obs-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(to right, var(--moss), transparent);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.obs-card:hover {
+  border-color: rgba(58, 99, 71, 0.25);
+  box-shadow: var(--shadow-card);
+  z-index: 1;
+}
+
+.obs-card:hover::before {
+  opacity: 1;
+}
+
+.obs-main {
+  padding: 1.1rem 1.3rem;
+}
+
+.obs-species {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 0.1rem;
+}
+
+.obs-scientific {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.78rem;
+  color: #aaa;
+  margin-bottom: 0.7rem;
+}
+
+.obs-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.9rem;
+  align-items: center;
+  margin-bottom: 0.3rem;
+}
+
+.obs-meta-item {
+  font-size: 0.76rem;
+  color: #666;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.obs-location-link {
+  color: #666;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.obs-location-link:hover {
+  color: var(--moss);
+}
+
+.obs-kommune-pill {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--moss);
+  background-color: rgba(58, 99, 71, 0.1);
+  padding: 0.13rem 0.5rem;
+  border-radius: 2px;
+}
+
+.obs-count-pill {
+  display: inline-block;
+  font-size: 0.62rem;
+  font-weight: 700;
+  color: var(--accent);
+  background-color: rgba(193, 127, 59, 0.1);
+  padding: 0.13rem 0.5rem;
+  border-radius: 2px;
+  letter-spacing: 0.04em;
+}
+
+.obs-sound-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  margin-top: 0.75rem;
+  background: none;
+  border: 1px solid var(--sage);
+  border-radius: 2px;
+  padding: 0.22rem 0.65rem;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--moss);
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.obs-sound-btn:hover {
+  background-color: var(--moss);
+  color: var(--cream);
+  border-color: var(--moss);
+}
+
+.obs-sound-btn.playing {
+  background-color: var(--forest);
+  border-color: var(--forest);
+  color: var(--cream);
+}
+
+/* ─── KORTBILD ──────────────────────────────── */
+.obs-image-pane {
+  width: 96px;
+  min-height: 96px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-color: var(--parchment);
+}
+
+.obs-image-pane a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.obs-image-pane img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.obs-card:hover .obs-image-pane img {
+  transform: scale(1.06);
+}
+
+.obs-no-image {
+  width: 96px;
+  min-height: 96px;
+  background-color: var(--parchment);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ccc;
+  font-size: 1.6rem;
+}
+
+/* ─── LOADING ────────────────────────────────── */
+.loading-state {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: #bbb;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1rem;
+}
+
+/* ─── INFO-SIDA ─────────────────────────────── */
+.content-card {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.content-card h2 {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  color: var(--forest);
+}
+
+.content-card p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+.content-card a {
+  color: var(--moss);
+  text-decoration: underline;
+  text-decoration-color: rgba(58, 99, 71, 0.3);
+}
+
+.content-card a:hover {
+  text-decoration-color: var(--moss);
+}
+
+.back-btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.2rem;
+  background-color: var(--forest);
+  color: var(--cream);
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  transition: background-color 0.2s;
+}
+
+.back-btn:hover {
+  background-color: var(--moss);
+  color: var(--cream);
+}
+
+/* ─── NYHETSARTIKEL ─────────────────────────── */
+article.nyhet {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+article.nyhet h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.4rem, 4vw, 1.9rem);
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  color: var(--forest);
+}
+
+article.nyhet .datum {
+  font-size: 0.78rem;
+  color: #aaa;
+  margin-bottom: 1.2rem;
+  letter-spacing: 0.05em;
+}
+
+article.nyhet p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+/* ─── FOOTER ────────────────────────────────── */
+footer {
+  background-color: var(--forest);
+  color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  padding: 2.5rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+}
+
+footer a {
+  color: var(--sage);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+footer a:hover {
+  color: var(--mist);
+}
+
+footer .footer-sub {
+  margin-top: 0.4rem;
+  opacity: 0.6;
+}
+
+/* ─── RESPONSIVITET ─────────────────────────── */
+
+/* Tablet */
+@media (max-width: 680px) {
+  main {
+    padding: 1.5rem 1rem 4rem;
+  }
+
+  .obs-image-pane,
+  .obs-no-image {
+    width: 80px;
+  }
+
+  .obs-species {
+    font-size: 1.05rem;
+  }
+
+  .kikaren {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .kikaren-icon-wrap {
+    width: 36px;
+    height: 36px;
+    font-size: 1rem;
+  }
+}
+
+/* Mobil */
+@media (max-width: 480px) {
+  .masthead {
+    padding: 2rem 1rem 1.8rem;
+  }
+
+  nav a {
+    padding: 0.7rem 1rem;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+  }
+
+  .issue-line {
+    display: none;
+  }
+
+  .filter-section {
+    padding: 0.75rem 0.8rem;
+    gap: 0.35rem;
+  }
+
+  .filter-btn {
+    font-size: 0.62rem;
+    padding: 0.28rem 0.65rem;
+  }
+
+  .obs-main {
+    padding: 0.9rem 1rem;
+  }
+
+  .obs-image-pane,
+  .obs-no-image {
+    width: 70px;
+  }
+
+  .obs-species {
+    font-size: 1rem;
+  }
+
+  .content-card,
+  article.nyhet {
+    padding: 1.4rem;
+  }
+}

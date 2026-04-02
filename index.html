@@ -3,255 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fjäderrapporten</title>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Merriweather', serif;
-      background-color: #f4f7f5;
-      color: #2c2c2c;
-    }
-
-    header {
-      position: relative;
-      width: 100%;
-      height: 260px;
-      overflow: hidden;
-      border-bottom: 1px solid #ccc;
-    }
-
-    .header-image {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    nav {
-      background-color: #f0f5ef;
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 2rem;
-      padding: 1rem;
-      border-bottom: 1px solid #c8d5c1;
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #2c2c2c;
-      font-weight: bold;
-      font-size: 1rem;
-    }
-
-    nav a:hover {
-      color: #3f5d3f;
-    }
-
-    /* Kommunfilter */
-    .filter-row {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 0.5rem;
-      padding: 1rem 0 0.5rem;
-    }
-
-    .filter-btn {
-      background-color: #e8ede7;
-      border: 1px solid #c8d5c1;
-      border-radius: 20px;
-      padding: 0.35rem 0.9rem;
-      font-family: 'Merriweather', serif;
-      font-size: 0.82rem;
-      color: #2c2c2c;
-      cursor: pointer;
-      transition: background-color 0.2s, border-color 0.2s;
-    }
-
-    .filter-btn:hover {
-      background-color: #d7e7d7;
-    }
-
-    .filter-btn.active {
-      background-color: #a8c0a8;
-      border-color: #a8c0a8;
-      font-weight: bold;
-    }
-
-    main {
-      max-width: 700px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-
-    /* Observation cards */
-    .observation {
-      background-color: #fff;
-      border-radius: 8px;
-      padding: 1rem;
-      margin-bottom: 1rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    }
-
-    .observation h2 {
-      margin: 0;
-      font-size: 1.2rem;
-    }
-
-    .observation p {
-      margin: 0.2rem 0;
-    }
-
-    .observation img {
-      max-width: 100px;
-      border-radius: 8px;
-      margin: 0.5rem 0;
-      display: block;
-    }
-
-    .map-link {
-      color: #2c2c2c;
-      text-decoration: none;
-      font-weight: normal;
-    }
-
-    .map-link:hover {
-      text-decoration: underline;
-      color: #3f5d3f;
-    }
-
-    .kommunbadge {
-      display: inline-block;
-      font-size: 0.72rem;
-      color: #555;
-      background-color: #f0f5ef;
-      padding: 0.15rem 0.45rem;
-      border-radius: 10px;
-      margin-left: 0.4rem;
-      vertical-align: middle;
-    }
-
-    /* Ljud */
-    .ljud-btn {
-      background: none;
-      border: 1px solid #a8c0a8;
-      border-radius: 16px;
-      padding: 0.2rem 0.65rem;
-      font-size: 0.78rem;
-      color: #3f5d3f;
-      cursor: pointer;
-      margin-top: 0.5rem;
-      font-family: 'Merriweather', serif;
-      transition: background-color 0.2s;
-    }
-
-    .ljud-btn:hover {
-      background-color: #e8f3e8;
-    }
-
-    .ljud-btn.playing {
-      background-color: #dbe8d1;
-      border-color: #7ea77e;
-    }
-
-    /* Kikaren */
-    .kikaren {
-      background-color: #e8f3e8;
-      border-left: 5px solid #7ea77e;
-      display: block;
-      padding: 1rem;
-    }
-
-    .kikaren-inner {
-      display: flex;
-      gap: 1rem;
-      align-items: center;
-    }
-
-    .kikaren-ikon {
-      width: 64px;
-      height: auto;
-      flex-shrink: 0;
-      border-radius: 8px;
-    }
-
-    .kikaren-text h2 {
-      margin: 0 0 0.2rem;
-      font-size: 1.2rem;
-      color: #2c2c2c;
-    }
-
-    .kikaren-beskrivning {
-      margin: 0 0 0.5rem 0;
-      font-size: 0.95rem;
-      color: #444;
-    }
-
-    .kikaren-lank {
-      font-size: 0.9rem;
-      text-decoration: none;
-      color: #3f5d3f;
-    }
-
-    .kikaren-lank:hover {
-      text-decoration: underline;
-    }
-
-    .badge {
-      background-color: #7ea77e;
-      color: white;
-      font-size: 0.65rem;
-      padding: 0.15rem 0.5rem;
-      border-radius: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      margin-left: 0.5rem;
-      vertical-align: middle;
-    }
-
-    /* Install hint */
-    .install-hint {
-      background-color: #e8f3e8;
-      border-left: 5px solid #a8c0a8;
-      border-radius: 8px;
-      padding: 1rem;
-      margin-bottom: 1rem;
-      color: #2c2c2c;
-      display: block;
-      text-decoration: none;
-    }
-
-    .install-hint:hover {
-      background-color: #d7e7d7;
-    }
-
-    .install-text {
-      font-size: 0.95rem;
-    }
-
-    footer {
-      text-align: center;
-      padding: 2rem 1rem;
-      background-color: #e8ede7;
-      color: #555;
-      font-size: 0.9rem;
-      margin-top: 4rem;
-    }
-
-    @media (max-width: 600px) {
-      .filter-btn {
-        font-size: 0.78rem;
-        padding: 0.3rem 0.7rem;
-      }
-    }
-  </style>
+  <title>Fågelkollen</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
   <script defer src="https://cloud.umami.is/script.js" data-website-id="a371670f-76e6-4271-865c-965e299f9459"></script>
 </head>
 <body>
-  <header>
-    <img src="bilder/header.png" alt="Fjäderrapporten bakgrund" class="header-image" />
+
+  <header class="masthead">
+    <div class="masthead-eyebrow">Artportalen · Småland · Högland</div>
+    <h1>Fågel<em>kollen</em></h1>
+    <div class="masthead-rule"></div>
+    <div class="masthead-tagline">Fågelfynd från Eksjö &amp; omnejd</div>
   </header>
 
   <nav>
@@ -260,8 +23,14 @@
     <a href="info.html">ℹ️ Om</a>
   </nav>
 
-  <main>
-    <div class="filter-row" id="filter-row">
+  <div class="issue-line">
+    <span>SENASTE OBSERVATIONER</span>
+    <span id="issue-date">—</span>
+  </div>
+
+  <div class="filter-section">
+    <span class="filter-label">Kommun</span>
+    <div id="filter-row">
       <button class="filter-btn active" data-filter="Alla">Alla</button>
       <button class="filter-btn" data-filter="Eksjö">Eksjö</button>
       <button class="filter-btn" data-filter="Nässjö">Nässjö</button>
@@ -269,67 +38,69 @@
       <button class="filter-btn" data-filter="Tranås">Tranås</button>
       <button class="filter-btn" data-filter="Vetlanda">Vetlanda</button>
     </div>
-    <div id="fagellista">Laddar observationer...</div>
+  </div>
+
+  <main>
+    <div id="fagellista">
+      <div class="loading-state">Laddar observationer…</div>
+    </div>
   </main>
 
   <footer>
-    &copy; 2025 Fjäderrapporten — Naturen är alltid närea.
+    <div>&copy; 2025 Fågelkollen &nbsp;·&nbsp; Data via <a href="https://www.artportalen.se/" target="_blank" rel="noopener">Artportalen</a></div>
+    <div class="footer-sub">Naturen är alltid nära.</div>
   </footer>
 
   <script>
-    // Vetlanda är tätort i Vaggeryd kommun — mappa filterlabel till kommunnamn
     const KOMMUNFILTER = {
-      "Alla":    null,
-      "Eksjö":   "Eksjö",
-      "Nässjö":  "Nässjö",
-      "Aneby":   "Aneby",
-      "Tranås":  "Tranås",
-      "Vetlanda":"Vetlanda"
+      "Alla":     null,
+      "Eksjö":    "Eksjö",
+      "Nässjö":   "Nässjö",
+      "Aneby":    "Aneby",
+      "Tranås":   "Tranås",
+      "Vetlanda": "Vetlanda"
     };
 
     let allData = [];
     let activeFilter = "Alla";
-
-    // --- Ljud (en källa i taget) ---
     let currentAudio = null;
     let currentBtn   = null;
+
+    document.getElementById("issue-date").textContent =
+      new Date().toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" }).toUpperCase();
 
     function toggleSound(url, btn) {
       if (currentAudio && currentBtn === btn) {
         currentAudio.pause();
         currentAudio = null;
         currentBtn.classList.remove("playing");
-        currentBtn.textContent = "🔊 Lyssna";
+        currentBtn.textContent = "♪ Lyssna";
         currentBtn = null;
         return;
       }
-
       if (currentAudio) {
         currentAudio.pause();
         currentBtn.classList.remove("playing");
-        currentBtn.textContent = "🔊 Lyssna";
+        currentBtn.textContent = "♪ Lyssna";
       }
-
       currentAudio = new Audio(url);
       currentAudio.play().catch(() => {
         btn.classList.remove("playing");
-        btn.textContent = "🔊 Lyssna";
+        btn.textContent = "♪ Lyssna";
         currentAudio = null;
         currentBtn = null;
       });
       currentBtn = btn;
       btn.classList.add("playing");
-      btn.textContent = "⏹ Stopp";
-
+      btn.textContent = "■ Stopp";
       currentAudio.addEventListener("ended", () => {
         btn.classList.remove("playing");
-        btn.textContent = "🔊 Lyssna";
+        btn.textContent = "♪ Lyssna";
         currentAudio = null;
         currentBtn = null;
       });
     }
 
-    // --- Filter ---
     document.getElementById("filter-row").addEventListener("click", (e) => {
       if (!e.target.classList.contains("filter-btn")) return;
       document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
@@ -339,101 +110,130 @@
     });
 
     function renderCards() {
-      // Ta bort gamla obs-card:n, behåll kikaren och install-hint
       document.querySelectorAll(".obs-card").forEach(el => el.remove());
 
-      const container   = document.getElementById("fagellista");
+      const container    = document.getElementById("fagellista");
       const kommunTarget = KOMMUNFILTER[activeFilter];
-      const filtered    = kommunTarget
-        ? allData.filter(obs => obs.kommun === kommunTarget)
+      const filtered     = kommunTarget
+        ? allData.filter(o => o.kommun === kommunTarget)
         : allData;
 
-      filtered.forEach(obs => {
+      filtered.forEach((obs, i) => {
         const d        = new Date(obs.datum);
         const datumStr = d.toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
         const tidStr   = d.toLocaleTimeString("sv-SE", { hour: "2-digit", minute: "2-digit" });
         const art      = obs.art.charAt(0).toUpperCase() + obs.art.slice(1);
         const plats    = obs.lokal || "Okänd plats";
-        const antalText = obs.antal > 1 ? ` — ${obs.antal} individer` : "";
 
         const card = document.createElement("div");
-        card.className = "observation obs-card";
+        card.className = "obs-card";
+        card.style.animationDelay = `${Math.min(i * 35, 400)}ms`;
+
+        const locationHTML = obs.googleMapsLank
+          ? `<a href="${obs.googleMapsLank}" target="_blank" rel="noopener noreferrer" class="obs-location-link">${plats}</a>`
+          : plats;
+
+        const countHTML = obs.antal > 1
+          ? `<span class="obs-count-pill">${obs.antal} ind.</span>`
+          : "";
+
+        const soundHTML = obs.ljud
+          ? `<button class="obs-sound-btn">♪ Lyssna</button>`
+          : "";
+
+        const imagePane = obs.bild
+          ? `<div class="obs-image-pane">
+               <a href="${obs.bild_lank}" target="_blank" rel="noopener">
+                 <img src="${obs.bild}" alt="${art}" loading="lazy" />
+               </a>
+             </div>`
+          : `<div class="obs-no-image">🐦</div>`;
 
         card.innerHTML = `
-          <h2>${art} <em>(${obs.scientificName})</em></h2>
-          ${obs.bild ? `
-            <a href="${obs.bild_lank}" target="_blank" rel="noopener">
-              <img src="${obs.bild}" alt="${art}" />
-            </a>
-          ` : ""}
-          <p>
-            ${obs.googleMapsLank
-              ? `<a href="${obs.googleMapsLank}" target="_blank" rel="noopener noreferrer"
-                    class="map-link" title="Visa på karta">📍 ${plats}</a>`
-              : `📍 ${plats}`
-            }
-            <span class="kommunbadge">${obs.kommun || ""}</span>
-          </p>
-          <p>🗓️ ${datumStr} kl. ${tidStr}${antalText}</p>
-          ${obs.ljud ? `<button class="ljud-btn">🔊 Lyssna</button>` : ""}
+          <div class="obs-main">
+            <div class="obs-species">${art}</div>
+            <div class="obs-scientific">${obs.scientificName}</div>
+            <div class="obs-meta">
+              <span class="obs-meta-item">📍 ${locationHTML}</span>
+              <span class="obs-kommune-pill">${obs.kommun || ""}</span>
+              ${countHTML}
+            </div>
+            <div class="obs-meta">
+              <span class="obs-meta-item">🗓 ${datumStr} &nbsp;${tidStr}</span>
+            </div>
+            ${soundHTML}
+          </div>
+          ${imagePane}
         `;
 
-        // Attach ljud-event efter att kortet är byggt
         if (obs.ljud) {
-          const btn = card.querySelector(".ljud-btn");
+          const btn = card.querySelector(".obs-sound-btn");
           btn.addEventListener("click", () => toggleSound(obs.ljud, btn));
         }
 
         container.appendChild(card);
       });
+
+      if (filtered.length === 0) {
+        const empty = document.createElement("div");
+        empty.className = "loading-state";
+        empty.textContent = "Inga fynd för vald kommun.";
+        container.appendChild(empty);
+      }
     }
 
     async function hamtaFaglar() {
       const res = await fetch("data/fagelfynd.json");
-      allData = await res.json();
+      allData   = await res.json();
       const container = document.getElementById("fagellista");
       container.innerHTML = "";
 
-      // Kikaren (nyheter)
+      // Kikaren
       try {
         const nyheterRes = await fetch("data/nyheter.json");
         const nyheter    = await nyheterRes.json();
         nyheter.sort((a, b) => new Date(b.datum) - new Date(a.datum));
 
         const kikaren = document.createElement("div");
-        kikaren.className = "observation kikaren";
+        kikaren.className = "kikaren";
 
-        const nyhetsHTML = nyheter.map(nyhet => `
-          <p class="kikaren-beskrivning">
-            <strong>${nyhet.datum}:</strong> ${nyhet.titel}
-            <a href="${nyhet.lank}" class="kikaren-lank">Läs mer</a>
-          </p>
+        const itemsHTML = nyheter.map(n => `
+          <div class="kikaren-item">
+            <strong>${n.datum}:</strong> ${n.titel}
+            <a href="${n.lank}">Läs mer →</a>
+          </div>
         `).join("");
 
         kikaren.innerHTML = `
-          <div class="kikaren-inner">
-            <img src="bilder/kikaren-ikon.png" alt="Kikaren" class="kikaren-ikon" />
-            <div class="kikaren-text">
-              <h2>Kikaren <span class="badge">TIPSET</span></h2>
-              ${nyhetsHTML}
-            </div>
+          <div class="kikaren-icon-wrap">🔭</div>
+          <div class="kikaren-body">
+            <div class="kikaren-badge">Tipset</div>
+            <div class="kikaren-title">Kikaren</div>
+            ${itemsHTML}
           </div>
         `;
         container.appendChild(kikaren);
-      } catch (e) {
-        // nyheter.json finns inte — hoppa över
-      }
+      } catch (e) { /* nyheter.json saknas */ }
 
       // Install hint
       const installHint = document.createElement("a");
       installHint.className = "install-hint";
-      installHint.href    = "howto.html";
-      installHint.target  = "_blank";
-      installHint.rel     = "noopener";
-      installHint.innerHTML = `<span class="install-text">Lägg till på hemskärmen så här...</span>`;
+      installHint.href   = "howto.html";
+      installHint.target = "_blank";
+      installHint.rel    = "noopener";
+      installHint.innerHTML = `<span>📲</span> Lägg till på hemskärmen — instruktioner här`;
       container.appendChild(installHint);
 
-      // Sortrera på datum (nyaste första)
+      // Section head
+      const sh = document.createElement("div");
+      sh.className = "section-head";
+      sh.innerHTML = `
+        <div class="section-head-line section-head-line--left"></div>
+        <div class="section-head-text">Senaste fynd</div>
+        <div class="section-head-line section-head-line--right"></div>
+      `;
+      container.appendChild(sh);
+
       allData.sort((a, b) => new Date(b.datum) - new Date(a.datum));
       renderCards();
     }
