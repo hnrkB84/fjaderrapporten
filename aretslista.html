@@ -7,147 +7,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <style>
-    /* ─── ARTLISTA-SPECIFIKT ────────────────── */
-    .arslista-header {
-      display: flex;
-      align-items: baseline;
-      gap: 1rem;
-      margin-bottom: 1.5rem;
-      flex-wrap: wrap;
-    }
-
-    .arslista-titel {
-      font-family: var(--font-serif);
-      font-size: 1.5rem;
-      font-weight: 700;
-      color: var(--forest);
-    }
-
-    .arslista-antal {
-      font-family: var(--font-sans);
-      font-size: 0.72rem;
-      font-weight: 700;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--sage);
-    }
-
-    /* ─── ARTRAD ────────────────────────────── */
-    .art-rad {
-      display: grid;
-      grid-template-columns: 2rem 1fr auto;
-      align-items: center;
-      gap: 0 1rem;
-      padding: 0.75rem 1.1rem;
-      background-color: var(--warm-white);
-      border: 1px solid rgba(0,0,0,0.07);
-      border-radius: 4px;
-      margin-bottom: 2px;
-      transition: border-color 0.2s, box-shadow 0.2s;
-      animation: fadeUp 0.3s ease both;
-    }
-
-    .art-rad:hover {
-      border-color: rgba(58,99,71,0.25);
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-      z-index: 1;
-      position: relative;
-    }
-
-    .art-nummer {
-      font-family: var(--font-sans);
-      font-size: 0.68rem;
-      font-weight: 700;
-      color: #ccc;
-      text-align: right;
-      letter-spacing: 0.05em;
-    }
-
-    .art-namn-wrap {
-      min-width: 0;
-    }
-
-    .art-namn {
-      font-family: var(--font-serif);
-      font-size: 1.05rem;
-      font-weight: 700;
-      color: var(--ink);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .art-lat {
-      font-family: var(--font-serif);
-      font-style: italic;
-      font-size: 0.75rem;
-      color: #bbb;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .art-meta {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 0.2rem;
-      flex-shrink: 0;
-    }
-
-    .art-datum {
-      font-family: var(--font-sans);
-      font-size: 0.72rem;
-      color: #888;
-      white-space: nowrap;
-    }
-
-    .art-plats {
-      font-family: var(--font-sans);
-      font-size: 0.65rem;
-      color: #bbb;
-      white-space: nowrap;
-      max-width: 140px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      text-align: right;
-    }
-
-    .art-kommune-pill {
-      display: inline-block;
-      font-size: 0.58rem;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--moss);
-      background-color: rgba(58,99,71,0.1);
-      padding: 0.1rem 0.4rem;
-      border-radius: 2px;
-    }
-
-    /* ─── NY ART-BADGE (visar om arten är ny för dagen) ── */
-    .art-ny-badge {
-      display: inline-block;
-      font-size: 0.55rem;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--accent);
-      background-color: rgba(193,127,59,0.12);
-      padding: 0.1rem 0.4rem;
-      border-radius: 2px;
-      margin-left: 0.4rem;
-      vertical-align: middle;
-    }
-
-    /* ─── STATISTIKRAD ──────────────────────── */
     .statistik-rad {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 0.5rem;
       margin-bottom: 1.8rem;
     }
-
     .statistik-kort {
       background-color: var(--warm-white);
       border: 1px solid rgba(0,0,0,0.07);
@@ -155,7 +20,6 @@
       padding: 1rem 1.1rem;
       text-align: center;
     }
-
     .statistik-siffra {
       font-family: var(--font-serif);
       font-size: 1.8rem;
@@ -164,7 +28,6 @@
       line-height: 1;
       margin-bottom: 0.25rem;
     }
-
     .statistik-label {
       font-family: var(--font-sans);
       font-size: 0.62rem;
@@ -173,22 +36,132 @@
       text-transform: uppercase;
       color: #aaa;
     }
-
-    /* ─── RESPONSIVITET ─────────────────────── */
+    .arslista-header {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+      margin-bottom: 1.2rem;
+      flex-wrap: wrap;
+    }
+    .arslista-titel {
+      font-family: var(--font-serif);
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--forest);
+    }
+    .arslista-antal {
+      font-family: var(--font-sans);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--sage);
+    }
+    .art-kort {
+      background-color: var(--warm-white);
+      border: 1px solid rgba(0,0,0,0.07);
+      border-radius: 4px;
+      margin-bottom: 2px;
+      display: grid;
+      grid-template-columns: 2.2rem 1fr auto;
+      overflow: hidden;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      position: relative;
+      animation: fadeUp 0.3s ease both;
+    }
+    .art-kort::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(to right, var(--moss), transparent);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .art-kort:hover { border-color: rgba(58,99,71,0.25); box-shadow: 0 2px 8px rgba(0,0,0,0.05); z-index: 1; }
+    .art-kort:hover::before { opacity: 1; }
+    .art-nr {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-sans);
+      font-size: 0.62rem;
+      font-weight: 700;
+      color: #ddd;
+      padding-left: 0.3rem;
+    }
+    .art-kropp {
+      padding: 0.95rem 0.9rem 0.95rem 0.3rem;
+      min-width: 0;
+    }
+    .art-namn {
+      font-family: var(--font-serif);
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--ink);
+      line-height: 1.2;
+      margin-bottom: 0.08rem;
+    }
+    .art-lat {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 0.75rem;
+      color: #bbb;
+      margin-bottom: 0.65rem;
+    }
+    .art-meta-rad {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 0.8rem;
+      align-items: center;
+      margin-bottom: 0.25rem;
+    }
+    .art-meta-item { font-family: var(--font-sans); font-size: 0.74rem; color: #666; }
+    .art-plats-link { color: #666; text-decoration: none; transition: color 0.2s; }
+    .art-plats-link:hover { color: var(--moss); }
+    .art-kommune-pill {
+      display: inline-block;
+      font-size: 0.59rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--moss);
+      background-color: rgba(58,99,71,0.1);
+      padding: 0.1rem 0.45rem;
+      border-radius: 2px;
+    }
+    .art-ny-badge {
+      display: inline-block;
+      font-size: 0.55rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      background-color: rgba(193,127,59,0.12);
+      padding: 0.1rem 0.45rem;
+      border-radius: 2px;
+      margin-left: 0.3rem;
+      vertical-align: middle;
+    }
+    .art-bild-pane { width: 90px; min-height: 90px; overflow: hidden; background-color: var(--parchment); }
+    .art-bild-pane a { display: block; width: 100%; height: 100%; }
+    .art-bild-pane img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease; }
+    .art-kort:hover .art-bild-pane img { transform: scale(1.06); }
+    .art-ingen-bild {
+      width: 90px;
+      min-height: 90px;
+      background-color: var(--parchment);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ccc;
+      font-size: 1.4rem;
+    }
     @media (max-width: 520px) {
-      .art-rad {
-        grid-template-columns: 1.6rem 1fr auto;
-        padding: 0.65rem 0.85rem;
-        gap: 0 0.7rem;
-      }
-
-      .art-namn { font-size: 0.95rem; }
-
-      .art-plats { max-width: 90px; }
-
       .statistik-siffra { font-size: 1.4rem; }
-
-      .statistik-kort { padding: 0.75rem 0.6rem; }
+      .statistik-kort { padding: 0.75rem 0.5rem; }
+      .art-bild-pane, .art-ingen-bild { width: 72px; min-height: 72px; }
+      .art-namn { font-size: 1rem; }
     }
   </style>
 </head>
@@ -230,54 +203,31 @@
     document.getElementById("issue-date").textContent =
       new Date().toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" }).toUpperCase();
 
-    // Kollar om en observation är ny (sedd idag eller igår)
     function arNy(datum) {
-      const nu   = new Date();
-      const obs  = new Date(datum);
-      const diff = (nu - obs) / (1000 * 60 * 60 * 24);
-      return diff < 2;
+      return (Date.now() - new Date(datum)) / (1000 * 60 * 60 * 24) < 2;
     }
 
     async function byggArslista() {
       const container = document.getElementById("arslista-innehall");
-
       let data;
       try {
-        const res = await fetch("data/fagelfynd.json");
+        const res = await fetch("data/aretslista.json");
         data = await res.json();
       } catch (e) {
-        container.innerHTML = `<div class="loading-state">Kunde inte ladda data.</div>`;
+        container.innerHTML = '<div class="loading-state">Kunde inte ladda data.</div>';
         return;
       }
 
-      // Filtrera på år
-      const obs2026 = data.filter(obs => {
-        return new Date(obs.datum).getFullYear() === AR;
-      });
-
-      // Deduplicera per art — behåll senast sedd
-      const artMap = {};
-      for (const obs of obs2026) {
-        const key = obs.scientificName || obs.art;
-        if (!artMap[key] || new Date(obs.datum) > new Date(artMap[key].datum)) {
-          artMap[key] = obs;
-        }
-      }
-
-      // Sortera på datum, nyaste först
-      const unikaArter = Object.values(artMap);
-      unikaArter.sort((a, b) => new Date(b.datum) - new Date(a.datum));
-
-      // Statistik
-      const kommunSet = new Set(obs2026.map(o => o.kommun).filter(Boolean));
-      const senastObs = unikaArter[0];
-      const senastDatum = senastObs
-        ? new Date(senastObs.datum).toLocaleDateString("sv-SE", { day: "numeric", month: "short" })
+      // aretslista.json är redan deduplicerad och sorterad av Python
+      const unikaArter = data;
+      const kommunSet  = new Set(data.map(o => o.kommun).filter(Boolean));
+      const senastDatum = unikaArter.length
+        ? new Date(unikaArter[0].datum).toLocaleDateString("sv-SE", { day: "numeric", month: "short" })
         : "—";
 
       container.innerHTML = "";
 
-      // Statistikkort
+      // Statistik
       const statRad = document.createElement("div");
       statRad.className = "statistik-rad";
       statRad.innerHTML = `
@@ -296,49 +246,55 @@
       `;
       container.appendChild(statRad);
 
+      if (unikaArter.length === 0) {
+        const tom = document.createElement("div");
+        tom.className = "loading-state";
+        tom.textContent = "Inga fynd registrerade för " + AR + " ännu.";
+        container.appendChild(tom);
+        return;
+      }
+
       // Rubrik
       const rubrik = document.createElement("div");
       rubrik.className = "arslista-header";
-      rubrik.innerHTML = `
-        <div class="arslista-titel">Sedda arter ${AR}</div>
-        <div class="arslista-antal">${unikaArter.length} arter · sorterat på senast sedd</div>
-      `;
+      rubrik.innerHTML =
+        '<div class="arslista-titel">Sedda arter ' + AR + '</div>' +
+        '<div class="arslista-antal">' + unikaArter.length + ' arter · senast sedd först</div>';
       container.appendChild(rubrik);
 
-      // Artlistans rader
-      unikaArter.forEach((obs, i) => {
-        const art    = obs.art.charAt(0).toUpperCase() + obs.art.slice(1);
-        const plats  = obs.lokal || "Okänd plats";
-        const d      = new Date(obs.datum);
-        const datum  = d.toLocaleDateString("sv-SE", { day: "numeric", month: "short", year: "numeric" });
-        const ny     = arNy(obs.datum);
+      // Kort per art
+      unikaArter.forEach(function(obs, i) {
+        const art   = obs.art.charAt(0).toUpperCase() + obs.art.slice(1);
+        const plats = obs.lokal || "Okänd plats";
+        const d     = new Date(obs.datum);
+        const datum = d.toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
+        const tid   = d.toLocaleTimeString("sv-SE", { hour: "2-digit", minute: "2-digit" });
+        const ny    = arNy(obs.datum);
 
-        const rad = document.createElement("div");
-        rad.className = "art-rad";
-        rad.style.animationDelay = `${Math.min(i * 25, 500)}ms`;
+        const platsHTML = obs.googleMapsLank
+          ? '<a href="' + obs.googleMapsLank + '" target="_blank" rel="noopener" class="art-plats-link">📍 ' + plats + '</a>'
+          : '📍 ' + plats;
 
-        rad.innerHTML = `
-          <div class="art-nummer">${i + 1}</div>
-          <div class="art-namn-wrap">
-            <div class="art-namn">
-              ${art}
-              ${ny ? `<span class="art-ny-badge">Ny</span>` : ""}
-            </div>
-            <div class="art-lat">${obs.scientificName}</div>
-          </div>
-          <div class="art-meta">
-            <div class="art-datum">${datum}</div>
-            <div class="art-plats">${plats}</div>
-            <div><span class="art-kommune-pill">${obs.kommun || ""}</span></div>
-          </div>
-        `;
+        const bildPane = obs.bild
+          ? '<div class="art-bild-pane"><a href="' + obs.bild_lank + '" target="_blank" rel="noopener"><img src="' + obs.bild + '" alt="' + art + '" loading="lazy" /></a></div>'
+          : '<div class="art-ingen-bild">🐦</div>';
 
-        container.appendChild(rad);
+        const kort = document.createElement("div");
+        kort.className = "art-kort";
+        kort.style.animationDelay = Math.min(i * 25, 600) + "ms";
+
+        kort.innerHTML =
+          '<div class="art-nr">' + (i + 1) + '</div>' +
+          '<div class="art-kropp">' +
+            '<div class="art-namn">' + art + (ny ? '<span class="art-ny-badge">Ny</span>' : '') + '</div>' +
+            '<div class="art-lat">' + obs.scientificName + '</div>' +
+            '<div class="art-meta-rad"><span class="art-meta-item">' + platsHTML + '</span><span class="art-kommune-pill">' + (obs.kommun || "") + '</span></div>' +
+            '<div class="art-meta-rad"><span class="art-meta-item">🗓 ' + datum + ' &nbsp;' + tid + '</span></div>' +
+          '</div>' +
+          bildPane;
+
+        container.appendChild(kort);
       });
-
-      if (unikaArter.length === 0) {
-        container.innerHTML = `<div class="loading-state">Inga fynd registrerade för ${AR} ännu.</div>`;
-      }
     }
 
     window.addEventListener("DOMContentLoaded", byggArslista);
