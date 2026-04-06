@@ -110,7 +110,7 @@
     });
 
     function renderCards() {
-      document.querySelectorAll(".obs-card").forEach(el => el.remove());
+      document.querySelectorAll(".obs-card, .empty-state").forEach(el => el.remove());
 
       const container    = document.getElementById("fagellista");
       const kommunTarget = KOMMUNFILTER[activeFilter];
@@ -176,7 +176,7 @@
 
       if (filtered.length === 0) {
         const empty = document.createElement("div");
-        empty.className = "loading-state";
+        empty.className = "loading-state empty-state";
         empty.textContent = "Inga fynd för vald kommun.";
         container.appendChild(empty);
       }
