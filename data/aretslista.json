@@ -1,5 +1,305 @@
 [
   {
+    "art": "fisktärna",
+    "scientificName": "Sterna hirundo",
+    "datum": "2026-09-09T09:42:00+02:00",
+    "lokal": "Soludden /Spexhultssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Soludden+%2FSpexhultssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "storlom",
+    "scientificName": "Gavia arctica",
+    "datum": "2026-09-09T09:42:00+02:00",
+    "lokal": "Soludden /Spexhultssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gavia_arctica_%28Black-throated_Loon_or_Black-throated_Diver%29_on_nest.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_arctica_(Black-throated_Loon_or_Black-throated_Diver)_on_nest.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Soludden+%2FSpexhultssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ladusvala",
+    "scientificName": "Hirundo rustica",
+    "datum": "2026-09-08T17:51:00+02:00",
+    "lokal": "Norrhaga Spexhult, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hirundo_rustica_Ormoz.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_Ormoz.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrhaga+Spexhult%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "mindre hackspett",
+    "scientificName": "Dryobates minor",
+    "datum": "2026-09-08T17:51:00+02:00",
+    "lokal": "Norrhaga Spexhult, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrhaga+Spexhult%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "turkduva",
+    "scientificName": "Streptopelia decaocto",
+    "datum": "2026-09-08T17:27:00+02:00",
+    "lokal": "Ulfsparregatan , Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ulfsparregatan+%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "skata",
+    "scientificName": "Pica pica",
+    "datum": "2026-09-08T15:18:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ringduva",
+    "scientificName": "Columba palumbus",
+    "datum": "2026-09-08T15:16:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Wood_Pigeon_facing_left.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "koltrast",
+    "scientificName": "Turdus merula",
+    "datum": "2026-09-08T15:12:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "taltrast",
+    "scientificName": "Turdus philomelos",
+    "datum": "2026-09-08T14:54:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Song_thrush_%28Turdus_philomelos_philomelos%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Song_thrush_(Turdus_philomelos_philomelos).jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "sädesärla",
+    "scientificName": "Motacilla alba",
+    "datum": "2026-09-08T14:32:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bachstelze_%28motacilla_alba%29_auf_Singwarte_-_Spiekeroog%2C_Nationalpark_nieders%C3%A4chsisches_Wattenmeer.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bachstelze_(motacilla_alba)_auf_Singwarte_-_Spiekeroog,_Nationalpark_niedersächsisches_Wattenmeer.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gröngöling",
+    "scientificName": "Picus viridis",
+    "datum": "2026-09-08T14:32:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%D0%96%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%28Picus_viridis%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Жовна_зелена_(Picus_viridis).jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gråkråka",
+    "scientificName": "Corvus corone cornix",
+    "datum": "2026-09-08T14:32:00+02:00",
+    "lokal": "Barkerydssjön, Sm",
+    "kommun": "Nässjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "tofsvipa",
+    "scientificName": "Vanellus vanellus",
+    "datum": "2026-09-08T14:30:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gråhäger",
+    "scientificName": "Ardea cinerea",
+    "datum": "2026-09-08T14:30:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ardea_cinerea_2013-09-16.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ägretthäger",
+    "scientificName": "Ardea alba",
+    "datum": "2026-09-08T14:30:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": null,
+    "bild_lank": null,
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "brushane",
+    "scientificName": "Calidris pugnax",
+    "datum": "2026-09-08T14:30:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Calidris_pugnax_pugnax_MHNT.ZOO.2010.11.117.6.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris_pugnax_pugnax_MHNT.ZOO.2010.11.117.6.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "lärkfalk",
+    "scientificName": "Falco subbuteo",
+    "datum": "2026-09-08T14:30:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hobby_%28Falco_subbuteo%29_juvenile_Danube_delta.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hobby_(Falco_subbuteo)_juvenile_Danube_delta.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "gräsand",
+    "scientificName": "Anas platyrhynchos",
+    "datum": "2026-09-08T12:40:00+02:00",
+    "lokal": "Åsvallehult, Tranås, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85svallehult%2C+Tran%C3%A5s%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "sothöna",
+    "scientificName": "Fulica atra",
+    "datum": "2026-09-08T12:40:00+02:00",
+    "lokal": "Åsvallehult, Tranås, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85svallehult%2C+Tran%C3%A5s%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "forsärla",
+    "scientificName": "Motacilla cinerea",
+    "datum": "2026-09-08T12:40:00+02:00",
+    "lokal": "Åsvallehult, Tranås, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85svallehult%2C+Tran%C3%A5s%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "strandskata",
+    "scientificName": "Haematopus ostralegus",
+    "datum": "2026-09-08T12:10:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "ormvråk",
+    "scientificName": "Buteo buteo",
+    "datum": "2026-09-08T12:00:00+02:00",
+    "lokal": "Holmadalen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Holmadalen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "fiskgjuse",
+    "scientificName": "Pandion haliaetus",
+    "datum": "2026-09-08T11:00:00+02:00",
+    "lokal": "Mellby badplats, Solgen, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0f/OspreyNASA.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:OspreyNASA.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "kärrsnäppa",
+    "scientificName": "Calidris alpina",
+    "datum": "2026-09-08T10:40:00+02:00",
+    "lokal": "Norrbyviken, Sm",
+    "kommun": "Eksjö",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Calidris-alpina-001_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris-alpina-001_edit.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrbyviken%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "större strandpipare",
+    "scientificName": "Charadrius hiaticula",
+    "datum": "2026-09-08T10:40:00+02:00",
+    "lokal": "Norrbyviken, Sm",
+    "kommun": "Eksjö",
+    "bild": null,
+    "bild_lank": null,
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrbyviken%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
+  },
+  {
     "art": "kricka",
     "scientificName": "Anas crecca",
     "datum": "2026-09-08T10:02:00+02:00",
@@ -36,30 +336,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%B6rabyviken%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "fisktärna",
-    "scientificName": "Sterna hirundo",
-    "datum": "2026-09-08T09:40:00+02:00",
-    "lokal": "Soludden /Spexhultssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_tern_landing_on_a_branch.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_tern_landing_on_a_branch.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Soludden+%2FSpexhultssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "sädesärla",
-    "scientificName": "Motacilla alba",
-    "datum": "2026-09-08T09:29:00+02:00",
-    "lokal": "Lunbyy åkrar, Vrigstad, Sm",
-    "kommun": "Sävsjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bachstelze_%28motacilla_alba%29_auf_Singwarte_-_Spiekeroog%2C_Nationalpark_nieders%C3%A4chsisches_Wattenmeer.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Bachstelze_(motacilla_alba)_auf_Singwarte_-_Spiekeroog,_Nationalpark_niedersächsisches_Wattenmeer.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Lunbyy+%C3%A5krar%2C+Vrigstad%2C+Sm%2C+S%C3%A4vsj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "stenskvätta",
     "scientificName": "Oenanthe oenanthe",
     "datum": "2026-09-08T09:28:00+02:00",
@@ -67,18 +343,6 @@
     "kommun": "Sävsjö",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brown_rock_chat_%28Oenanthe_fusca%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Brown_rock_chat_(Oenanthe_fusca).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Lunbyy+%C3%A5krar%2C+Vrigstad%2C+Sm%2C+S%C3%A4vsj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "tofsvipa",
-    "scientificName": "Vanellus vanellus",
-    "datum": "2026-09-08T09:27:00+02:00",
-    "lokal": "Lunbyy åkrar, Vrigstad, Sm",
-    "kommun": "Sävsjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Lunbyy+%C3%A5krar%2C+Vrigstad%2C+Sm%2C+S%C3%A4vsj%C3%B6%2C+Sverige"
@@ -108,18 +372,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "gråhäger",
-    "scientificName": "Ardea cinerea",
-    "datum": "2026-09-08T09:20:00+02:00",
-    "lokal": "Mellby badplats, Solgen, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ardea_cinerea_2013-09-16.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "bläsand",
     "scientificName": "Mareca penelope",
     "datum": "2026-09-08T09:20:00+02:00",
@@ -132,42 +384,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "ägretthäger",
-    "scientificName": "Ardea alba",
-    "datum": "2026-09-08T09:20:00+02:00",
-    "lokal": "Mellby badplats, Solgen, Sm",
-    "kommun": "Eksjö",
-    "bild": null,
-    "bild_lank": null,
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "brushane",
-    "scientificName": "Calidris pugnax",
-    "datum": "2026-09-08T09:20:00+02:00",
-    "lokal": "Mellby badplats, Solgen, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Calidris_pugnax_pugnax_MHNT.ZOO.2010.11.117.6.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris_pugnax_pugnax_MHNT.ZOO.2010.11.117.6.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ormvråk",
-    "scientificName": "Buteo buteo",
-    "datum": "2026-09-08T09:11:00+02:00",
-    "lokal": "Ladan Lundholmen, Vrigstad, Sm",
-    "kommun": "Sävsjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buteo_buteo_juv_Log_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Buteo_buteo_juv_Log_(2).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ladan+Lundholmen%2C+Vrigstad%2C+Sm%2C+S%C3%A4vsj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "brun kärrhök",
     "scientificName": "Circus aeruginosus",
     "datum": "2026-09-08T09:02:00+02:00",
@@ -178,6 +394,138 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Klostret%2C+Sunnerbysj%C3%B6n%2C+Sm%2C+S%C3%A4vsj%C3%B6%2C+Sverige"
+  },
+  {
+    "art": "röd glada",
+    "scientificName": "Milvus milvus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "sparvhök",
+    "scientificName": "Accipiter nisus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "havsörn",
+    "scientificName": "Haliaeetus albicilla",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fighting_white-tailed_eagles_%28Haliaeetus_albicilla%29_%282%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "stenfalk",
+    "scientificName": "Falco columbarius",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": null,
+    "bild_lank": null,
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "skedand",
+    "scientificName": "Spatula clypeata",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Säbysjön, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/70/Northern_shoveler_pair_in_Marine_Park_%2833233%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_pair_in_Marine_Park_(33233).jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "bivråk",
+    "scientificName": "Pernis apivorus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pernis_apivorus_MHNT.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pernis_apivorus_MHNT.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "sångsvan",
+    "scientificName": "Cygnus cygnus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Säbysjön, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "sävsparv",
+    "scientificName": "Emberiza schoeniclus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Säbysjön, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/94/Common_reed_bunting_%28Emberiza_schoeniclus%29_male_breeding_plumage_3.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_reed_bunting_(Emberiza_schoeniclus)_male_breeding_plumage_3.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "pilgrimsfalk",
+    "scientificName": "Falco peregrinus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/93/Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "vattenrall",
+    "scientificName": "Rallus aquaticus",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Säbysjön, Piren, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Water_rail_2022_04_30_01.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Water_rail_2022_04_30_01.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Piren%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
+  },
+  {
+    "art": "varfågel",
+    "scientificName": "Lanius excubitor",
+    "datum": "2026-09-08T00:00:00+02:00",
+    "lokal": "Restad gård, Sm",
+    "kommun": "Tranås",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
+    "ljud": null,
+    "ljud_lank": null,
+    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
   },
   {
     "art": "hämpling",
@@ -228,54 +576,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Is%C3%A5sa+%C3%A4ngsmarker%2C+Is%C3%A5sa%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
-    "art": "ladusvala",
-    "scientificName": "Hirundo rustica",
-    "datum": "2026-09-07T17:00:00+02:00",
-    "lokal": "Isåsa ängsmarker, Isåsa, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hirundo_rustica_Ormoz.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_Ormoz.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Is%C3%A5sa+%C3%A4ngsmarker%2C+Is%C3%A5sa%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "röd glada",
-    "scientificName": "Milvus milvus",
-    "datum": "2026-09-07T17:00:00+02:00",
-    "lokal": "Isåsa ängsmarker, Isåsa, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Milvus_migrans_head.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_head.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Is%C3%A5sa+%C3%A4ngsmarker%2C+Is%C3%A5sa%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "storlom",
-    "scientificName": "Gavia arctica",
-    "datum": "2026-09-07T16:15:00+02:00",
-    "lokal": "Spexhultssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gavia_arctica_%28Black-throated_Loon_or_Black-throated_Diver%29_on_nest.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Gavia_arctica_(Black-throated_Loon_or_Black-throated_Diver)_on_nest.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Spexhultssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "skata",
-    "scientificName": "Pica pica",
-    "datum": "2026-09-07T14:52:00+02:00",
-    "lokal": "Barkerydssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madagascar_magpie-robin_%28Copsychus_albospecularis_pica%29_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Madagascar_magpie-robin_(Copsychus_albospecularis_pica)_female.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "tamduva",
     "scientificName": "Columba livia, domesticated populations",
     "datum": "2026-09-07T14:47:00+02:00",
@@ -307,30 +607,6 @@
     "kommun": "Nässjö",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dendrocopos_major_juv_Vrhnika.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_juv_Vrhnika.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gröngöling",
-    "scientificName": "Picus viridis",
-    "datum": "2026-09-07T14:08:00+02:00",
-    "lokal": "Barkerydssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%D0%96%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%28Picus_viridis%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Жовна_зелена_(Picus_viridis).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "gräsand",
-    "scientificName": "Anas platyrhynchos",
-    "datum": "2026-09-07T13:53:00+02:00",
-    "lokal": "Barkerydssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anas_platyrhynchos_male_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg",
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
@@ -564,18 +840,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Hunnerstad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "fiskgjuse",
-    "scientificName": "Pandion haliaetus",
-    "datum": "2026-09-07T10:38:00+02:00",
-    "lokal": "Stora gärdet, Ryningsholm, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0f/OspreyNASA.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:OspreyNASA.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stora+g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "ljungpipare",
     "scientificName": "Pluvialis apricaria",
     "datum": "2026-09-07T09:50:00+02:00",
@@ -600,30 +864,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "sparvhök",
-    "scientificName": "Accipiter nisus",
-    "datum": "2026-09-07T09:30:00+02:00",
-    "lokal": "Långsjödiket, Ryningsholm, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/17/Accipiter_nisus_edit.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_edit.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=L%C3%A5ngsj%C3%B6diket%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "havsörn",
-    "scientificName": "Haliaeetus albicilla",
-    "datum": "2026-09-07T00:00:00+02:00",
-    "lokal": "Säbysjön, Piren, Sm",
-    "kommun": "Tranås",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fighting_white-tailed_eagles_%28Haliaeetus_albicilla%29_%282%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Piren%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
-  },
-  {
     "art": "duvhök",
     "scientificName": "Astur gentilis",
     "datum": "2026-09-07T00:00:00+02:00",
@@ -646,42 +886,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
-  },
-  {
-    "art": "lärkfalk",
-    "scientificName": "Falco subbuteo",
-    "datum": "2026-09-07T00:00:00+02:00",
-    "lokal": "Restad gård, Sm",
-    "kommun": "Tranås",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hobby_%28Falco_subbuteo%29_juvenile_Danube_delta.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Hobby_(Falco_subbuteo)_juvenile_Danube_delta.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
-  },
-  {
-    "art": "stenfalk",
-    "scientificName": "Falco columbarius",
-    "datum": "2026-09-07T00:00:00+02:00",
-    "lokal": "Restad gård, Sm",
-    "kommun": "Tranås",
-    "bild": null,
-    "bild_lank": null,
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Restad+g%C3%A5rd%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
-  },
-  {
-    "art": "skedand",
-    "scientificName": "Spatula clypeata",
-    "datum": "2026-09-07T00:00:00+02:00",
-    "lokal": "Säbysjön, Piren, Sm",
-    "kommun": "Tranås",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/7/70/Northern_shoveler_pair_in_Marine_Park_%2833233%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_pair_in_Marine_Park_(33233).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Piren%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
   },
   {
     "art": "vaktel",
@@ -718,18 +922,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Applarp++N%C3%A4ssj%C3%B6%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "bivråk",
-    "scientificName": "Pernis apivorus",
-    "datum": "2026-09-06T11:30:00+02:00",
-    "lokal": "Blankefall, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pernis_apivorus_MHNT.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Pernis_apivorus_MHNT.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Blankefall%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
     "art": "grå flugsnappare",
@@ -778,18 +970,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=J%C3%A4rnv%C3%A4gsgatan+3A%2C+Anneberg%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "mindre hackspett",
-    "scientificName": "Dryobates minor",
-    "datum": "2026-09-06T10:00:00+02:00",
-    "lokal": "Åberga, Markestad, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/2/24/PicoidesMinorBack.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:PicoidesMinorBack.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=%C3%85berga%2C+Markestad%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "bofink",
@@ -900,18 +1080,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "sångsvan",
-    "scientificName": "Cygnus cygnus",
-    "datum": "2026-09-06T09:17:00+02:00",
-    "lokal": "Torsberg, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Cygne_tuberculé_juvénile_(Cygnus_olor)_-_tête_(1).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "nötskrika",
     "scientificName": "Garrulus glandarius",
     "datum": "2026-09-06T09:17:00+02:00",
@@ -934,18 +1102,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "ringduva",
-    "scientificName": "Columba palumbus",
-    "datum": "2026-09-06T09:09:00+02:00",
-    "lokal": "Stora gärdet, Ryningsholm, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Wood_Pigeon_facing_left.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Stora+g%C3%A4rdet%2C+Ryningsholm%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "kungsfågel",
@@ -984,18 +1140,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skuruk%C3%A4lla%2C+Skurugata+naturreservat%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "gråkråka",
-    "scientificName": "Corvus corone cornix",
-    "datum": "2026-09-05T15:23:00+02:00",
-    "lokal": "Hästsjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Corvus_corone_cornix_MHNT.ZOO.2010.11.175.4.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%A4stsj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "björktrast",
     "scientificName": "Turdus pilaris",
     "datum": "2026-09-05T14:49:00+02:00",
@@ -1006,18 +1150,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingsbergssj%C3%B6n%2C+N%C3%A4ssj%C3%B6%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "turkduva",
-    "scientificName": "Streptopelia decaocto",
-    "datum": "2026-09-05T13:22:00+02:00",
-    "lokal": "Sunagården, Sm",
-    "kommun": "Sävsjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eurasian_collared_dove_%28Streptopelia_decaocto%29_Rajasthan.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_collared_dove_(Streptopelia_decaocto)_Rajasthan.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Sunag%C3%A5rden%2C+Sm%2C+S%C3%A4vsj%C3%B6%2C+Sverige"
   },
   {
     "art": "enkelbeckasin",
@@ -1032,30 +1164,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Torsberg%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
-    "art": "sothöna",
-    "scientificName": "Fulica atra",
-    "datum": "2026-09-05T12:34:00+02:00",
-    "lokal": "Ingsbergssjön, Nässjö, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingsbergssj%C3%B6n%2C+N%C3%A4ssj%C3%B6%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "forsärla",
-    "scientificName": "Motacilla cinerea",
-    "datum": "2026-09-05T11:27:00+02:00",
-    "lokal": "Mellby badplats, Solgen, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "småskrake",
     "scientificName": "Mergus serrator",
     "datum": "2026-09-05T11:27:00+02:00",
@@ -1063,18 +1171,6 @@
     "kommun": "Eksjö",
     "bild": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Red-breasted_merganser_female_in_CP_%2840744%29.jpg",
     "bild_lank": "https://commons.wikimedia.org/wiki/File:Red-breasted_merganser_female_in_CP_(40744).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "kärrsnäppa",
-    "scientificName": "Calidris alpina",
-    "datum": "2026-09-05T11:27:00+02:00",
-    "lokal": "Mellby badplats, Solgen, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Calidris-alpina-001_edit.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Calidris-alpina-001_edit.jpg",
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Mellby+badplats%2C+Solgen%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
@@ -1114,18 +1210,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Ingsbergssj%C3%B6n%2C+N%C3%A4ssj%C3%B6%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "större strandpipare",
-    "scientificName": "Charadrius hiaticula",
-    "datum": "2026-09-05T10:30:00+02:00",
-    "lokal": "Norrbyviken, Sm",
-    "kommun": "Eksjö",
-    "bild": null,
-    "bild_lank": null,
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Norrbyviken%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
   },
   {
     "art": "törnskata",
@@ -1236,18 +1320,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Piren%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
   },
   {
-    "art": "strandskata",
-    "scientificName": "Haematopus ostralegus",
-    "datum": "2026-09-02T17:15:00+02:00",
-    "lokal": "Göjjes torn, Vässledasjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/43/Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=G%C3%B6jjes+torn%2C+V%C3%A4ssledasj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "svartvit flugsnappare",
     "scientificName": "Ficedula hypoleuca",
     "datum": "2026-09-02T11:01:00+02:00",
@@ -1318,18 +1390,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%A4tte+udde%2C+sj%C3%B6n+Sommen%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
-  },
-  {
-    "art": "sävsparv",
-    "scientificName": "Emberiza schoeniclus",
-    "datum": "2026-09-01T13:50:00+02:00",
-    "lokal": "Göjjes torn, Vässledasjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/94/Common_reed_bunting_%28Emberiza_schoeniclus%29_male_breeding_plumage_3.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_reed_bunting_(Emberiza_schoeniclus)_male_breeding_plumage_3.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=G%C3%B6jjes+torn%2C+V%C3%A4ssledasj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
     "art": "blåhake",
@@ -1500,18 +1560,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
-    "art": "taltrast",
-    "scientificName": "Turdus philomelos",
-    "datum": "2026-08-29T10:24:00+02:00",
-    "lokal": "Barkerydssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/6/62/Song_thrush_%28Turdus_philomelos_philomelos%29.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Song_thrush_(Turdus_philomelos_philomelos).jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "sävsångare",
     "scientificName": "Acrocephalus schoenobaenus",
     "datum": "2026-08-29T10:04:00+02:00",
@@ -1536,18 +1584,6 @@
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Skogslund%2C+R%C3%B6dja+by%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
-    "art": "pilgrimsfalk",
-    "scientificName": "Falco peregrinus",
-    "datum": "2026-08-28T14:38:00+02:00",
-    "lokal": "Hästhagen, Höreda, Sm",
-    "kommun": "Eksjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/9/93/Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_MHNT.ZOO.2010.11.102.1.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=H%C3%A4sthagen%2C+H%C3%B6reda%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
     "art": "calidrisvadare",
     "scientificName": "Calidris",
     "datum": "2026-08-28T12:29:00+02:00",
@@ -1558,18 +1594,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Solg%C3%B6%2C+Bj%C3%B6rn%C3%A5sa%2C+Sm%2C+Eksj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "koltrast",
-    "scientificName": "Turdus merula",
-    "datum": "2026-08-27T10:02:00+02:00",
-    "lokal": "Barkerydssjön, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/8/87/Common_Blackbird_%28Turdus_merula_mauritanicus%29_female.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_(Turdus_merula_mauritanicus)_female.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Barkerydssj%C3%B6n%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
     "art": "grönsiska",
@@ -1642,18 +1666,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Grimsberg%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
-  },
-  {
-    "art": "vattenrall",
-    "scientificName": "Rallus aquaticus",
-    "datum": "2026-08-23T09:33:00+02:00",
-    "lokal": "Säbysjön, Piren, Sm",
-    "kommun": "Tranås",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Water_rail_2022_04_30_01.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Water_rail_2022_04_30_01.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=S%C3%A4bysj%C3%B6n%2C+Piren%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
   },
   {
     "art": "rödbena",
@@ -2626,18 +2638,6 @@
     "ljud": null,
     "ljud_lank": null,
     "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Nostorp%2C+Sm%2C+Tran%C3%A5s%2C+Sverige"
-  },
-  {
-    "art": "varfågel",
-    "scientificName": "Lanius excubitor",
-    "datum": "2026-04-10T12:03:00+02:00",
-    "lokal": "Spexhult Norrhaga, Sm",
-    "kommun": "Nässjö",
-    "bild": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
-    "bild_lank": "https://commons.wikimedia.org/wiki/File:Lanius_excubitor_MHNT.ZOO.2010.11.212.jpg",
-    "ljud": null,
-    "ljud_lank": null,
-    "googleMapsLank": "https://www.google.com/maps/search/?api=1&query=Spexhult+Norrhaga%2C+Sm%2C+N%C3%A4ssj%C3%B6%2C+Sverige"
   },
   {
     "art": "sidensvans",
